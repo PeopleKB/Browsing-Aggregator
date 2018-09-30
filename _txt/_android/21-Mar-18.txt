@@ -1,0 +1,1670 @@
+I recovered the following tabs using instructions from https://developers.google.com/web/tools/chrome-devtools/remote-debugging/#debug
+
+What Unites Uber’s Collision and Facebook’s Shame - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/03/ubers-collision-facebooks-disgrace/556340/
+
+Waking Up Podcast #121 — White Power | Sam Harris
+https://samharris.org/podcasts/121-white-power/
+
+Sway Hackathon | Indiegogo
+https://www.indiegogo.com/projects/sway-hackathon-software#/updates/all
+
+Achtung! Decentralize, decentralize, decentralize! | Drew DeVault’s Blog
+https://drewdevault.com/2018/03/24/Decentralize-decentralize-decentralize.html
+
+Google's Algorithm: History of Racism Against Black Women | Time
+http://time.com/5209144/google-search-engine-algorithm-bias-racism/
+
+Text2MindMap
+https://tobloef.com/text2mindmap/
+
+The most important skill in software development
+https://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/
+
+Ask HN: Any recommended resources to develop system thinking? | Hacker News
+https://news.ycombinator.com/item?id=16704850
+
+Nerdfighteria
+http://www.nerdfighteria.com/
+
+Xonsh is no longer a possible replacement for zsh | Dog Is My Copilot
+http://www.skepticism.us/2015/11/xonsh-is-no-longer-a-possible-replacement-for-zsh/
+
+Martin Luther King Jr. Was a Master Television Producer - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/04/televisions-civil-rights-revolution/554639/
+
+Did Jesus Have a Wife? - The Atlantic
+https://www.theatlantic.com/magazine/archive/2016/07/the-unbelievable-tale-of-jesus-wife/485573/
+
+Ask HN: Any recommended resources to develop system thinking? | Hacker News
+https://news.ycombinator.com/item?id=16704850
+
+#DeleteFacebook – Mastodon Blog – Medium
+https://medium.com/tootsuite/deletefacebook-fafdc4090307
+
+Nerdfighteria
+http://www.nerdfighteria.com/
+
+m.facebook.com
+https://m.facebook.com/story.php?story_fbid=10154744207677303&id=2070181230…752261292303&notif_t=comment_mention&notif_id=1511579092940402&ref=m_notif
+
+Are statecharts the next big UI paradigm?
+https://www.slideshare.net/mobile/lmatteis/are-statecharts-the-next-big-ui-paradigm
+
+Graph Algorithm Playground
+https://mikedombo.github.io/graphPlayground/
+
+Two Concepts of Freedom of Speech - The Atlantic
+https://www.theatlantic.com/politics/archive/2017/12/two-concepts-of-freedom-of-speech/546791/
+
+Initiatives/Wayland/SessionStart - GNOME Wiki!
+https://wiki.gnome.org/Initiatives/Wayland/SessionStart
+
+Inside Rural America's Higher-Education Epidemic - The Atlantic
+https://www.theatlantic.com/education/archive/2017/12/rural-americas-higher-education-problem/547325/
+
+medium.com
+https://medium.com/@tswriting/nothing-is-real-anymore-116945eacb45
+
+Carl Sagan | Patrick F. Clarkin, Ph.D.
+https://kevishere.com/tag/carl-sagan/
+
+February | 2013 | The Advanced Apes | Page 2
+https://theadvancedapes.wordpress.com/2013/02/page/2/
+
+Svbtle
+https://svbtle.com/
+
+hubski.com
+http://hubski.com/pub?id=117319
+
+Connections between Abstract Algebra and High School Algebra: A Few Connections Worth Exploring | On Teaching and Learning Mathematics
+https://blogs.ams.org/matheducation/2015/12/10/connections-between-abstract-algebra-and-high-school-algebra-a-few-connections-worth-exploring/
+
+The Physics of Software - The idea
+http://www.physicsofsoftware.com/
+
+Anna Shipman : JFDI
+https://www.annashipman.co.uk/jfdi/a-year-in-the-life-os-lead.html
+
+The Top 5 Longreads of the Week
+https://longreads.com/2017/12/08/the-top-5-longreads-of-the-week-199/
+
+Metadata: Paper Summary. The Case for Learned Index Structures
+http://muratbuffalo.blogspot.com/2017/12/paper-summary-case-for-learned-index.html?m=1
+
+Metadata: New directions for distributed systems research in cloud computing
+http://muratbuffalo.blogspot.com/2015/08/new-directions-for-distributed-systems.html?m=1
+
+André Staltz - A plan to rescue the Web from the Internet
+https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html
+
+André Staltz - An off-grid social network
+https://staltz.com/an-off-grid-social-network.html
+
+Bussed out: how America moves thousands of homeless people around the country | US news | The Guardian
+https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study
+
+Private Health Insurance Premiums and Federal Policy | Congressional Budget Office
+https://www.cbo.gov/publication/51130
+
+Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/
+
+Research Debt
+https://distill.pub/2017/research-debt/
+
+[1611.03530] Understanding deep learning requires rethinking generalization
+https://arxiv.org/abs/1611.03530
+
+[1706.05394] A Closer Look at Memorization in Deep Networks
+https://arxiv.org/abs/1706.05394
+
+[1412.0233] The Loss Surfaces of Multilayer Networks
+https://arxiv.org/abs/1412.0233
+
+'The Colour of Magic' and 4 more Terry Pratchett books you should read
+http://mashable.com/2015/03/12/terry-pratchett-books-to-read/#CQLBaIb9SPqP
+
+The top US tech stories of 2017: the utopian dream comes to an end | Technology | The Guardian
+https://www.theguardian.com/technology/2017/dec/25/guardian-top-tech-stories-2017-silicon-valley
+
+Tech's terrible year: how the world turned on Silicon Valley in 2017 | Technology | The Guardian
+https://www.theguardian.com/technology/2017/dec/22/tech-year-in-review-2017
+
+How big tech finally awakened to the horror of its own inventions | Media | The Guardian
+https://www.theguardian.com/media/2017/dec/20/facebook-twitter-mental-health-sean-parker
+
+The Best of The Atlantic From 1967, 1917, and 1867 - The Atlantic
+https://www.theatlantic.com/politics/archive/2017/12/the-best-of-the-atlantic-from-1967-1917-and-1867/549113/
+
+The Rise of the Alt-Right - The Atlantic
+https://www.theatlantic.com/politics/archive/2017/12/alt-right/549242/
+
+Twitter
+https://mobile.twitter.com/weatherchannel/status/946749152167211009/photo/1
+
+How I Learned to Stop Worrying and Love the Job Hunt
+https://blog.stephanbehnke.com/how-i-learned-to-stop-worrying-and-love-the-job-hunt-in-toronto/
+
+Americans Who Tell The Truth | Models of Courageous Citizenship
+https://www.americanswhotellthetruth.org/
+
+Rummy (Rum)– Card Game Rules | Bicycle Playing Cards
+http://www.bicyclecards.com/how-to-play/rummy-rum/#filter
+
+Design, Technology, and Research
+http://dtr.northwestern.edu/Apply
+
+1911 Asbury Ave APT 2, Evanston, IL 60201 | Zillow
+https://www.zillow.com/homedetails/1911-Asbury-Ave-APT-2-Evanston-IL-60201/2101563084_zpid/
+
+What is Empirical Risk Minimization | PERPETUAL ENIGMA
+https://prateekvjoshi.com/2017/08/19/what-is-empirical-risk-minimization/#more-2940
+
+U.S. Census Bureau QuickFacts: UNITED STATES
+https://www.census.gov/quickfacts/fact/table/US/RHI125216
+
+CS 525: Advanced Distributed Systems
+https://courses.engr.illinois.edu/cs525/sp2018/index.html
+
+I Was a Bank Robber Until I Read Kant · The Walrus
+https://thewalrus.ca/i-was-a-bank-robber-until-i-read-kant/
+
+Home | Laws of UX
+https://lawsofux.com/
+
+Brushing up on operating systems and C programming | Shubhro Saha
+http://www.shubhro.com/2018/01/20/brushing-up-os-c/
+
+HOW TO STUDY
+https://www.cse.buffalo.edu//~rapaport/howtostudy.html
+
+Research Debt
+https://distill.pub/2017/research-debt/
+
+Digital Object Identifier System
+https://www.doi.org/
+
+Finding a lab in Life Sciences (Pinto 2010): NuWrite - Northwestern University
+http://nuwrite.northwestern.edu/communities/science-writing-community/srw/finding-a-lab-in-life-sciences-pinto.html
+
+How to Fact Check The Atlantic - The Atlantic
+https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/
+
+The Libraries Bringing Small-Town News Back to Life - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/01/libraries-local-news/551594/
+
+This Book Is Overdue!: How Librarians and Cybrarians Can Save Us All | IndieBound.org
+https://www.indiebound.org/book/9780061431616
+
+Presentations by Chapter | Sketching User Experiences: The Workbook
+http://sketchbook.cpsc.ucalgary.ca/?page_id=64
+
+My new favorite book of all time | Bill Gates
+https://www.gatesnotes.com/Books/Enlightenment-Now
+
+My new favorite book of all time | Hacker News
+https://news.ycombinator.com/item?id=16258434
+
+Why I No Longer Identify as a Feminist - Areo
+https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/
+
+Am I a bad feminist? - The Globe and Mail
+https://www.theglobeandmail.com/opinion/am-i-a-bad-feminist/article37591823/
+
+How It Began: A History Of The Modern World with Brad Harris
+https://howitbegan.com/
+
+Steven Pinker: Be Positive, The World Is Not Falling Apart. - YouTube
+https://m.youtube.com/watch?v=1s2qyYQIRQE&feature=youtu.be
+
+Reddit - slatestarcodex - Steven Pinker jinxes the world
+https://amp.reddit.com/r/slatestarcodex/comments/6ggwap/steven_pinker_jinxes_the_world/
+
+Towards a More Peaceful World [insert `!' or `?' here] - Department of Mathematics
+http://www.mn.uio.no/math/english/research/projects/focustat/the-focustat-blog%21/krigogfred.html
+
+Muxes: The Third Gender - The Atlantic - The Atlantic
+https://www.theatlantic.com/video/index/551738/muxes-mexico-third-gender/
+
+Greening the Desert
+https://permaculturenews.org/2007/03/01/greening-the-desert-now-on-youtube/
+
+Allan Savory's Holistic Management Theory Falls Short on Science | Sierra Club
+https://www.sierraclub.org/sierra/2017-2-march-april/feature/allan-savory-says-more-cows-land-will-reverse-climate-change
+
+Livestock: On our plates or eating at our table? A new analysis of the feed/food debate - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S2211912416300013?via%3Dihub#s0085
+
+Amazon.com: The People vs. Democracy: Why Our Freedom Is in Danger and How to Save It (9780674976825): Yascha Mounk: Books
+https://www.amazon.com/exec/obidos/ISBN=0674976827/theatla05-20/
+
+EECS 371: Knowledge Representation and Reasoning | Electrical Engineering & Computer Science | Northwestern Engineering
+https://www.mccormick.northwestern.edu/eecs/courses/descriptions/371.html
+
+Courses | Brilliant
+https://brilliant.org/courses/?tour=true
+
+Don’t fear failure: Why quitting gymnastics taught me the true meaning of success - The Globe and Mail
+https://www.theglobeandmail.com/opinion/michelle-kaeser-failure-is-golden-too/article37828663/
+
+Making Sense of the News: News Literacy Lessons for Digital Citizens | Coursera
+https://www.coursera.org/learn/news-literacy?siteID=Cu8bOePBZBg-W0x8_ki7gtd…ntent=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Cu8bOePBZBg
+
+Moral Foundations of Politics | Coursera
+https://www.coursera.org/learn/moral-politics?siteID=Cu8bOePBZBg-E.zMhVQnHt…ntent=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Cu8bOePBZBg
+
+EVANSTON
+https://ccsp.ent.sirsi.net/client/en_US/evk/?dt=list
+
+Delta Lab
+http://delta.northwestern.edu/Projects
+
+Next Gen IL
+http://nextgenil.org/
+
+Charger Cable Real by ericthepotter - Thingiverse
+https://www.thingiverse.com/thing:2742265/#made
+
+Charger Cable Real by ericthepotter - Thingiverse
+https://www.thingiverse.com/thing:2742265
+
+The Conversation: March 2018 - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/03/the-conversation/550943/
+
+A Note on ‘Notes’ - The Atlantic
+https://www.theatlantic.com/notes/2018/02/a-note-on-notes/552281/
+
+On the Proper Name for the Trump Era: ‘Democracide’, ‘Ochlocracy’, or Something Else - The Atlantic
+https://www.theatlantic.com/notes/2018/02/on-the-proper-name-for-the-trump-era-democracide-ochlocracy-or-something-else/552401/
+
+Bahá'ís of the United States
+https://www.bahai.us/pivotal-time-in-america/
+
+solid/README.md at master · solid/solid · GitHub
+https://github.com/solid/solid/blob/master/README.md
+
+Linked Data - Design Issues
+https://www.w3.org/DesignIssues/LinkedData.html
+
+Slack is the opposite of organizational memory
+https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html
+
+So You Want to Build a P2P Twitter with E2E Encryption?
+https://hackernoon.com/so-you-want-to-build-a-p2p-twitter-with-e2e-encryption-f90505b2ff8
+
+Metacrap
+https://people.well.com/user/doctorow/metacrap.htm
+
+DBpedia - Wikipedia
+https://en.m.wikipedia.org/wiki/DBpedia
+
+BBC Academy - Academy - Linked data
+http://www.bbc.co.uk/academy/technology/software-engineering/semantic-web
+
+Top 10 Note-taking Apps for 2017 – The Mission – Medium
+https://medium.com/the-mission/top-10-note-taking-apps-for-2017-609c3fb64115
+
+Sustainability Learning Center – Valhalla
+https://valhallamovement.com/slc/
+
+Sidewalk Labs: Google’s Guinea-Pig City in Toronto - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/02/googles-guinea-pig-city/552932/
+
+A Brief Glance at How Various Text Editors Manage Their Textual Data
+https://ecc-comp.blogspot.com/2015/05/a-brief-glance-at-how-5-text-editors.html?m=1
+
+What Mueller's Indictment Reveals - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/02/mueller-roadmap/553604/
+
+Anguished Tweets from Florida School-Shooting Survivors - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/02/parkland-shooting-teen-survivor-tweets-righteous-anger/553634/
+
+What's Killing Liberalism? - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/02/liberalism-trump-era/553553/
+
+Responsible Government Under the Constitution - The Atlantic
+https://www.theatlantic.com/magazine/archive/1886/04/responsible-government-under-the-constitution/519561/
+
+The Crisis and the Political Parties - The Atlantic
+https://www.theatlantic.com/magazine/archive/1937/09/the-crisis-and-the-political-parties/553583/
+
+Poetry and Power - The Atlantic
+https://www.theatlantic.com/magazine/archive/1964/02/poetry-and-power/306325/
+
+Securing your Linux web server – Hacker Noon
+https://hackernoon.com/securing-your-linux-web-server-2be683c223eb
+
+Bashing the Bash — Replacing Shell Scripts with Python
+https://medium.com/capital-one-developers/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989
+
+Plumbum: Shell Combinators and More — Plumbum: Shell Combinators
+http://plumbum.readthedocs.io/en/latest/
+
+Overview — Sarge 0.1.5.dev0 documentation
+http://sarge.readthedocs.io/en/latest/overview.html#what-is-sarge-for
+
+1.12.13 — sh 1.12.13 documentation
+http://amoffat.github.io/sh/
+
+PyVideo.org · The Pyed Piper: A Modern Python Alternative to awk, sed and Other Unix Text Manipulation Utilities
+http://pyvideo.org/pycon-us-2012/the-pyed-piper-a-modern-python-alternative-to-aw.html
+
+Tutorial — xonsh 0.6.0.dev151 documentation
+http://xon.sh/tutorial.html
+
+Jupyter and the future of IPython — IPython
+http://ipython.org/
+
+shellpy/README.md at master · lamerman/shellpy
+https://github.com/lamerman/shellpy/blob/master/README.md
+
+COPYRIOT | From cyber-libertarianism to national-populism (The many faces of fascism, part 1)
+https://copyriot.se/2018/02/22/from-cyber-libertarianism-to-national-populism-the-many-faces-of-fascism-part-1/
+
+Simple, Upstream, and Decisive: A Heuristic for Medical Progress — Sarah Constantin
+https://www.sarah-constantin.org/blog/2018/1/14/simple-upstream-and-decisive-a-heuristic-for-medical-progress
+
+Shtetl-Optimized » Blog Archive » Should I join Heterodox Academy?
+https://www.scottaaronson.com/blog/?p=3608#comments
+
+History of Cartography: Volumes One, Two, and Three
+http://www.press.uchicago.edu/books/HOC/index.html
+
+sandro kopp has painted tilda swinton so often he’s running out of titles - i-D
+https://i-d.vice.com/en_us/article/nenjz7/sandro-kopp-has-painted-tilda-swinton-so-often-hes-running-out-of-titles
+
+Command-line shell - ArchWiki
+https://wiki.archlinux.org/index.php/Command-line_shell
+
+Time to pick a new shell: fish, xonsh, elvish, bash, zsh, ksh93 | Dog Is My Copilot
+http://www.skepticism.us/2017/10/time-to-pick-a-new-shell/
+
+Xonsh is no longer a possible replacement for zsh | Dog Is My Copilot
+http://www.skepticism.us/2015/11/xonsh-is-no-longer-a-possible-replacement-for-zsh/
+
+Time to pick a new shell: fish, xonsh, elvish, bash, zsh, ksh93 | Dog Is My Copilot
+http://www.skepticism.us/2017/10/time-to-pick-a-new-shell/#comment-144
+
+New Applet - IFTTT Platform
+https://platform.ifttt.com/maker/krlanguet/applets/new?from_applet=BZM3ePJv
+
+apilio.io
+https://apilio.herokuapp.com/string_variables/2322
+
+K3 One more terminal emulator for kindle. - MobileRead Forums
+https://www.mobileread.com/forums/showthread.php?t=154500
+
+Sex Differences: A Land of Confusion - Zachary Elliott - Google Books
+https://books.google.com/books?id=NydBDwAAQBAJ&pg=PA1&lpg=PA1&dq=today+seem…HoECAcQAQ#v=onepage&q=today%20seems%20a%20clemmer%20of%20confusion&f=false
+
+K5 JBPatch - MobileRead Forums
+https://www.mobileread.com/forums/showthread.php?t=175512
+
+How Do We Learn? A Zine
+http://blog.ncase.me/how-do-we-learn-a-zine/
+
+The War on Yourself
+http://blog.ncase.me/the-war-on-yourself/
+
+How To Become A Centaur
+https://jods.pubpub.org/pub/issue3-case?from=5276&to=5291&version=2c1b4e7c-a1e3-465a-9810-3bc426e5dce3
+
+Medical Xpress: Over years, depression changes the brain, new study shows
+https://m.medicalxpress.com/news/2018-02-years-depression-brain.html
+
+Graphite
+https://www.graphitedocs.com/personal
+
+Graphite
+https://app.graphitedocs.com/
+
+We need new kinds of antidepressants, in addition to pills - Vox
+https://www.vox.com/the-big-idea/2018/2/25/16997572/causes-depression-pills-prozac-social-environmental-connections-hari
+
+Understanding word vectors: A tutorial for "Reading and Writing Electronic Text," a class I teach at ITP. (Python 2.7) Code examples released under CC0 https://creativecommons.org/choose/zero/, other text released under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
+
+What It's Like When You're An American Using Britain's NHS | Business Insider India
+https://www.businessinsider.in/What-Its-Like-When-Youre-An-American-Using-Britains-NHS/articleshow/46057777.cms
+
+The Bayesian Probability Puzzle Solution | Quanta Magazine
+https://www.quantamagazine.org/the-bayesian-probability-puzzle-solution-20180302/
+
+Why Women Choose Differently at Work - Issue 58: Self - Nautilus
+http://m.nautil.us/issue/58/self/why-women-choose-differently-at-work
+
+Python is the fastest growing programming language due to a feature you've never heard of
+https://jeffknupp.com/blog/2017/09/15/python-is-the-fastest-growing-programming-language-due-to-a-feature-youve-never-heard-of/
+
+Why Python does so well in scientific computing
+http://blog.khinsen.net/posts/2017/09/12/why-python-does-so-well-in-scientific-computing/
+
+How Python Makes Working With Data More Difficult in the Long Run
+https://jeffknupp.com/blog/2016/11/13/how-python-makes-working-with-data-more-difficult-in-the-long-run/
+
+Improve Your Python: Python Classes and Object Oriented Programming
+https://jeffknupp.com/blog/2017/03/27/improve-your-python-python-classes-and-object-oriented-programming/
+
+How Python Linters Will Save Your Large Python Project
+https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/
+
+How Much Do Language and Culture Affect the Gun Issue? - The Atlantic
+https://www.theatlantic.com/notes/2018/03/on-the-language-and-culture-of-discussing-what-to-do-about-guns/554747/
+
+Yascha Mounk on Populism and Democracy - The Atlantic
+https://www.theatlantic.com/international/archive/2018/03/yascha-mounk-democracy/554786/
+
+Notes for new Make users
+http://gromnitsky.users.sourceforge.net/articles/notes-for-new-make-users/
+
+Opinion | Is Loneliness a Health Epidemic? - The New York Times
+https://mobile.nytimes.com/2018/02/09/opinion/sunday/loneliness-health.html?referer=https://news.ycombinator.com/
+
+Why You Should Ignore Every Founder’s Story About How They Started Their Company
+https://medium.com/@trevmckendrick/what-reed-hastings-sam-walton-can-teach-you-about-how-to-start-a-company-d38cfe0eafce
+
+4 IoT compute types for the Internet of Things
+https://www.iotforall.com/4-computing-types-for-iot/amp/
+
+Martin Luther King Jr. Speech: ‘The Three Evils’ - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/02/martin-luther-king-hungry-club-forum/552533/
+
+Android Developers Blog: Previewing Android P
+https://android-developers.googleblog.com/2018/03/previewing-android-p.html?m=1
+
+Why you should totally switch to Kotlin – Magnus Vinther – Medium
+https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5
+
+Understanding Site Reliability Engineering through Movies and Books | Medallia Engineering Blog
+https://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/
+
+Mathpix
+https://mathpix.com/
+
+Investment Calculator
+https://investmentcalculator.io/
+
+You may need less retirement income than you think - MarketWatch
+https://www.marketwatch.com/story/you-may-need-less-retirement-income-than-you-think-2015-11-30
+
+Choose To Encrypt - Learn About Search Encrypt, a private search engine. Using an encrypted search engine can keep your data safe online. We're sharing news about internet, technology and search engines. Our search engine eliminates the need to clear your browser history and helps keep you safe on the internet. Use a safe search engine!
+https://choosetoencrypt.com/uncategorized/making-the-internet-decentralized-neutral-creates-better-user-experienes/
+
+The unpublished notebooks of J. M. Korhonen | Because specialization is for insects.
+https://jmkorhonen.net/
+
+Standardizing lessons learned from AMP – Accelerated Mobile Pages Project
+https://amphtml.wordpress.com/2018/03/08/standardizing-lessons-learned-from-amp/
+
+Introducing scrcpy · ®om's blog
+https://blog.rom1v.com/2018/03/introducing-scrcpy/
+
+Getting Tech Giants to Pay You for Your Data: [Business/Financial Desk] - ProQuest
+https://search-proquest-com.turing.library.northwestern.edu/docview/2011148539/40140797C9E246A1PQ/4?accountid=12861
+
+A Career Cold Start Algorithm
+http://boz.com/articles/career-cold-start.html
+
+Launch HN: SafetyWing (YC W18) – A Global Safety Net for Digital Nomads | Hacker News
+https://news.ycombinator.com/item?id=16554015
+
+Links - Quick Access to Major Newspapers - LibGuides at Northwestern University
+http://libguides.northwestern.edu/quicknews
+
+Turn Prisons Into Colleges: Commentary - ProQuest
+https://search-proquest-com.turing.library.northwestern.edu/docview/2011143899/5DF56AA3B10D41C5PQ/1?accountid=12861
+
+Turn Prisons into Colleges | Hacker News
+https://news.ycombinator.com/item?id=16552385
+
+What renovations are worth doing? - Curbed
+https://www.curbed.com/2018/3/7/17087588/home-renovation-unnecessary-mcmansion-hell-wagner
+
+Reddit and the Struggle to Detoxify the Internet | The New Yorker
+https://www.newyorker.com/magazine/2018/03/19/reddit-and-the-struggle-to-detoxify-the-internet
+
+Extensive Data Shows Punishing Reach of Racism for Black Boys - The New York Times
+https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-…ck-men.html?mtrref=hubski.com&gwh=C993203A45C49362122DE4CB6C2BE8A8&gwt=pay
+
+Links - Quick Access to Major Newspapers - LibGuides at Northwestern University
+http://libguides.northwestern.edu/quicknews
+
+Virtual Coins, Real Resources: [Business/Financial Desk] - ProQuest
+https://search-proquest-com.turing.library.northwestern.edu/docview/2009098122/8B5E9623E9924BAEPQ/1?accountid=12861
+
+Powering Bitcoin: [Business/Financial Desk] - ProQuest
+https://search-proquest-com.turing.library.northwestern.edu/docview/1989476595/478696E67EF941AFPQ/1?accountid=12861
+
+Hashes in Structures – The Isoblog.
+http://blog.koehntopp.info/index.php/3088-hashes-in-structures/
+
+Compressing and enhancing hand-written notes
+https://mzucker.github.io/2016/09/20/noteshrink.html
+
+Unrolled thread from @AustenAllred
+https://threadreaderapp.com/thread/972346041189019648.html
+
+Opkode - Blog
+https://opkode.com/blog/slacks-bait-and-switch/
+
+Last Week on My Mac: Enduring file references in macOS – The Eclectic Light Company
+https://eclecticlight.co/2018/03/11/last-week-on-my-mac-enduring-file-references-in-macos/
+
+Secret management design decisions: theory plus an example - Sander Knape
+https://sanderknape.com/2018/03/secret-management-design-decisions-theory-plus-an-example/
+
+Cory Booker on the 2020 Presidential Race - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/04/we-cant-make-our-elections-about-being-against-trump/554072/
+
+About – Creatures of Thought
+https://technicshistory.wordpress.com/about/
+
+Symposium on Microgrids Tickets, Tue, Apr 10, 2018 at 8:45 AM | Eventbrite
+https://www.eventbrite.com/e/symposium-on-microgrids-tickets-43398996567?aff=es2
+
+Symposium Schedule: Renewable energy microgrids for sustainable development - Northwestern University
+http://microgrids.northwestern.edu/schedule/index.html
+
+Renewable energy microgrids for sustainable development - Northwestern University
+http://microgrids.northwestern.edu/index.html
+
+How I Interviewed My Interviewers
+https://engineering.gusto.com/how-i-interviewed-my-interviewers/
+
+Compass News
+https://compassnews.co.uk/sign-up
+
+Projects Grouped By Tags
+https://xyne.archlinux.ca/projects/
+
+A Practical Introduction to Blockchain with Python // Adil Moujahid // Data Analytics and more
+http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/
+
+Five Key Git Concepts Explained the Hard Way – zwischenzugs
+https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/
+
+Git Magic - Preface
+http://www-cs-students.stanford.edu/~blynn/gitmagic/
+
+What I'm Working On: Why you didn't do that thing you're sure you did | Duke Today
+https://today.duke.edu/2018/03/what-im-working-why-you-didnt-do-thing-youre-sure-you-did
+
+Making WebAssembly better for Rust & for all languages – Mozilla Hacks – the Web developer blog
+https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/
+
+Counting Virtual Sheep – The Amiga Consciousness
+http://countingvirtualsheep.com/the-amiga-consciousness/
+
+Arch Linux Women | Blog
+https://archwomen.org/blog/post/installing-arch.html
+
+Some Unique Semantics
+https://elvish.io/learn/unique-semantics.html
+
+Opinion | I’m Republican. I Appreciate Assault Weapons. And I Support a Ban. - The New York Times
+https://mobile.nytimes.com/2018/02/23/opinion/brian-mast-assault-weapons-ba…tps://www.theatlantic.com/politics/archive/2018/03/republican-guns/555737/
+
+The Multiworse Is Coming | Hacker News
+https://news.ycombinator.com/item?id=16599594
+
+Dark Web Map — Hyperion Gray
+https://www.hyperiongray.com/dark-web-map/
+
+Repair cafés waging war on throwaway culture | Hacker News
+https://news.ycombinator.com/item?id=16606973
+
+Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/
+
+Hack everything without fear | Drew DeVault’s Blog
+https://drewdevault.com/2018/03/17/Hack-everything-without-fear.html
+
+Opinion | In Praise of A.D.H.D. - The New York Times
+https://mobile.nytimes.com/2018/03/17/opinion/sunday/praise-adhd-attention-hyperactivity.html
+
+Schools Are Spending Millions on High-Tech Surveillance of Kids
+https://gizmodo.com/schools-are-spending-millions-on-high-tech-surveillance-1823811050
+
+The Oil Drum: Europe | "Peak Civilization": The Fall of the Roman Empire
+http://europe.theoildrum.com/node/5528
+
+Berkeley Council Approves Surveillance Technology Oversight Ordinance | East Bay Express
+https://m.eastbayexpress.com/SevenDays/archives/2018/03/14/berkeley-council-approves-surveillance-technology-oversight-ordinance
+
+The Game of Everything, Part 1: Making Civilization | The Digital Antiquarian
+https://www.filfre.net/2018/03/the-game-of-everything-part-1-making-civilization/
+
+The University of Arizona is tracking students' locations to predict dropouts — Quartz
+https://qz.com/1226474/a-us-university-is-tracking-students-locations-to-predict-future-dropouts/
+
+Complex Human Cultures Are Older Than Scientists Thought - The Atlantic
+https://www.theatlantic.com/science/archive/2018/03/a-deeper-origin-of-complex-human-cultures/555674/?single_page=true
+
+IN THE GREEN - When2meet
+https://www.when2meet.com/?6768351-9Gb9Y
+
+Review: Steven Pinker’s ‘Enlightenment Now’ - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/04/steven-pinker-enlightenment-now/554054/
+
+Republic Help
+https://help.republicwireless.com/hc/en-us/requests/1342510?page=1
+
+[XT1575][FIRMWARE][OFFICIAL] Moto X Pure Fac… | Moto X Style (Pure)
+https://forum.xda-developers.com/moto-x-style/general/xt1575-moto-x-pure-edition-factory-t3704142
+
+She Was My World, but We Couldn’t Marry - The New York Times
+https://mobile.nytimes.com/2018/03/16/style/modern-love-she-was-my-world-but-we-couldnt-marry.html?referer=https://news.ycombinator.com/
+
+#deletefacebook | TechCrunch
+https://techcrunch.com/2018/03/19/deletefacebook/
+
+My Writing Process – Amruta Ranade
+https://amrutaranade.com/2018/03/07/my-writing-process/
+
+Talent, luck and success: simulating meritocracy and inequality with stochasticity
+https://medium.com/@hongsupshin/talent-luck-and-success-simulating-meritocracy-and-inequality-with-stochasticity-501e0c1b4969
+
+About – Google News Initiative
+https://newsinitiative.withgoogle.com/about
+
+Launch HN: Promise (YC W18) – Cost-effective, more humane alternative to jail | Hacker News
+https://news.ycombinator.com/item?id=16630971
+
+Sci-Bay - More than Google Scholar and Sci-Hub.
+https://sci-bay.org/
+
+The Coming Generation May Not Use Social Media at All
+http://tttthis.com/socialmediageneration.php
+
+http://tttthis.com/internetcrisis.php
+
+The best free cultural & educational media on the web | Open Culture
+http://www.openculture.com/
+
+Intersectionality Is a Political Football—Here’s Why It Doesn’t Have to Be – Heterodox Academy
+https://heterodoxacademy.org/intersectionality-is-a-political-football-heres-why-it-doesnt-have-to-be/
+
+Installing a kitchen in my electric car - KiwiEV.com
+http://kiwiev.com/installing-a-kitchen-in-my-electric-car/
+
+Questo AI - The Best Study Assistant App
+https://questo.ai/
+
+Sergey Brin, my Father, and our obsession with Silicon Valley entrepreneurs
+https://medium.freecodecamp.org/sergey-brin-my-father-and-our-culture-cbf0bd03af9
+
+Blockchain Isn’t a Revolution – Member Feature Stories – Medium
+https://medium.com/s/story/blockchain-isnt-a-revolution-it-s-two-big-innovations-and-one-promising-idea-988fca6b0fca 
+
+Many Think Capitalism And Democracy Go Together. What If They Don’t?
+https://arcdigital.media/many-think-capitalism-and-democracy-go-together-what-if-they-dont-3fb9e68b16d1 
+
+A Brief History of U.S. Intervention in the Countries of Origin of Central American Asylum Seekers
+https://medium.com/@tseng.putterman/timeline-us-intervention-central-america-a9bea9ebc148 
+
+The Weird, Ever-Evolving Story of Your DNA - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/07/carl-zimmer-she-has-her-mother-s-laugh/561710/ 
+
+NixOS manual
+https://nixos.org/nixos/manual/index.html#sec-installation 
+
+AWS explained: the basics – inQdo
+https://www.inqdo.com/aws-explained-the-basics/?lang=en 
+
+Facebook Building 8 explored data sharing agreement with hospitals
+https://www.cnbc.com/2018/04/05/facebook-building-8-explored-data-sharing-agreement-with-hospitals.html 
+
+Ethereum's Compact Merkle Trie (Part I) – Nervous Systems
+https://nervous.io/clojure/crypto/2018/04/04/clojure-evm-iii/ 
+
+The Stack Overflow Age – Joel on Software
+https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/ 
+
+Brain connectivity reflects human aesthetic responses to music | Social Cognitive and Affective Neuroscience | Oxford Academic
+https://academic.oup.com/scan/article/11/6/884/2223400 
+
+The Capitalist Threat - The Atlantic
+https://www.theatlantic.com/magazine/archive/1997/02/the-capitalist-threat/376773/ 
+
+Project from Hell – Project Failures
+https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/?__twitter_impression=true 
+
+RSS is undead | TechCrunch
+https://techcrunch.com/2018/04/07/rss-is-undead/ 
+
+Web Authentication: An API for accessing Public Key Credentials Level 1
+https://www.w3.org/TR/2018/CR-webauthn-20180320/ 
+
+Piano Pentatonic Blues Scales - overview with pictures
+https://www.pianoscales.org/blues.html 
+
+Elon Musk gives first glimpse inside Tesla Model 3 production line | Electrek
+https://electrek.co/2018/04/11/elon-musk-inside-tesla-model-3-production-line/ 
+
+Teen Monitoring Apps Don't Work and Just Make Teens Hate Their Parents, Study Finds
+https://gizmodo.com/teen-monitoring-apps-dont-work-and-just-make-teens-hate-1824706829 
+
+Apple is making a show based on Isaac Asimov’s ‘Foundation’ books | TechCrunch
+https://techcrunch.com/2018/04/10/apple-foundation-series/ 
+
+Mark Zuckerberg's Facebook hearing was an utter sham | Zephyr Teachout | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/apr/11/mark-zuckerbergs-facebook-hearing-sham 
+
+Homepage
+https://northwestern.sodexomyway.com/ 
+
+Wyatt Cenac's Problem Areas - Official Website for the HBO Series
+https://www.hbo.com/wyatt-cenacs-problem-areas?camp=N286407.1972103DOUBLECLICKBIDMAN|MKL|PID_218742024 
+
+the-book - docs - Git at Google
+https://fuchsia.googlesource.com/docs/+/master/the-book/ 
+
+Could a Neuroscientist Understand a Microprocessor?
+http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268 
+
+A Taxonomy of Tech Debt | Riot Games Engineering
+https://engineering.riotgames.com/news/taxonomy-tech-debt 
+
+How to Find Consulting Clients — Break Into Consulting
+https://www.breakintoconsulting.com/blog/2018/4/11/how-to-find-consulting-clients 
+
+Wealth inequality is soaring – here are the 10 reasons why it’s happening | Dominic Frisby | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/apr/12/wealth-inequality-reasons-richest-global-gap 
+
+How Will Automation Affect Different U.S. Cities?
+https://insight.kellogg.northwestern.edu/article/how-will-automation-affect-different-united-states-cities 
+
+Publisher Gets Carte Blanche to Seize New Sci-Hub Domains - TorrentFreak
+https://torrentfreak.com/publisher-gets-carte-blanche-to-seize-new-sci-hub-domains-180410/ 
+
+“Is curing patients a sustainable business model?” Goldman Sachs analysts ask | Ars Technica
+https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/ 
+
+Building a Text Editor for a Digital-First Newsroom
+https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21 
+
+Causes and consequences of the Sicilian Mafia | VOX, CEPR’s Policy Portal
+https://voxeu.org/article/causes-and-consequences-sicilian-mafia 
+
+Schools Are Failing to Teach Kids How to Read - The Atlantic
+https://www.theatlantic.com/amp/article/557915/?single_page=true 
+
+It's time to rebuild the web - O'Reilly Media
+https://www.oreilly.com/ideas/its-time-to-rebuild-the-web 
+
+The Missing Building Blocks of the Web – Anil Dash – Medium
+https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc 
+
+The lost infrastructure of social media. – Anil Dash – Medium
+https://medium.com/@anildash/the-lost-infrastructure-of-social-media-d2b95662ccd3 
+
+Glitch
+https://glitch.com/ 
+
+Don’t Move Here. We Don’t Want You. – Julia E Hubbel – Medium
+https://medium.com/@jhubbel/dont-move-here-we-don-t-want-you-566448c6e3ee 
+
+Facebook and Google Could Be Nationalized in 5-10 Years | Tech Buzz | TechNewsWorld
+https://www.technewsworld.com/edpick/85276.html 
+
+krlanguet / eecs-349 — Bitbucket
+https://bitbucket.org/krlanguet/eecs-349/src/master/ 
+
+Faculty - Willard Residential College
+http://www.willardrc.org/faculty.html 
+
+Zulip 1.8: Open source team chat
+http://blog.zulip.org/2018/04/18/zulip-1-8-released/ 
+
+PINEBOOK – PINE64
+https://www.pine64.org/?page_id=3707 
+
+Decades-Old Graph Problem Yields to Amateur Mathematician | Quanta Magazine
+https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/ 
+
+A smarter SmartOS? | The Blue Pill
+https://hypoalex.github.io/smartos/design/a-smarter-smartos.html 
+
+BreakDown Notes
+https://www.breakdown-notes.com/makemap 
+
+John Hunter Matplotlib Summer Fellowship - NumFOCUS
+https://www.numfocus.org/programs/john-hunter-technology-fellowship 
+
+Canner/slate-md-editor: A markdown editor, that allows you to edit live.
+https://github.com/Canner/slate-md-editor 
+
+Job interviews for programmers now often come with days of unpaid homework — Quartz at Work
+https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/ 
+
+No boundaries for Facebook data: third-party trackers abuse Facebook Login
+https://freedom-to-tinker.com/2018/04/18/no-boundaries-for-facebook-data-third-party-trackers-abuse-facebook-login/ 
+
+Exclusive: Facebook to put 1.5 billion users out of reach of new EU privacy law
+https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusive-…-to-put-1-5-billion-users-out-of-reach-of-new-eu-privacy-law-idUSKBN1HQ00P 
+
+Review: Meg Wolitzer’s ‘The Female Persuasion’ - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/05/the-persuasive-female/556847/ 
+
+Doctors Tell All—and It’s Bad - The Atlantic
+https://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/ 
+
+2018 Could Be the Year of the Ballot Initiative - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/04/citizen-ballot-initiatives-2018-elections/558098/ 
+
+Daniel Mallory Ortberg’s Short Short Story About Who Owns Beauty
+https://electricliterature.com/mallory-ortbergs-short-short-story-about-who-owns-beauty-635afb3c3fab 
+
+Uber, Paypal Face Reckoning Over Opaque ‘Terms and Conditions’ - Bloomberg
+https://www.bloomberg.com/news/articles/2018-04-20/uber-paypal-face-reckoning-over-opaque-terms-and-conditions 
+
+The illusion of time
+https://www.nature.com/articles/d41586-018-04558-7 
+
+Interactive Go programming with Jupyter – Yu Watanabe – Medium
+https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1 
+
+A Diagram Editor for JupyterLab – Jupyter Blog
+https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919 
+
+Ask HN: Where do you store bookmarks? | Hacker News
+https://news.ycombinator.com/item?id=16885435 
+
+Create your own Git server using Raspberry Pi and GitLab
+https://hackernoon.com/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66 
+
+Why should you learn Go? – Keval Patel – Medium
+https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65 
+
+Four Things the Comey Memos Reveal - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/04/what-we-learned-from-the-comey-memos/558518/ 
+
+Ho, Ho, Ho--it's Tv Time For Ronnie - latimes
+http://articles.latimes.com/1985-12-18/entertainment/ca-26574_1_dutch-reagan 
+
+Inside Community Boost: Facebook's Small-Business Road Show - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/04/facebook-community-boost/558458/ 
+
+What it's Like to Work at the Museum of Ice Cream - The Atlantic
+https://www.theatlantic.com/business/archive/2018/04/what-its-like-to-work-at-the-museum-of-ice-cream/558269/ 
+
+Future Cities Africa: New Thinking for Long-term Transformation | Cities Alliance
+http://www.citiesalliance.org/FCA-launch 
+
+Harvesting the sun | Africa Renewal Online
+https://www.un.org/africarenewal/magazine/april-2016/harvesting-sun 
+
+Africa’s cities of the future | Africa Renewal Online
+https://www.un.org/africarenewal/magazine/april-2016/africa%E2%80%99s-cities-future 
+
+These are Africa’s fastest-growing cities – and they’ll make or break the continent | World Economic Forum
+https://www.weforum.org/agenda/2016/05/africa-biggest-cities-fragility/ 
+
+African smart cities: A leap into the future? - CNN
+https://www.cnn.com/2017/12/12/africa/africa-new-smart-cities/index.html 
+
+Africa's future is urban - ISS Africa
+https://issafrica.org/iss-today/africas-future-is-urban 
+
+Facebook
+https://m.facebook.com/dennis.wise.9/posts/ms.c.eJxllEkSXTEIA2~_UMmYQvv~;FU…A7873621232991586013%26__tn__%3DEH-R%26cached_data%3Dfalse%26ftid%3D&mdf=1 
+
+After Facebook scrutiny, is Google next?
+https://m.phys.org/news/2018-04-facebook-scrutiny-google.html 
+
+At the Bottom of the Ocean, a Gloomy Discovery
+http://blogs.discovermagazine.com/d-brief/2018/04/18/octopus-eggs-deep-ocean/#.WtzI9CNOl-F 
+
+I founded Happy Cow Milk to make a difference in dairying. I failed. | The Spinoff
+https://thespinoff.co.nz/business/21-04-2018/i-founded-happy-cow-to-make-a-difference-in-dairying-i-failed/ 
+
+Experts say Tesla has repeated car industry mistakes from the 1980s | Ars Technica
+https://arstechnica.com/cars/2018/04/experts-say-tesla-has-repeated-car-industry-mistakes-from-the-1980s/2/ 
+
+A look at terminal emulators, part 1 [LWN.net]
+https://lwn.net/Articles/749992/ 
+
+To #DeleteFacebook or Not to #DeleteFacebook? That Is Not the Question | Electronic Frontier Foundation
+https://www.eff.org/deeplinks/2018/04/deletefacebook-or-not-deletefacebook-not-question 
+
+DIY a Fast Electric Skateboard with Budget
+http://eskateboard.huu.la/ 
+
+Inside the Linux boot process
+https://www.ibm.com/developerworks/library/l-linuxboot/ 
+
+EECS 349 (226 unread)
+https://piazza.com/class/jfk7ttjv40a2up?cid=297 
+
+MIT Spin-off Faces Daunting Challenges on Path to Build a Fusion Power Plant in 15 Years - IEEE Spectrum
+https://spectrum.ieee.org/energywise/energy/nuclear/fifteen-years-to-a-fusion-power-plant-might-be-a-reach 
+
+New testing of model improves confidence in the performance of ITER
+https://m.phys.org/news/2018-04-confidence-iter.html 
+
+DTC Research
+https://docs.google.com/forms/d/e/1FAIpQLSf2RaMxvj_pFInfs5Rgygt6p21xivwp4Bi-waPiY-N9ztBdqA/viewform 
+
+Why it took a long time to build that tiny link preview on Wikipedia – Wikimedia Blog
+https://blog.wikimedia.org/2018/04/20/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia/ 
+
+Walking While Black | Literary Hub
+https://lithub.com/walking-while-black/ 
+
+What's Not Included in Facebook's 'Download Your Data' | WIRED
+https://www.wired.com/story/whats-not-included-in-facebooks-download-your-data/ 
+
+Thread by @clemensv: "I've talked to a lot of distributed systems engineers (who build cloud-scale stuff) from across the industry about blockchain. While most pl […]"
+https://threadreaderapp.com/thread/987266940887535616.html 
+
+Giving away the company's secret sauce
+https://rachelbythebay.com/w/2018/04/22/sauce/ 
+
+The limits of information | plus.maths.org
+https://plus.maths.org/content/bekenstein 
+
+Gerontopoly: Homeownership, wealth, and age | City Observatory
+http://cityobservatory.org/gerontopoly-homeownership-wealth-and-age/ 
+
+Home Page - Intuitive Math
+https://intuitive-math.club/ 
+
+This Start-Up Says It Wants to Fight Poverty. A Food Stamp Giant Is Blocking It. - The New York Times
+https://mobile.nytimes.com/2018/04/23/technology/start-up-fight-poverty-food-stamp-giant-blocking-it.html 
+
+dumber phone - nomasters
+https://nomasters.io/posts/dumber-phone/ 
+
+How to Write a Spelling Corrector
+http://norvig.com/spell-correct.html 
+
+Google’s new Chat service shows total contempt for Android users’ privacy | Amnesty International
+https://www.amnesty.org/en/latest/news/2018/04/googles-new-chat-service-shows-total-contempt-for-android-users-privacy/ 
+
+Newspaper op-eds change minds -- ScienceDaily
+https://www.sciencedaily.com/releases/2018/04/180424133556.htm 
+
+Exclusive: CIA Files Prove America Helped Saddam as He Gassed Iran – Foreign Policy
+https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/ 
+
+What Good Is ‘Community’ When Someone Else Makes All the Rules? - The New York Times
+https://mobile.nytimes.com/2018/04/17/magazine/what-good-is-community-when-someone-else-makes-all-the-rules.html 
+
+The Presidency: The Hardest Job in the World - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/05/a-broken-office/556883/ 
+
+Watch: 'Chau, Beyond the Lines,' Short Film About a Victim of Agent Orange - The Atlantic - The Atlantic
+https://www.theatlantic.com/video/index/558728/chau-beyond-the-lines/ 
+
+How Poetry and Math Intersect | Science | Smithsonian
+https://www.smithsonianmag.com/science-nature/how-poetry-and-math-intersect-180968869/?no-ist 
+
+global posts
+http://hubski.com/ 
+
+Why You Hate Contemporary Architecture | Current Affairs
+https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture 
+
+Are you really Facebook’s product? The history of a dangerous idea.
+https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html 
+
+Weekly Command: Fuzzy finding everything with fzf
+https://monades.roperzh.com/weekly-command-fuzzy-finding-everything-with-fzf/ 
+
+Lowndes County, Ala.: The Place God Forgot
+https://www.theroot.com/lowndes-county-ala-the-place-god-forgot-1825483659 
+
+[1803.08493] Context is Everything: Finding Meaning Statistically in Semantic Spaces
+https://arxiv.org/abs/1803.08493 
+
+Why we should bulldoze the business school | News | The Guardian
+https://www.theguardian.com/news/2018/apr/27/bulldoze-the-business-school 
+
+Unlearning toxic behaviors in a code review culture
+https://medium.freecodecamp.org/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c 
+
+Nobel Laureate Economist Says American Inequality Didn’t Just Happen. It Was Created. - Evonomics
+http://evonomics.com/nobel-prize-economist-says-american-inequality-didnt-just-happen-it-was-created/ 
+
+What happened Gmail? – UX Planet
+https://uxplanet.org/what-happened-gmail-e5f35e423b1b 
+
+Quizzes
+https://canvas.northwestern.edu/courses/72414/quizzes 
+
+Can Germany Protect Its Jews and Welcome Muslim Migrants? - The Atlantic
+https://www.theatlantic.com/international/archive/2018/04/germany-jews-muslim-migrants/558677/ 
+
+Fraudulent claims made by IBM about Watson and AI | Roger Schank
+http://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI 
+
+Salsify — A New Architecture for Real-time Internet Video
+https://snr.stanford.edu/salsify/ 
+
+What lies behind the simplistic image of the happy Buddhist? | Aeon Essays
+https://aeon.co/essays/what-lies-behind-the-simplistic-image-of-the-happy-buddhist 
+
+Why the utopian vision of William Morris is now within reach | Aeon Essays
+https://aeon.co/essays/why-the-utopian-vision-of-william-morris-is-now-within-reach 
+
+How communist Bulgaria became a leader in tech and sci-fi | Aeon Essays
+https://aeon.co/essays/how-communist-bulgaria-became-a-leader-in-tech-and-sci-fi 
+
+Why it’s as hard to escape an echo chamber as it is to flee a cult | Aeon Essays
+https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult 
+
+Across the world, democracy is in crisis. Here’s my plan to save it | Dambisa Moyo | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/may/02/democracy-crisis-plan-trump-brexit-system-politicans-voters 
+
+Why replacing politicians with experts is a reckless idea | News | The Guardian
+https://www.theguardian.com/news/2018/may/01/why-replacing-politicians-with-experts-is-a-reckless-idea 
+
+Question - Quora
+https://www.quora.com/Why-doesnt-Linux-have-an-executable-ELF-or-other-installer-like-Windows-has-the-EXE-installer 
+
+landave's blog
+https://landave.io/ 
+
+De-Googling my phone · Martin Pitt
+https://piware.de/post/2018-05-01-android-degoogle/ 
+
+Design for an Audience | style.org
+http://style.org/ku/ 
+
+Issues | Micropayments: A Viable Business Model?
+https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/MicropaymentsAndTheNet/issues.html 
+
+Searching for a Future Beyond Facebook | Hacker News
+https://news.ycombinator.com/item?id=16992001 
+
+FreedomBox Foundation
+https://freedomboxfoundation.org/ 
+
+Google embraces, extends, and extinguishes | Drew DeVault’s Blog
+https://drewdevault.com/2018/05/03/Google-embraces-extends-extinguishes.html 
+
+Akin's Laws of Spacecraft Design
+http://spacecraft.ssl.umd.edu/akins_laws.html 
+
+Say yes to the progressive web | HPE
+https://www.hpe.com/us/en/insights/articles/say-yes-to-the-progressive-web-1805.html 
+
+Please Stop Using Adblock (But Not Why You Think) – Samuel Ricks – Medium
+https://medium.com/@trybravery/please-stop-using-adblock-but-not-why-you-think-13280e76c8e7 
+
+Are interruptions really worse for programmers than for other knowledge workers?
+https://dev.to/_bigblind/are-interruptions-really-worse-for-programmers-than-for-other-knowledge-workers-2ij9 
+
+The rise of the pointless job | Hacker News
+https://news.ycombinator.com/item?id=16995389 
+
+‘I had to guard an empty room’: the rise of the pointless job | Money | The Guardian
+https://www.theguardian.com/money/2018/may/04/i-had-to-guard-an-empty-room-the-rise-of-the-pointless-job 
+
+The unpublished notebooks of J. M. Korhonen | Because specialization is for insects.
+https://jmkorhonen.net/ 
+
+Cognitio – OS update for the mind
+https://yilunzh.com/ 
+
+Fly Me to the Moon 2018: An Evening of Music, Dancing, and Food
+https://m.facebook.com/events/204513196819000 
+
+Gitea
+https://gitea.io/en-US/ 
+
+Software patents are evil, but BSD+Patents is probably not the solution - Wes McKinney
+http://wesmckinney.com/blog/react-bsd-patents/ 
+
+Ursa Labs Technology · Ursa Labs
+https://ursalabs.org/tech/ 
+
+12-year study looks at effects of universal basic income
+http://mitsloan.mit.edu/newsroom/articles/12-year-study-looks-at-effects-of-universal-basic-income/ 
+
+A Different Kind of Abuse – Shannon Ashley – Medium
+https://medium.com/@Shesreallyfat/a-different-kind-of-abuse-4d04a501e2c7 
+
+xkcd: Driving Cars
+https://m.xkcd.com/1990/ 
+
+The Economics of Writing a Technical Book – Justin Garrison – Medium
+https://medium.com/@rothgar/the-economics-of-writing-a-technical-book-689d0c12fe39 
+
+Black Voters And Democrats In the 2018 Elections - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/05/what-black-voters-want/559775/ 
+
+http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/ 
+
+EECS 349 Machine Learning Spring 2018
+http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/ 
+
+Race Is a Social Construct, Scientists Argue - Scientific American
+https://www.scientificamerican.com/article/race-is-a-social-construct-scientists-argue/ 
+
+Laws of Tech: Commoditize Your Complement - Gwern.net
+https://www.gwern.net/Complement#2 
+
+Atrium - Lead Full Stack Engineer
+https://jobs.lever.co/atrium/3c36a7b4-2e36-4ddd-84a1-c886fce7458d?lever-origin=applied&lever-source%5B%5D=HackerNews 
+
+The problem of China's huge bike graveyards - BBC News
+http://www.bbc.com/news/av/world-australia-42304984/bike-share-teething-pains-they-re-throwing-them-in-rivers 
+
+Dat Project - Welcome!
+https://datproject.org/ 
+
+All Work and No Play: Why Your Kids Are More Anxious, Depressed - The Atlantic
+https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/?single_page=true 
+
+Adam Grant on Arguing in Front of Your Kids - The Atlantic - The Atlantic
+https://www.theatlantic.com/video/index/560054/home-school-episode-2/ 
+
+What Are The Easiest Songs to Play on Piano? - THE ONE SMART PIANO AUSTRALIA
+https://www.smartpiano.com.au/easiest-songs-play-piano/ 
+
+NotePlan - Markdown Calendar & Notes
+https://noteplan.co/ 
+
+George Orwell: Notes on Nationalism
+http://orwell.ru/library/essays/nationalism/english/e_nat 
+
+Riddled With Questions: Interrogating Your Technology | LibrarianShipwreck
+https://librarianshipwreck.wordpress.com/2014/03/17/riddled-with-questions-interrogating-your-technology/ 
+
+An island of reason in the cyberstream – on the life and thought of Joseph Weizenbaum | LibrarianShipwreck
+https://librarianshipwreck.wordpress.com/2016/07/27/an-island-of-reason-in-the-cyberstream-on-the-life-and-thought-of-joseph-weizenbaum/ 
+
+GitHub · Where software is built
+https://github.com/login?client_id=7e0a3cd836d3e544dbd9&return_to=%2Flogin%…26state%3D9064da75b5618453399b627e30a3e8baa1a69d3084f7d53e4f1d03cc92d0f02b 
+
+Scales and Key Signatures - The Method Behind the Music
+https://method-behind-the-music.com/theory/scalesandkeys/ 
+
+Israelis and Palestinians Are Caught in a Cycle of Denial - The Atlantic
+https://www.theatlantic.com/international/archive/2018/05/israel-palestine-embassy-legitimacy/560291/ 
+
+Why Tech Philanthropy Doesn't Help Silicon Valley - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/05/silicon-valley-community-foundation-philanthropy/560216/ 
+
+Warning: Your programming career – SoloLearn – Medium
+https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b 
+
+Algorithms Behind Modern Storage Systems - ACM Queue
+https://queue.acm.org/detail.cfm?id=3220266 
+
+How the Enlightenment Ends - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/ 
+
+Dear Therapist: My Daughter Thinks I Was a Bad Parent - The Atlantic
+https://www.theatlantic.com/family/archive/2018/05/dear-therapist-daughter-bad-parent/560432/ 
+
+How To Think Clearly As An Individual – Student Voices
+https://mystudentvoices.com/how-to-think-clearly-as-an-individual-fac1b8b6c5a7 
+
+Why UX, CX, UI, IA, IxD, and Other Sorts of Design Are Dumb
+https://medium.muz.li/design-types-7d75839a20ea 
+
+‘Call Me By Your Name‘ Finally Shows the Kind of Bisexual Narrative I Want to See
+https://electricliterature.com/call-me-by-your-name-finally-shows-the-kind-of-bisexual-narrative-i-want-to-see-9288aae15da2 
+
+EasyMotion - Vim Awesome
+https://vimawesome.com/plugin/easymotion 
+
+An Interesting Pattern in the Prime Numbers: Parallax Compression | | Nova Spivack
+http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression 
+
+https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas 
+
+Postulates of Quantum Mechanics
+http://vergil.chemistry.gatech.edu/notes/quantrev/node20.html 
+
+Postulates of Quantum Mechanics
+http://vergil.chemistry.gatech.edu/notes/quantrev/node20.html 
+
+Wish.com and the Rise of Shipping From China - The Atlantic
+https://www.theatlantic.com/business/archive/2018/05/wish-china-cheap-stuff/560861/ 
+
+The New Saudi Arabia Is the Same as the Old Saudi Arabia - The Atlantic
+https://www.theatlantic.com/international/archive/2018/05/saudi-arabia-hits-the-brakes-on-reforms/560870/ 
+
+The Future of AI Depends on High-School Girls - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/05/ai-future-women/560618/ 
+
+Texas Shooting: Schools Can't Stop Violence - The Atlantic
+https://www.theatlantic.com/family/archive/2018/05/school-shootings-prevention/560753/ 
+
+The Bill Gates Line – Stratechery by Ben Thompson
+https://stratechery.com/2018/the-bill-gates-line/ 
+
+Digital Capitalism’s War on Leisure : Democracy Journal
+https://democracyjournal.org/arguments/digital-capitalisms-war-on-leisure/ 
+
+Ditch the Batteries: Off-Grid Compressed Air Energy Storage - LOW-TECH MAGAZINE
+http://www.lowtechmagazine.com/2018/05/ditch-the-batteries-off-the-grid-compressed-air-energy-storage.html 
+
+Zuckerberg set up fraudulent scheme to 'weaponise' data, court case alleges | Technology | The Guardian
+https://www.theguardian.com/technology/2018/may/24/mark-zuckerberg-set-up-f…udulent-scheme-weaponise-data-facebook-court-case-alleges?CMP=share_btn_tw 
+
+Why Proof-of-work isn’t suitable for small cryptocurrencies
+https://thenextweb.com/hardfork/2018/05/24/proof-work-51-percent-attacks/ 
+
+A simple mechanism could have been decisive for the development of life
+https://m.phys.org/news/2018-05-simple-mechanism-decisive-life.html 
+
+'Cucli,' Xavier Marrades's Short Film About Life, Death, and Reincarnation - The Atlantic
+https://www.theatlantic.com/video/index/560900/cucli-dove-film/ 
+
+Has there been progress in philosophy? - Marginal REVOLUTION
+https://marginalrevolution.com/marginalrevolution/2018/05/has-there-been-progress-in-philosophy.html 
+
+39 Machine Learning Resources that will help you in every essential step
+https://medium.com/@karamanbk/39-machine-learning-resources-that-will-help-you-in-every-essential-step-b2696515ed9 
+
+Intel AI Lab open-sources library for deep learning-driven NLP | VentureBeat
+https://venturebeat.com/2018/05/24/intel-ai-lab-open-sources-library-for-deep-learning-driven-nlp/ 
+
+Failed projects in British culture – TheTLS
+https://www.the-tls.co.uk/articles/private/failed-projects-british-culture/ 
+
+Algorithmic glass ceiling in social networks: the effects of social recommendations on network diversity | the morning paper
+https://blog.acolyer.org/2018/05/24/algorithmic-glass-ceiling-in-social-networks-the-effects-of-recommendation-on-social-diversity/ 
+
+Graphics architecture  |  Android Open Source Project
+https://source.android.com/devices/graphics/architecture 
+
+WindowManager  |  Android Developers
+https://developer.android.com/reference/android/view/WindowManager 
+
+Bullshit Jobs: A Theory by David Graeber review – the myth of capitalist efficiency | Books | The Guardian
+https://www.theguardian.com/books/2018/may/25/bullshit-jobs-a-theory-by-david-graeber-review 
+
+GitHub - nim-lang/nimforum: Forum software written in Nim
+https://github.com/nim-lang/nimforum 
+
+Browse Ebooks | Standard Ebooks
+https://standardebooks.org/ebooks/ 
+
+Question - Quora
+https://www.quora.com/Is-Windows-MacOS-or-Linux-more-modern 
+
+An experimental implementation of the kernel/domain architecture
+https://dl.acm.org/citation.cfm?id=808043 
+
+Question - Quora
+https://www.quora.com/How-and-why-do-software-engineers-earn-very-high-salaries 
+
+Question - Quora
+https://www.quora.com/How-dangerous-is-Jordan-B-Peterson 
+
+The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ 
+
+Volans-i drones can haul cargo for 500 miles and land on a moving ship
+https://www.cnbc.com/2018/05/26/volans-i-drones-can-haul-cargo-for-500-miles-and-land-on-a-moving-ship.html 
+
+USB Reverse Engineering: Down the rabbit hole | /dev/alias – Hack. Dev. Transcend.
+http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/ 
+
+Forget the Atlantic’s “9.9 percent.” The 1 percent are still the problem.
+https://slate.com/business/2018/05/forget-the-atlantics-9-9-percent-the-1-percent-are-still-the-problem.html 
+
+Ask HN: When is federation a better solution than decentralization? | Hacker News
+https://news.ycombinator.com/item?id=17171985 
+
+GitHub - smooth-code/smooth-ui: React UI library based on styled-components 💅🍭
+https://github.com/smooth-code/smooth-ui 
+
+BBC - Future - 'Everybody was telling me there was nothing wrong'
+http://www.bbc.com/future/story/20180523-how-gender-bias-affects-your-healthcare 
+
+unquantified - nomasters
+https://nomasters.io/posts/unquantified/ 
+
+The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains by Robert H. Lustig
+https://www.goodreads.com/book/show/34237719-the-hacking-of-the-american-mind 
+
+All Piano Exercises - 240 Piano finger exercises in all keys
+https://www.hanon-online.com/all-piano-exercises/ 
+
+Piano Technique Exercise N°1 by Charles-Louis Hanon - 240 Piano finger exercises in all keys
+https://www.hanon-online.com/the-virtuoso-pianist-part-i/hanon-exercise-n-1/ 
+
+Several tips how to bypass website anti-scraping protections | Apify · Knowledge base
+https://kb.apify.com/tips-and-tricks/several-tips-how-to-bypass-website-anti-scraping-protections 
+
+Can “effective altruism” maximise the bang for each charitable buck? - Faith, hope and clarity
+https://www.economist.com/international/2018/06/02/can-effective-altruism-maximise-the-bang-for-each-charitable-buck 
+
+Revisiting the Arcan Project | Hacker News
+https://news.ycombinator.com/item?id=17201256 
+
+Leaked Emails Show Google Expected Lucrative Military Drone AI Work to Grow Exponentially
+https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/ 
+
+[1002.2284] Markets are efficient if and only if P = NP
+https://arxiv.org/abs/1002.2284 
+
+The Dawn of a new Command Line Interface | Arcan
+https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/ 
+
+One night in Rio – Vacation photos from Plan9 | Arcan
+https://arcan-fe.com/2017/04/17/one-night-in-rio-vacation-photos-from-plan9/ 
+
+Workers of the world unite on distributed digital platforms | Aeon Essays
+https://aeon.co/essays/workers-of-the-world-unite-on-distributed-digital-platforms 
+
+This Is the Age of Grandparents - The Atlantic
+https://www.theatlantic.com/family/archive/2018/06/this-is-the-age-of-grandparents/561527/ 
+
+The Death of a Gig Worker - The Atlantic
+https://www.theatlantic.com/technology/archive/2018/06/gig-economy-death/561302/ 
+
+Title IX Is Too Easy to Abuse - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/title-ix-is-too-easy-to-abuse/561650/ 
+
+Energy revolution: California approves $768 million for electric vehicles - San Francisco Chronicle
+https://www.sfchronicle.com/business/article/Energy-revolution-California-approves-massive-12957685.php#photo-14888987 
+
+How to Android without Google [easy way] · Byte My Bits
+https://bytemybits.gitlab.io/post/2018-05-23-how-to-android-without-google-easy-way/ 
+
+A Course in Machine Learning
+http://ciml.info/ 
+
+The Trouble with Theories of Everything - Issue 29: Scaling - Nautilus
+http://m.nautil.us/issue/29/scaling/the-trouble-with-theories-of-everything 
+
+Saudi Arabia’s Dark Nationalism - The Atlantic
+https://www.theatlantic.com/international/archive/2018/06/saudi-arabia-nationalism-driving-ban-salman/561845/ 
+
+Why Children Aren't Behaving, And What You Can Do About It : NPR Ed : NPR
+https://www.npr.org/sections/ed/2018/06/02/611082566/why-children-arent-behaving-and-what-you-can-do-about-it 
+
+American tech giants are making life tough for startups - Into the danger zone
+https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups 
+
+Shifting from Central Planning to a Decentralised Economy: Do we Need Central Banks? – Professor Werner
+https://professorwerner.org/shifting-from-central-planning-to-a-decentralised-economy-do-we-need-central-banks/ 
+
+The Psychology of Money · Collaborative Fund
+http://www.collaborativefund.com/blog/the-psychology-of-money/ 
+
+Halloween Document 8
+http://www.catb.org/esr/halloween/ 
+
+Halloween Document 10
+http://www.catb.org/esr/halloween/halloween1.html#_Toc427495741 
+
+From cultofmac.com
+https://www-cultofmac-com.cdn.ampproject.org/v/s/www.cultofmac.com/213221/e…213221%2Fe-ink-keyboard-concept-marries-best-of-touch-and-physical-keys%2F 
+
+Hypothetically, could small e-ink displays be used on the keys? - TechTalk - WayTools
+https://forum.waytools.com/t/hypothetically-could-small-e-ink-displays-be-used-on-the-keys/4063/17 
+
+The Tragic Tale of Art Lebedev's Optimus Popularis Keyboard - Tested
+http://www.tested.com/tech/accessories/3259-the-tragic-tale-of-art-lebedevs-optimus-popularis-keyboard/ 
+
+From theverge.com
+https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/a…F2015%2F8%2F25%2F9204603%2Fmicrosoft-displaycover-surface-keyboard-concept 
+
+From technologyreview.com
+https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyrevie…ww.technologyreview.com%2Fs%2F510656%2Fwould-you-buy-a-dynamic-keyboard%2F 
+
+From theverge.com
+https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/a…m%2F2016%2F10%2F19%2F13328710%2Fapple-e-ink-keyboard-macbook-sonder-rumors 
+
+A Futurist Predicts the Death of Higher Education - The Atlantic
+https://www.theatlantic.com/education/archive/2018/06/heres-how-higher-education-dies/561995/ 
+
+Why Do Poor People Oppose Welfare? - The Atlantic
+https://www.theatlantic.com/science/archive/2018/06/racial-resentment-motivates-opposition-to-welfare/562010/ 
+
+A Neat Trick For Compressing Networked State Data « The blog at the bottom of the sea
+https://blog.demofox.org/2018/06/04/a-neat-trick-for-compressing-networked-state-data/ 
+
+Chris Ball » Announcing GitTorrent: A Decentralized GitHub
+https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/ 
+
+How to Leverage Introversion as a Career Strength – Larry Cornett, Ph.D. – Medium
+https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa 
+
+The path to sustainably working on FOSS full-time | Drew DeVault’s Blog
+https://drewdevault.com/2018/02/24/The-road-to-sustainable-FOSS.html 
+
+Havana - Piano Sheet Music - Camila Cabello | Sheet music for Piano | MuseScore
+https://musescore.com/user/5974186/scores/4769891 
+
+Why Do Sports Teams Visit the White House? - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/which-america-is-trump-celebrating/562127/ 
+
+Advanced computing with IPython [LWN.net]
+https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/ 
+
+Does China’s digital police state have echoes in the West? - Technology and surveillance
+https://www.economist.com/leaders/2018/05/31/does-chinas-digital-police-state-have-echoes-in-the-west 
+
+The odd reality of life under China's all-seeing credit score system | WIRED UK
+http://www.wired.co.uk/article/china-social-credit 
+
+Oracle Lays Off Java Mission Control Team After Open Sourcing Product
+https://www.infoq.com/news/2018/06/open-source-jmc 
+
+Opinion | Can Facebook Be Cut Down to Size? - The New York Times
+https://mobile.nytimes.com/2018/06/05/opinion/facebook-china-privacy-data-security.html 
+
+Analyzing HN moderation & censorship | Drew DeVault’s Blog
+https://drewdevault.com/2017/09/13/Analyzing-HN.html 
+
+How do black people navigate white worlds? Shape-shifting | Kimberly Foster | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/jun/07/how-do-black-people-navigate-white-worlds-shape-shifting 
+
+Voting while black: the racial injustice that harms our democracy | Carol Anderson | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/jun/07/black-voter-suppression-rights-america-trump 
+
+America’s Startup Scene Is Looking Anemic - Bloomberg
+https://www.bloomberg.com/view/articles/2018-06-07/america-s-startup-scene-is-looking-anemic 
+
+Half of all adults in the world have less than $2,300 in wealth, Credit Suisse global wealth report indicates — Quartz
+https://qz.com/848181/half-of-all-adults-in-the-world-have-less-than-2300-in-wealth-credit-suisse-global-wealth-report-indicates/ 
+
+US government to use facial recognition technology at Mexico border crossing | Technology | The Guardian
+https://www.theguardian.com/technology/2018/jun/05/facial-recognition-us-mexico-border-crossing 
+
+Machine Learning: how to go from Zero to Hero – freeCodeCamp
+https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da 
+
+Kill the tech bro, save the world: how CEOs became Hollywood's new supervillains | Technology | The Guardian
+https://www.theguardian.com/technology/2018/jun/06/tech-bros-ceo-hollywood-supervillains 
+
+After the Miracle — The California Sunday Magazine
+https://story.californiasunday.com/infosys-india-tech 
+
+Must know Information Theory concepts in Deep Learning (AI)
+https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d 
+
+Terra Incognita
+http://blog.christianperone.com/ 
+
+Explain it like I’m Five: The Socialist Millionaire Problem and Secure Multi-Party Computation | Twisted Oak Studios Blog
+http://twistedoakstudios.com/blog/Post3724_explain-it-like-im-five-the-socialist-millionaire-problem-and-secure-multi-party-computation 
+
+EECS 349 Machine Learning Spring 2018
+http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/ 
+
+Living APIs, and the Case for GraphQL — Brandur Leach
+https://brandur.org/graphql 
+
+Maybe the Gig Economy Isn’t Reshaping Work After All - The New York Times
+https://mobile.nytimes.com/2018/06/07/business/economy/work-gig-economy.html 
+
+How I automated my job with Node.js – DailyJS – Medium
+https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017 
+
+Documentation - Perkeep
+https://perkeep.org/doc/ 
+
+Inventor says Google is patenting work he put in the public domain | Ars Technica
+https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/ 
+
+Polyaxon
+https://polyaxon.com/ 
+
+Trump Gives a Bitter Ending to the G7 Summit - The Atlantic
+https://www.theatlantic.com/international/archive/2018/06/trump-g7/562493/ 
+
+Trump Goes to War Against the Democracies - The Atlantic
+https://www.theatlantic.com/international/archive/2018/06/trump-g7/562487/ 
+
+Did Toolmaking Pave the Road for Human Language? - The Atlantic
+https://www.theatlantic.com/science/archive/2018/06/toolmaking-language-brain/562385/ 
+
+Russell Brand’s ‘Under the Skin’ Is Surprisingly Brainy - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/07/russell-brand-under-the-skin/561731/ 
+
+Net Neutrality Repeal Is Official. Here’s How That Could Affect You. - The New York Times
+https://mobile.nytimes.com/2018/06/11/technology/net-neutrality-repeal.html 
+
+The Scooter Economy – Stratechery by Ben Thompson
+https://stratechery.com/2018/the-scooter-economy/ 
+
+Do VCs really add value? — Founders say sometimes. – Carl Fritjofsson – Medium
+https://medium.com/@fritjofsson/do-vcs-really-add-value-founders-say-sometimes-f27bb956eb8c 
+
+GitHub - s-matyukevich/raspberry-pi-os: Learning operating system development using Linux kernel and Raspberry Pi
+https://github.com/s-matyukevich/raspberry-pi-os 
+
+Alternatives to Google Products (Complete List) | Restore Privacy
+https://restoreprivacy.com/google-alternatives/ 
+
+Eugenics today: where eugenic sterilisation continues now | Aeon Essays
+https://aeon.co/essays/eugenics-today-where-eugenic-sterilisation-continues-now 
+
+An introduction to Wayland | Drew DeVault’s Blog
+https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html 
+
+The Peterson Synthesis, criticism and completion – Rebel Wisdom – Medium
+https://medium.com/rebel-wisdom/the-peterson-synthesis-criticism-and-completion-cf3595518ced 
+
+The Peterson paradox, or ‘it doesn’t matter if you’re right, if people stop listening’
+https://medium.com/rebel-wisdom/the-peterson-paradox-it-doesnt-matter-if-you-re-right-if-people-stop-listening-16b9371967cc 
+
+"Mind-boggling" Stanford research turns human blood cells into functional neurons
+https://newatlas.com/blood-cells-transformed-neurons-stanford/54948/ 
+
+[1806.02404] Dissolving the Fermi Paradox
+https://arxiv.org/abs/1806.02404 
+
+The End of Video Coding? – Netflix TechBlog – Medium
+https://medium.com/netflix-techblog/the-end-of-video-coding-40cf10e711a2 
+
+What to Know About the DOJ Inspector General Report - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/the-reckoning-facing-the-fbi/562685/ 
+
+Is America Ready for a Global Pandemic? - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/07/when-the-next-plague-hits/561734/ 
+
+Fewer people 'using Facebook for news' - BBC News
+https://www.bbc.com/news/technology-44457167 
+
+Apple finally has the right attitude about notifications in iOS 12 - The Verge
+https://www.theverge.com/2018/6/13/17453924/apple-notifications-ios-12-attitude 
+
+Don’t Let Facebook, or Any Tracker, Follow You on The Web | Tor Blog
+https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web 
+
+The New Norm : Invisibilia : NPR
+https://www.npr.org/programs/invisibilia/481887848/the-new-norm 
+
+Extinguishing the Beacon of America - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/extinguishing-the-beacon-of-america/562880/ 
+
+Black Women Are Feeling Neglected By the DCCC - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/why-arent-top-democrats-acknowledging-the-black-women-running-for-office/562802/ 
+
+The Neuroscientific Case for Facing Your Fears - The Atlantic
+https://www.theatlantic.com/science/archive/2018/06/the-neuroscientific-case-for-facing-your-fears/562820/ 
+
+Institutional Metacognition as an Improvement Tool for Educational Management | Ignacio Figueroa Céspedes and Felipe Rodriguez - Academia.edu
+https://www.academia.edu/36822262/Institutional_Metacognition_as_an_Improvement_Tool_for_Educational_Management 
+
+Midterms 2018: Democrats Focus on Trump Scandals - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/its-not-collusion-its-corruption/562634/ 
+
+The SHSAT Controversy in New York's Public High Schools - The Atlantic
+https://www.theatlantic.com/education/archive/2018/06/new-york-high-schools-stuyvesant-brooklyn-bronx/562772/ 
+
+Danielle Allen's Commencement Address - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/a-radically-woke-and-deeply-conservative-commencement-address/562490/ 
+
+The Long, Contentious History of the 'Word Gap' Study - The Atlantic
+https://www.theatlantic.com/education/archive/2018/06/the-long-contentious-history-of-the-word-gap-study/562850/ 
+
+The College Board's Problematic Changes to AP World - The Atlantic
+https://www.theatlantic.com/education/archive/2018/06/ap-world-history-controversy/562778/ 
+
+We Need to Save Ignorance From AI - Issue 61: Coordinates - Nautilus
+http://m.nautil.us/issue/61/coordinates/we-need-to-save-ignorance-from-ai 
+
+Why We Should Teach Music History Backwards | Arts & Culture | Smithsonian
+https://www.smithsonianmag.com/arts-culture/why-we-should-teach-music-history-backwards-180955053/?no-ist 
+
+Making buildings, cars and planes from materials based on plant fibres - A green way to make things
+https://www.economist.com/science-and-technology/2018/06/16/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres 
+
+The Beginning: Memory Management
+https://uridiumauthor.blogspot.com/2018/06/memory-management.html?m=1 
+
+Marc Andreessen On The Future Of Enterprise | TechCrunch
+https://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/ 
+
+Poor Americans' Mental Health Is Getting Worse - The Atlantic
+https://www.theatlantic.com/health/archive/2018/06/poor-americans-really-are-in-despair/563105/ 
+
+A New Accent Is Developing in Southwest Kansas - Atlas Obscura
+https://www.atlasobscura.com/articles/new-accent-liberal-kansas 
+
+The Nationalist's Delusion - The Atlantic
+https://www.theatlantic.com/politics/archive/2017/11/the-nationalists-delusion/546356/ 
+
+How Does Language Shape the Way We Think? Cognitive Scientist Lera Boroditsky Explains | Open Culture
+http://www.openculture.com/2018/06/language-shapes-way-think-cognitive-scientist-lera-boroditsky-breaks.html 
+
+On Juneteenth in 2018, Black Voting Rights Are Under Attack - The Atlantic
+https://www.theatlantic.com/politics/archive/2018/06/celebrating-juneteenth-in-a-moment-of-peril/563213/ 
+
+Hardliners Learn That Democracy Can Pay Off - Bloomberg
+https://www.bloomberg.com/view/articles/2018-06-18/hardliners-learn-that-democracy-can-pay-off 
+
+Conspiracies, Climate, and the New Dark Age: an extract from my book about Technology and the End…
+https://medium.com/@jamesbridle/conspiracies-climate-and-the-new-dark-age-an-extract-from-my-book-about-technology-and-the-end-2ffeef08ff29 
+
+Trust Issues – Medium
+https://medium.com/s/trustissues 
+
+(2) MOOCs and Crowdsourcing: Massive Courses & Massive Resources | Araz Taeihagh and John Prpic - Academia.edu
+https://www.academia.edu/19696292/MOOCs_and_Crowdsourcing_Massive_Courses_and_Massive_Resources?auto=download&campaign=weekly_digest 
+
+(2) Knowledge and Perception of Lecturers regarding Problem- Based Learning as an Educational Approach in College of Health Sciences, Moi University | IOSR Journals (www.iosrjournals.org) and Ronald O Obwoge - Academia.edu
+https://www.academia.edu/36827613/Knowledge_and_Perception_of_Lecturers_reg…ng_as_an_Educational_Approach_in_College_of_Health_Sciences_Moi_University 
+
+William Langewiesche: Fighting ISIS With the B-2 Bomber - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/07/william-langewiesche-b-2-stealth-bomber/561719/ 
+
+NixOS 18.03 Released | Hacker News
+https://news.ycombinator.com/item?id=16773824 
+
+About NixOS
+https://nixos.org/nixos/about.html 
+
+The Scientific Paper Is Obsolete. Here's What's Next. - The Atlantic
+https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/ 
+
+How did we let modern slavery become part of our everyday lives? | Felicity Lawrence | Opinion | The Guardian
+https://www.theguardian.com/commentisfree/2018/apr/02/modern-slavery-daily-life-exploitation-goods-services 
+
+How Useful Is Fear? - The Atlantic
+https://www.theatlantic.com/magazine/archive/2018/06/what-are-you-afraid-of/559121/ 
+
