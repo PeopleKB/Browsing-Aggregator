@@ -1,0 +1,4041 @@
+XT1575
+#ZY2238892X
+Chrome (69.0.3497.100)
+New tab:
+
+Enter URL
+Open
+Magic Ink: Information Software and the Graphical Interface
+Inspect
+
+http://worrydream.com/MagicInk/
+Nadia Eghbal | Understanding user support systems in open source
+Inspect
+
+https://nadiaeghbal.com/user-support
+Ask HN: What are some alternatives to Google maps? | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=18106827
+Fermat's Library | Why Most Published Research Findings Are False annotated/explained version.
+Inspect
+
+https://fermatslibrary.com/s/why-most-published-research-findings-are-false
+Questions · Patrick Collison
+Inspect
+
+https://patrickcollison.com/questions
+How Technochauvinism Derailed the Digital Future - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/09/tech-was-supposed-to-be-societys-great-equalizer-what-happened/571660/
+Imperfect Produce | Delivery Schedule
+Inspect
+
+https://new.imperfectproduce.com/account/deliveries
+Facebook Building 8 explored data sharing agreement with hospitals
+Inspect
+
+https://www.cnbc.com/2018/04/05/facebook-building-8-explored-data-sharing-agreement-with-hospitals.html
+Ethereum's Compact Merkle Trie (Part I) – Nervous Systems
+Inspect
+
+https://nervous.io/clojure/crypto/2018/04/04/clojure-evm-iii/
+The Stack Overflow Age – Joel on Software
+Inspect
+
+https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/
+Brain connectivity reflects human aesthetic responses to music | Social Cognitive and Affective Neuroscience | Oxford Academic
+Inspect
+
+https://academic.oup.com/scan/article/11/6/884/2223400
+The Capitalist Threat - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/1997/02/the-capitalist-threat/376773/
+Project from Hell – Project Failures
+Inspect
+
+https://projectfailures.wordpress.com/2008/06/24/project-from-hell/amp/?__twitter_impression=true
+RSS is undead | TechCrunch
+Inspect
+
+https://techcrunch.com/2018/04/07/rss-is-undead/
+Web Authentication: An API for accessing Public Key Credentials Level 1
+Inspect
+
+https://www.w3.org/TR/2018/CR-webauthn-20180320/
+Piano Pentatonic Blues Scales - overview with pictures
+Inspect
+
+https://www.pianoscales.org/blues.html
+Elon Musk gives first glimpse inside Tesla Model 3 production line | Electrek
+Inspect
+
+https://electrek.co/2018/04/11/elon-musk-inside-tesla-model-3-production-line/
+Teen Monitoring Apps Don't Work and Just Make Teens Hate Their Parents, Study Finds
+Inspect
+
+https://gizmodo.com/teen-monitoring-apps-dont-work-and-just-make-teens-hate-1824706829
+Apple is making a show based on Isaac Asimov’s ‘Foundation’ books | TechCrunch
+Inspect
+
+https://techcrunch.com/2018/04/10/apple-foundation-series/
+Mark Zuckerberg's Facebook hearing was an utter sham | Zephyr Teachout | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/apr/11/mark-zuckerbergs-facebook-hearing-sham
+Homepage
+Inspect
+
+https://northwestern.sodexomyway.com/
+Wyatt Cenac's Problem Areas - Official Website for the HBO Series
+Inspect
+
+https://www.hbo.com/wyatt-cenacs-problem-areas?camp=N286407.1972103DOUBLECLICKBIDMAN|MKL|PID_218742024
+the-book - docs - Git at Google
+Inspect
+
+https://fuchsia.googlesource.com/docs/+/master/the-book/
+Could a Neuroscientist Understand a Microprocessor?
+Inspect
+
+http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268
+A Taxonomy of Tech Debt | Riot Games Engineering
+Inspect
+
+https://engineering.riotgames.com/news/taxonomy-tech-debt
+How to Find Consulting Clients — Break Into Consulting
+Inspect
+
+https://www.breakintoconsulting.com/blog/2018/4/11/how-to-find-consulting-clients
+Wealth inequality is soaring – here are the 10 reasons why it’s happening | Dominic Frisby | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/apr/12/wealth-inequality-reasons-richest-global-gap
+How Will Automation Affect Different U.S. Cities?
+Inspect
+
+https://insight.kellogg.northwestern.edu/article/how-will-automation-affect-different-united-states-cities
+Publisher Gets Carte Blanche to Seize New Sci-Hub Domains - TorrentFreak
+Inspect
+
+https://torrentfreak.com/publisher-gets-carte-blanche-to-seize-new-sci-hub-domains-180410/
+“Is curing patients a sustainable business model?” Goldman Sachs analysts ask | Ars Technica
+Inspect
+
+https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/
+Building a Text Editor for a Digital-First Newsroom
+Inspect
+
+https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
+Causes and consequences of the Sicilian Mafia | VOX, CEPR’s Policy Portal
+Inspect
+
+https://voxeu.org/article/causes-and-consequences-sicilian-mafia
+Schools Are Failing to Teach Kids How to Read - The Atlantic
+Inspect
+
+https://www.theatlantic.com/amp/article/557915/?single_page=true
+It's time to rebuild the web - O'Reilly Media
+Inspect
+
+https://www.oreilly.com/ideas/its-time-to-rebuild-the-web
+The Missing Building Blocks of the Web – Anil Dash – Medium
+Inspect
+
+https://medium.com/@anildash/the-missing-building-blocks-of-the-web-3fa490ae5cbc
+The lost infrastructure of social media. – Anil Dash – Medium
+Inspect
+
+https://medium.com/@anildash/the-lost-infrastructure-of-social-media-d2b95662ccd3
+Glitch
+Inspect
+
+https://glitch.com/
+Don’t Move Here. We Don’t Want You. – Julia E Hubbel – Medium
+Inspect
+
+https://medium.com/@jhubbel/dont-move-here-we-don-t-want-you-566448c6e3ee
+Facebook and Google Could Be Nationalized in 5-10 Years | Tech Buzz | TechNewsWorld
+Inspect
+
+https://www.technewsworld.com/edpick/85276.html
+krlanguet / eecs-349 — Bitbucket
+Inspect
+
+https://bitbucket.org/krlanguet/eecs-349/src/master/
+Faculty - Willard Residential College
+Inspect
+
+http://www.willardrc.org/faculty.html
+Zulip 1.8: Open source team chat
+Inspect
+
+http://blog.zulip.org/2018/04/18/zulip-1-8-released/
+PINEBOOK – PINE64
+Inspect
+
+https://www.pine64.org/?page_id=3707
+Decades-Old Graph Problem Yields to Amateur Mathematician | Quanta Magazine
+Inspect
+
+https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/
+A smarter SmartOS? | The Blue Pill
+Inspect
+
+https://hypoalex.github.io/smartos/design/a-smarter-smartos.html
+BreakDown Notes
+Inspect
+
+https://www.breakdown-notes.com/makemap
+John Hunter Matplotlib Summer Fellowship - NumFOCUS
+Inspect
+
+https://www.numfocus.org/programs/john-hunter-technology-fellowship
+Canner/slate-md-editor: A markdown editor, that allows you to edit live.
+Inspect
+
+https://github.com/Canner/slate-md-editor
+Job interviews for programmers now often come with days of unpaid homework — Quartz at Work
+Inspect
+
+https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/
+No boundaries for Facebook data: third-party trackers abuse Facebook Login
+Inspect
+
+https://freedom-to-tinker.com/2018/04/18/no-boundaries-for-facebook-data-third-party-trackers-abuse-facebook-login/
+Exclusive: Facebook to put 1.5 billion users out of reach of new EU privacy law
+Inspect
+
+https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusive-…-to-put-1-5-billion-users-out-of-reach-of-new-eu-privacy-law-idUSKBN1HQ00P
+Review: Meg Wolitzer’s ‘The Female Persuasion’ - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/05/the-persuasive-female/556847/
+Doctors Tell All—and It’s Bad - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
+2018 Could Be the Year of the Ballot Initiative - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/04/citizen-ballot-initiatives-2018-elections/558098/
+Daniel Mallory Ortberg’s Short Short Story About Who Owns Beauty
+Inspect
+
+https://electricliterature.com/mallory-ortbergs-short-short-story-about-who-owns-beauty-635afb3c3fab
+Uber, Paypal Face Reckoning Over Opaque ‘Terms and Conditions’ - Bloomberg
+Inspect
+
+https://www.bloomberg.com/news/articles/2018-04-20/uber-paypal-face-reckoning-over-opaque-terms-and-conditions
+The illusion of time
+Inspect
+
+https://www.nature.com/articles/d41586-018-04558-7
+Interactive Go programming with Jupyter – Yu Watanabe – Medium
+Inspect
+
+https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
+A Diagram Editor for JupyterLab – Jupyter Blog
+Inspect
+
+https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919
+Ask HN: Where do you store bookmarks? | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=16885435
+Create your own Git server using Raspberry Pi and GitLab
+Inspect
+
+https://hackernoon.com/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66
+Why should you learn Go? – Keval Patel – Medium
+Inspect
+
+https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65
+Four Things the Comey Memos Reveal - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/04/what-we-learned-from-the-comey-memos/558518/
+Ho, Ho, Ho--it's Tv Time For Ronnie - latimes
+Inspect
+
+http://articles.latimes.com/1985-12-18/entertainment/ca-26574_1_dutch-reagan
+Inside Community Boost: Facebook's Small-Business Road Show - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/04/facebook-community-boost/558458/
+What it's Like to Work at the Museum of Ice Cream - The Atlantic
+Inspect
+
+https://www.theatlantic.com/business/archive/2018/04/what-its-like-to-work-at-the-museum-of-ice-cream/558269/
+Future Cities Africa: New Thinking for Long-term Transformation | Cities Alliance
+Inspect
+
+http://www.citiesalliance.org/FCA-launch
+Harvesting the sun | Africa Renewal Online
+Inspect
+
+https://www.un.org/africarenewal/magazine/april-2016/harvesting-sun
+Africa’s cities of the future | Africa Renewal Online
+Inspect
+
+https://www.un.org/africarenewal/magazine/april-2016/africa%E2%80%99s-cities-future
+These are Africa’s fastest-growing cities – and they’ll make or break the continent | World Economic Forum
+Inspect
+
+https://www.weforum.org/agenda/2016/05/africa-biggest-cities-fragility/
+African smart cities: A leap into the future? - CNN
+Inspect
+
+https://www.cnn.com/2017/12/12/africa/africa-new-smart-cities/index.html
+Africa's future is urban - ISS Africa
+Inspect
+
+https://issafrica.org/iss-today/africas-future-is-urban
+Facebook
+Inspect
+
+https://m.facebook.com/dennis.wise.9/posts/ms.c.eJxllEkSXTEIA2~_UMmYQvv~;FU…A7873621232991586013%26__tn__%3DEH-R%26cached_data%3Dfalse%26ftid%3D&mdf=1
+After Facebook scrutiny, is Google next?
+Inspect
+
+https://m.phys.org/news/2018-04-facebook-scrutiny-google.html
+At the Bottom of the Ocean, a Gloomy Discovery
+Inspect
+
+http://blogs.discovermagazine.com/d-brief/2018/04/18/octopus-eggs-deep-ocean/#.WtzI9CNOl-F
+I founded Happy Cow Milk to make a difference in dairying. I failed. | The Spinoff
+Inspect
+
+https://thespinoff.co.nz/business/21-04-2018/i-founded-happy-cow-to-make-a-difference-in-dairying-i-failed/
+Experts say Tesla has repeated car industry mistakes from the 1980s | Ars Technica
+Inspect
+
+https://arstechnica.com/cars/2018/04/experts-say-tesla-has-repeated-car-industry-mistakes-from-the-1980s/2/
+A look at terminal emulators, part 1 [LWN.net]
+Inspect
+
+https://lwn.net/Articles/749992/
+To #DeleteFacebook or Not to #DeleteFacebook? That Is Not the Question | Electronic Frontier Foundation
+Inspect
+
+https://www.eff.org/deeplinks/2018/04/deletefacebook-or-not-deletefacebook-not-question
+DIY a Fast Electric Skateboard with Budget
+Inspect
+
+http://eskateboard.huu.la/
+Inside the Linux boot process
+Inspect
+
+https://www.ibm.com/developerworks/library/l-linuxboot/
+EECS 349 (226 unread)
+Inspect
+
+https://piazza.com/class/jfk7ttjv40a2up?cid=297
+MIT Spin-off Faces Daunting Challenges on Path to Build a Fusion Power Plant in 15 Years - IEEE Spectrum
+Inspect
+
+https://spectrum.ieee.org/energywise/energy/nuclear/fifteen-years-to-a-fusion-power-plant-might-be-a-reach
+New testing of model improves confidence in the performance of ITER
+Inspect
+
+https://m.phys.org/news/2018-04-confidence-iter.html
+DTC Research
+Inspect
+
+https://docs.google.com/forms/d/e/1FAIpQLSf2RaMxvj_pFInfs5Rgygt6p21xivwp4Bi-waPiY-N9ztBdqA/viewform
+Why it took a long time to build that tiny link preview on Wikipedia – Wikimedia Blog
+Inspect
+
+https://blog.wikimedia.org/2018/04/20/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia/
+Walking While Black | Literary Hub
+Inspect
+
+https://lithub.com/walking-while-black/
+What's Not Included in Facebook's 'Download Your Data' | WIRED
+Inspect
+
+https://www.wired.com/story/whats-not-included-in-facebooks-download-your-data/
+Thread by @clemensv: "I've talked to a lot of distributed systems engineers (who build cloud-scale stuff) from across the industry about blockchain. While most pl […]"
+Inspect
+
+https://threadreaderapp.com/thread/987266940887535616.html
+Giving away the company's secret sauce
+Inspect
+
+https://rachelbythebay.com/w/2018/04/22/sauce/
+The limits of information | plus.maths.org
+Inspect
+
+https://plus.maths.org/content/bekenstein
+Gerontopoly: Homeownership, wealth, and age | City Observatory
+Inspect
+
+http://cityobservatory.org/gerontopoly-homeownership-wealth-and-age/
+Home Page - Intuitive Math
+Inspect
+
+https://intuitive-math.club/
+This Start-Up Says It Wants to Fight Poverty. A Food Stamp Giant Is Blocking It. - The New York Times
+Inspect
+
+https://mobile.nytimes.com/2018/04/23/technology/start-up-fight-poverty-food-stamp-giant-blocking-it.html
+dumber phone - nomasters
+Inspect
+
+https://nomasters.io/posts/dumber-phone/
+How to Write a Spelling Corrector
+Inspect
+
+http://norvig.com/spell-correct.html
+Google’s new Chat service shows total contempt for Android users’ privacy | Amnesty International
+Inspect
+
+https://www.amnesty.org/en/latest/news/2018/04/googles-new-chat-service-shows-total-contempt-for-android-users-privacy/
+Newspaper op-eds change minds -- ScienceDaily
+Inspect
+
+https://www.sciencedaily.com/releases/2018/04/180424133556.htm
+Exclusive: CIA Files Prove America Helped Saddam as He Gassed Iran – Foreign Policy
+Inspect
+
+https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/
+check-in : Greyhound
+Inspect
+
+https://www.greyhound.com/en/ecommerce/check-in?confirmationnumber=86890105…_source=confirmation&utm_medium=email&utm_campaign=e-ticket-chose-check-in
+Design Won't Save the World – Member Feature Stories – Medium
+Inspect
+
+https://medium.com/s/story/design-is-not-going-to-save-the-world-8985870471a5
+What Good Is ‘Community’ When Someone Else Makes All the Rules? - The New York Times
+Inspect
+
+https://mobile.nytimes.com/2018/04/17/magazine/what-good-is-community-when-someone-else-makes-all-the-rules.html
+The Presidency: The Hardest Job in the World - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/05/a-broken-office/556883/
+Watch: 'Chau, Beyond the Lines,' Short Film About a Victim of Agent Orange - The Atlantic - The Atlantic
+Inspect
+
+https://www.theatlantic.com/video/index/558728/chau-beyond-the-lines/
+How Poetry and Math Intersect | Science | Smithsonian
+Inspect
+
+https://www.smithsonianmag.com/science-nature/how-poetry-and-math-intersect-180968869/?no-ist
+global posts
+Inspect
+
+http://hubski.com/
+Opinion | I Am Part of the Resistance Inside the Trump Administration - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html?smid=fb-nytimes&smtyp=cur
+Here's How America Uses Its Land
+Inspect
+
+https://www.bloomberg.com/graphics/2018-us-land-use/
+Why You Hate Contemporary Architecture | Current Affairs
+Inspect
+
+https://www.currentaffairs.org/2017/10/why-you-hate-contemporary-architecture
+Are you really Facebook’s product? The history of a dangerous idea.
+Inspect
+
+https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html
+Weekly Command: Fuzzy finding everything with fzf
+Inspect
+
+https://monades.roperzh.com/weekly-command-fuzzy-finding-everything-with-fzf/
+Lowndes County, Ala.: The Place God Forgot
+Inspect
+
+https://www.theroot.com/lowndes-county-ala-the-place-god-forgot-1825483659
+[1803.08493] Context is Everything: Finding Meaning Statistically in Semantic Spaces
+Inspect
+
+https://arxiv.org/abs/1803.08493
+Why we should bulldoze the business school | News | The Guardian
+Inspect
+
+https://www.theguardian.com/news/2018/apr/27/bulldoze-the-business-school
+Unlearning toxic behaviors in a code review culture
+Inspect
+
+https://medium.freecodecamp.org/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c
+Nobel Laureate Economist Says American Inequality Didn’t Just Happen. It Was Created. - Evonomics
+Inspect
+
+http://evonomics.com/nobel-prize-economist-says-american-inequality-didnt-just-happen-it-was-created/
+What happened Gmail? – UX Planet
+Inspect
+
+https://uxplanet.org/what-happened-gmail-e5f35e423b1b
+Quizzes
+Inspect
+
+https://canvas.northwestern.edu/courses/72414/quizzes
+Can Germany Protect Its Jews and Welcome Muslim Migrants? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/04/germany-jews-muslim-migrants/558677/
+Fraudulent claims made by IBM about Watson and AI | Roger Schank
+Inspect
+
+http://www.rogerschank.com/fraudulent-claims-made-by-IBM-about-Watson-and-AI
+Salsify — A New Architecture for Real-time Internet Video
+Inspect
+
+https://snr.stanford.edu/salsify/
+What lies behind the simplistic image of the happy Buddhist? | Aeon Essays
+Inspect
+
+https://aeon.co/essays/what-lies-behind-the-simplistic-image-of-the-happy-buddhist
+Why the utopian vision of William Morris is now within reach | Aeon Essays
+Inspect
+
+https://aeon.co/essays/why-the-utopian-vision-of-william-morris-is-now-within-reach
+How communist Bulgaria became a leader in tech and sci-fi | Aeon Essays
+Inspect
+
+https://aeon.co/essays/how-communist-bulgaria-became-a-leader-in-tech-and-sci-fi
+Why it’s as hard to escape an echo chamber as it is to flee a cult | Aeon Essays
+Inspect
+
+https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult
+Across the world, democracy is in crisis. Here’s my plan to save it | Dambisa Moyo | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/may/02/democracy-crisis-plan-trump-brexit-system-politicans-voters
+Why replacing politicians with experts is a reckless idea | News | The Guardian
+Inspect
+
+https://www.theguardian.com/news/2018/may/01/why-replacing-politicians-with-experts-is-a-reckless-idea
+Question - Quora
+Inspect
+
+https://www.quora.com/Why-doesnt-Linux-have-an-executable-ELF-or-other-installer-like-Windows-has-the-EXE-installer
+landave's blog
+Inspect
+
+https://landave.io/
+De-Googling my phone · Martin Pitt
+Inspect
+
+https://piware.de/post/2018-05-01-android-degoogle/
+Design for an Audience | style.org
+Inspect
+
+http://style.org/ku/
+Issues | Micropayments: A Viable Business Model?
+Inspect
+
+https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/MicropaymentsAndTheNet/issues.html
+Searching for a Future Beyond Facebook | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=16992001
+FreedomBox Foundation
+Inspect
+
+https://freedomboxfoundation.org/
+Google embraces, extends, and extinguishes | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2018/05/03/Google-embraces-extends-extinguishes.html
+Akin's Laws of Spacecraft Design
+Inspect
+
+http://spacecraft.ssl.umd.edu/akins_laws.html
+Say yes to the progressive web | HPE
+Inspect
+
+https://www.hpe.com/us/en/insights/articles/say-yes-to-the-progressive-web-1805.html
+Please Stop Using Adblock (But Not Why You Think) – Samuel Ricks – Medium
+Inspect
+
+https://medium.com/@trybravery/please-stop-using-adblock-but-not-why-you-think-13280e76c8e7
+Are interruptions really worse for programmers than for other knowledge workers?
+Inspect
+
+https://dev.to/_bigblind/are-interruptions-really-worse-for-programmers-than-for-other-knowledge-workers-2ij9
+The rise of the pointless job | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=16995389
+‘I had to guard an empty room’: the rise of the pointless job | Money | The Guardian
+Inspect
+
+https://www.theguardian.com/money/2018/may/04/i-had-to-guard-an-empty-room-the-rise-of-the-pointless-job
+The unpublished notebooks of J. M. Korhonen | Because specialization is for insects.
+Inspect
+
+https://jmkorhonen.net/
+Cognitio – OS update for the mind
+Inspect
+
+https://yilunzh.com/
+Fly Me to the Moon 2018: An Evening of Music, Dancing, and Food
+Inspect
+
+https://m.facebook.com/events/204513196819000
+Gitea
+Inspect
+
+https://gitea.io/en-US/
+Software patents are evil, but BSD+Patents is probably not the solution - Wes McKinney
+Inspect
+
+http://wesmckinney.com/blog/react-bsd-patents/
+12-year study looks at effects of universal basic income
+Inspect
+
+http://mitsloan.mit.edu/newsroom/articles/12-year-study-looks-at-effects-of-universal-basic-income/
+A Different Kind of Abuse – Shannon Ashley – Medium
+Inspect
+
+https://medium.com/@Shesreallyfat/a-different-kind-of-abuse-4d04a501e2c7
+xkcd: Driving Cars
+Inspect
+
+https://m.xkcd.com/1990/
+The Economics of Writing a Technical Book – Justin Garrison – Medium
+Inspect
+
+https://medium.com/@rothgar/the-economics-of-writing-a-technical-book-689d0c12fe39
+Black Voters And Democrats In the 2018 Elections - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/05/what-black-voters-want/559775/
+Inspect
+
+http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/
+EECS 349 Machine Learning Spring 2018
+Inspect
+
+http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/
+Race Is a Social Construct, Scientists Argue - Scientific American
+Inspect
+
+https://www.scientificamerican.com/article/race-is-a-social-construct-scientists-argue/
+Laws of Tech: Commoditize Your Complement - Gwern.net
+Inspect
+
+https://www.gwern.net/Complement#2
+Atrium - Lead Full Stack Engineer
+Inspect
+
+https://jobs.lever.co/atrium/3c36a7b4-2e36-4ddd-84a1-c886fce7458d?lever-origin=applied&lever-source%5B%5D=HackerNews
+The problem of China's huge bike graveyards - BBC News
+Inspect
+
+http://www.bbc.com/news/av/world-australia-42304984/bike-share-teething-pains-they-re-throwing-them-in-rivers
+Dat Project - Welcome!
+Inspect
+
+https://datproject.org/
+All Work and No Play: Why Your Kids Are More Anxious, Depressed - The Atlantic
+Inspect
+
+https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/?single_page=true
+Adam Grant on Arguing in Front of Your Kids - The Atlantic - The Atlantic
+Inspect
+
+https://www.theatlantic.com/video/index/560054/home-school-episode-2/
+What Are The Easiest Songs to Play on Piano? - THE ONE SMART PIANO AUSTRALIA
+Inspect
+
+https://www.smartpiano.com.au/easiest-songs-play-piano/
+NotePlan - Markdown Calendar & Notes
+Inspect
+
+https://noteplan.co/
+George Orwell: Notes on Nationalism
+Inspect
+
+http://orwell.ru/library/essays/nationalism/english/e_nat
+Riddled With Questions: Interrogating Your Technology | LibrarianShipwreck
+Inspect
+
+https://librarianshipwreck.wordpress.com/2014/03/17/riddled-with-questions-interrogating-your-technology/
+An island of reason in the cyberstream – on the life and thought of Joseph Weizenbaum | LibrarianShipwreck
+Inspect
+
+https://librarianshipwreck.wordpress.com/2016/07/27/an-island-of-reason-in-the-cyberstream-on-the-life-and-thought-of-joseph-weizenbaum/
+GitHub · Where software is built
+Inspect
+
+https://github.com/login?client_id=7e0a3cd836d3e544dbd9&return_to=%2Flogin%…26state%3D9064da75b5618453399b627e30a3e8baa1a69d3084f7d53e4f1d03cc92d0f02b
+How Useful Is Fear? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/06/what-are-you-afraid-of/559121/
+Israelis and Palestinians Are Caught in a Cycle of Denial - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/05/israel-palestine-embassy-legitimacy/560291/
+Why Tech Philanthropy Doesn't Help Silicon Valley - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/05/silicon-valley-community-foundation-philanthropy/560216/
+Warning: Your programming career – SoloLearn – Medium
+Inspect
+
+https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b
+Algorithms Behind Modern Storage Systems - ACM Queue
+Inspect
+
+https://queue.acm.org/detail.cfm?id=3220266
+How the Enlightenment Ends - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/
+Dear Therapist: My Daughter Thinks I Was a Bad Parent - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/05/dear-therapist-daughter-bad-parent/560432/
+How To Think Clearly As An Individual – Student Voices
+Inspect
+
+https://mystudentvoices.com/how-to-think-clearly-as-an-individual-fac1b8b6c5a7
+Why UX, CX, UI, IA, IxD, and Other Sorts of Design Are Dumb
+Inspect
+
+https://medium.muz.li/design-types-7d75839a20ea
+‘Call Me By Your Name‘ Finally Shows the Kind of Bisexual Narrative I Want to See
+Inspect
+
+https://electricliterature.com/call-me-by-your-name-finally-shows-the-kind-of-bisexual-narrative-i-want-to-see-9288aae15da2
+EasyMotion - Vim Awesome
+Inspect
+
+https://vimawesome.com/plugin/easymotion
+An Interesting Pattern in the Prime Numbers: Parallax Compression | | Nova Spivack
+Inspect
+
+http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression
+Inspect
+
+https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas
+Postulates of Quantum Mechanics
+Inspect
+
+http://vergil.chemistry.gatech.edu/notes/quantrev/node20.html
+Postulates of Quantum Mechanics
+Inspect
+
+http://vergil.chemistry.gatech.edu/notes/quantrev/node20.html
+Wish.com and the Rise of Shipping From China - The Atlantic
+Inspect
+
+https://www.theatlantic.com/business/archive/2018/05/wish-china-cheap-stuff/560861/
+The New Saudi Arabia Is the Same as the Old Saudi Arabia - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/05/saudi-arabia-hits-the-brakes-on-reforms/560870/
+The Future of AI Depends on High-School Girls - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/05/ai-future-women/560618/
+Texas Shooting: Schools Can't Stop Violence - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/05/school-shootings-prevention/560753/
+The Bill Gates Line – Stratechery by Ben Thompson
+Inspect
+
+https://stratechery.com/2018/the-bill-gates-line/
+Digital Capitalism’s War on Leisure : Democracy Journal
+Inspect
+
+https://democracyjournal.org/arguments/digital-capitalisms-war-on-leisure/
+Ditch the Batteries: Off-Grid Compressed Air Energy Storage - LOW-TECH MAGAZINE
+Inspect
+
+http://www.lowtechmagazine.com/2018/05/ditch-the-batteries-off-the-grid-compressed-air-energy-storage.html
+Zuckerberg set up fraudulent scheme to 'weaponise' data, court case alleges | Technology | The Guardian
+Inspect
+
+https://www.theguardian.com/technology/2018/may/24/mark-zuckerberg-set-up-f…udulent-scheme-weaponise-data-facebook-court-case-alleges?CMP=share_btn_tw
+Why Proof-of-work isn’t suitable for small cryptocurrencies
+Inspect
+
+https://thenextweb.com/hardfork/2018/05/24/proof-work-51-percent-attacks/
+A simple mechanism could have been decisive for the development of life
+Inspect
+
+https://m.phys.org/news/2018-05-simple-mechanism-decisive-life.html
+'Cucli,' Xavier Marrades's Short Film About Life, Death, and Reincarnation - The Atlantic
+Inspect
+
+https://www.theatlantic.com/video/index/560900/cucli-dove-film/
+Has there been progress in philosophy? - Marginal REVOLUTION
+Inspect
+
+https://marginalrevolution.com/marginalrevolution/2018/05/has-there-been-progress-in-philosophy.html
+39 Machine Learning Resources that will help you in every essential step
+Inspect
+
+https://medium.com/@karamanbk/39-machine-learning-resources-that-will-help-you-in-every-essential-step-b2696515ed9
+Intel AI Lab open-sources library for deep learning-driven NLP | VentureBeat
+Inspect
+
+https://venturebeat.com/2018/05/24/intel-ai-lab-open-sources-library-for-deep-learning-driven-nlp/
+Failed projects in British culture – TheTLS
+Inspect
+
+https://www.the-tls.co.uk/articles/private/failed-projects-british-culture/
+Algorithmic glass ceiling in social networks: the effects of social recommendations on network diversity | the morning paper
+Inspect
+
+https://blog.acolyer.org/2018/05/24/algorithmic-glass-ceiling-in-social-networks-the-effects-of-recommendation-on-social-diversity/
+Graphics architecture  |  Android Open Source Project
+Inspect
+
+https://source.android.com/devices/graphics/architecture
+WindowManager  |  Android Developers
+Inspect
+
+https://developer.android.com/reference/android/view/WindowManager
+Bullshit Jobs: A Theory by David Graeber review – the myth of capitalist efficiency | Books | The Guardian
+Inspect
+
+https://www.theguardian.com/books/2018/may/25/bullshit-jobs-a-theory-by-david-graeber-review
+GitHub - nim-lang/nimforum: Forum software written in Nim
+Inspect
+
+https://github.com/nim-lang/nimforum
+Browse Ebooks | Standard Ebooks
+Inspect
+
+https://standardebooks.org/ebooks/
+Question - Quora
+Inspect
+
+https://www.quora.com/Is-Windows-MacOS-or-Linux-more-modern
+An experimental implementation of the kernel/domain architecture
+Inspect
+
+https://dl.acm.org/citation.cfm?id=808043
+Question - Quora
+Inspect
+
+https://www.quora.com/How-and-why-do-software-engineers-earn-very-high-salaries
+Question - Quora
+Inspect
+
+https://www.quora.com/How-dangerous-is-Jordan-B-Peterson
+The Importance of Deep Work & The 30-Hour Method for Learning a New Skill | Azeria Labs
+Inspect
+
+https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+Volans-i drones can haul cargo for 500 miles and land on a moving ship
+Inspect
+
+https://www.cnbc.com/2018/05/26/volans-i-drones-can-haul-cargo-for-500-miles-and-land-on-a-moving-ship.html
+USB Reverse Engineering: Down the rabbit hole | /dev/alias – Hack. Dev. Transcend.
+Inspect
+
+http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+Forget the Atlantic’s “9.9 percent.” The 1 percent are still the problem.
+Inspect
+
+https://slate.com/business/2018/05/forget-the-atlantics-9-9-percent-the-1-percent-are-still-the-problem.html
+Ask HN: When is federation a better solution than decentralization? | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17171985
+GitHub - smooth-code/smooth-ui: React UI library based on styled-components 💅🍭
+Inspect
+
+https://github.com/smooth-code/smooth-ui
+BBC - Future - 'Everybody was telling me there was nothing wrong'
+Inspect
+
+http://www.bbc.com/future/story/20180523-how-gender-bias-affects-your-healthcare
+unquantified - nomasters
+Inspect
+
+https://nomasters.io/posts/unquantified/
+The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains by Robert H. Lustig
+Inspect
+
+https://www.goodreads.com/book/show/34237719-the-hacking-of-the-american-mind
+All Piano Exercises - 240 Piano finger exercises in all keys
+Inspect
+
+https://www.hanon-online.com/all-piano-exercises/
+Piano Technique Exercise N°1 by Charles-Louis Hanon - 240 Piano finger exercises in all keys
+Inspect
+
+https://www.hanon-online.com/the-virtuoso-pianist-part-i/hanon-exercise-n-1/
+Several tips how to bypass website anti-scraping protections | Apify · Knowledge base
+Inspect
+
+https://kb.apify.com/tips-and-tricks/several-tips-how-to-bypass-website-anti-scraping-protections
+Can “effective altruism” maximise the bang for each charitable buck? - Faith, hope and clarity
+Inspect
+
+https://www.economist.com/international/2018/06/02/can-effective-altruism-maximise-the-bang-for-each-charitable-buck
+Revisiting the Arcan Project | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17201256
+Leaked Emails Show Google Expected Lucrative Military Drone AI Work to Grow Exponentially
+Inspect
+
+https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/
+[1002.2284] Markets are efficient if and only if P = NP
+Inspect
+
+https://arxiv.org/abs/1002.2284
+The Dawn of a new Command Line Interface | Arcan
+Inspect
+
+https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/
+One night in Rio – Vacation photos from Plan9 | Arcan
+Inspect
+
+https://arcan-fe.com/2017/04/17/one-night-in-rio-vacation-photos-from-plan9/
+Workers of the world unite on distributed digital platforms | Aeon Essays
+Inspect
+
+https://aeon.co/essays/workers-of-the-world-unite-on-distributed-digital-platforms
+This Is the Age of Grandparents - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/06/this-is-the-age-of-grandparents/561527/
+The Death of a Gig Worker - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/06/gig-economy-death/561302/
+Title IX Is Too Easy to Abuse - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/title-ix-is-too-easy-to-abuse/561650/
+Energy revolution: California approves $768 million for electric vehicles - San Francisco Chronicle
+Inspect
+
+https://www.sfchronicle.com/business/article/Energy-revolution-California-approves-massive-12957685.php#photo-14888987
+How to Android without Google [easy way] · Byte My Bits
+Inspect
+
+https://bytemybits.gitlab.io/post/2018-05-23-how-to-android-without-google-easy-way/
+A Course in Machine Learning
+Inspect
+
+http://ciml.info/
+The Trouble with Theories of Everything - Issue 29: Scaling - Nautilus
+Inspect
+
+http://m.nautil.us/issue/29/scaling/the-trouble-with-theories-of-everything
+Saudi Arabia’s Dark Nationalism - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/06/saudi-arabia-nationalism-driving-ban-salman/561845/
+Why Children Aren't Behaving, And What You Can Do About It : NPR Ed : NPR
+Inspect
+
+https://www.npr.org/sections/ed/2018/06/02/611082566/why-children-arent-behaving-and-what-you-can-do-about-it
+American tech giants are making life tough for startups - Into the danger zone
+Inspect
+
+https://www.economist.com/business/2018/06/02/american-tech-giants-are-making-life-tough-for-startups
+Shifting from Central Planning to a Decentralised Economy: Do we Need Central Banks? – Professor Werner
+Inspect
+
+https://professorwerner.org/shifting-from-central-planning-to-a-decentralised-economy-do-we-need-central-banks/
+The Psychology of Money · Collaborative Fund
+Inspect
+
+http://www.collaborativefund.com/blog/the-psychology-of-money/
+Halloween Document 8
+Inspect
+
+http://www.catb.org/esr/halloween/
+Halloween Document 10
+Inspect
+
+http://www.catb.org/esr/halloween/halloween1.html#_Toc427495741
+From cultofmac.com
+Inspect
+
+https://www-cultofmac-com.cdn.ampproject.org/v/s/www.cultofmac.com/213221/e…213221%2Fe-ink-keyboard-concept-marries-best-of-touch-and-physical-keys%2F
+Hypothetically, could small e-ink displays be used on the keys? - TechTalk - WayTools
+Inspect
+
+https://forum.waytools.com/t/hypothetically-could-small-e-ink-displays-be-used-on-the-keys/4063/17
+The Tragic Tale of Art Lebedev's Optimus Popularis Keyboard - Tested
+Inspect
+
+http://www.tested.com/tech/accessories/3259-the-tragic-tale-of-art-lebedevs-optimus-popularis-keyboard/
+From theverge.com
+Inspect
+
+https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/a…F2015%2F8%2F25%2F9204603%2Fmicrosoft-displaycover-surface-keyboard-concept
+From technologyreview.com
+Inspect
+
+https://www-technologyreview-com.cdn.ampproject.org/v/s/www.technologyrevie…ww.technologyreview.com%2Fs%2F510656%2Fwould-you-buy-a-dynamic-keyboard%2F
+From theverge.com
+Inspect
+
+https://www-theverge-com.cdn.ampproject.org/v/s/www.theverge.com/platform/a…m%2F2016%2F10%2F19%2F13328710%2Fapple-e-ink-keyboard-macbook-sonder-rumors
+A Futurist Predicts the Death of Higher Education - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/06/heres-how-higher-education-dies/561995/
+Why Do Poor People Oppose Welfare? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/06/racial-resentment-motivates-opposition-to-welfare/562010/
+A Neat Trick For Compressing Networked State Data « The blog at the bottom of the sea
+Inspect
+
+https://blog.demofox.org/2018/06/04/a-neat-trick-for-compressing-networked-state-data/
+Chris Ball » Announcing GitTorrent: A Decentralized GitHub
+Inspect
+
+https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/
+How to Leverage Introversion as a Career Strength – Larry Cornett, Ph.D. – Medium
+Inspect
+
+https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa
+The path to sustainably working on FOSS full-time | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2018/02/24/The-road-to-sustainable-FOSS.html
+Havana - Piano Sheet Music - Camila Cabello | Sheet music for Piano | MuseScore
+Inspect
+
+https://musescore.com/user/5974186/scores/4769891
+Scales and Key Signatures - The Method Behind the Music
+Inspect
+
+https://method-behind-the-music.com/theory/scalesandkeys/
+Advanced computing with IPython [LWN.net]
+Inspect
+
+https://lwn.net/SubscriberLink/756192/ebada7ecad32f3ad/
+Does China’s digital police state have echoes in the West? - Technology and surveillance
+Inspect
+
+https://www.economist.com/leaders/2018/05/31/does-chinas-digital-police-state-have-echoes-in-the-west
+The odd reality of life under China's all-seeing credit score system | WIRED UK
+Inspect
+
+http://www.wired.co.uk/article/china-social-credit
+Oracle Lays Off Java Mission Control Team After Open Sourcing Product
+Inspect
+
+https://www.infoq.com/news/2018/06/open-source-jmc
+Opinion | Can Facebook Be Cut Down to Size? - The New York Times
+Inspect
+
+https://mobile.nytimes.com/2018/06/05/opinion/facebook-china-privacy-data-security.html
+Analyzing HN moderation & censorship | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2017/09/13/Analyzing-HN.html
+How do black people navigate white worlds? Shape-shifting | Kimberly Foster | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/jun/07/how-do-black-people-navigate-white-worlds-shape-shifting
+Voting while black: the racial injustice that harms our democracy | Carol Anderson | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/jun/07/black-voter-suppression-rights-america-trump
+America’s Startup Scene Is Looking Anemic - Bloomberg
+Inspect
+
+https://www.bloomberg.com/view/articles/2018-06-07/america-s-startup-scene-is-looking-anemic
+Half of all adults in the world have less than $2,300 in wealth, Credit Suisse global wealth report indicates — Quartz
+Inspect
+
+https://qz.com/848181/half-of-all-adults-in-the-world-have-less-than-2300-in-wealth-credit-suisse-global-wealth-report-indicates/
+US government to use facial recognition technology at Mexico border crossing | Technology | The Guardian
+Inspect
+
+https://www.theguardian.com/technology/2018/jun/05/facial-recognition-us-mexico-border-crossing
+Machine Learning: how to go from Zero to Hero – freeCodeCamp
+Inspect
+
+https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da
+Kill the tech bro, save the world: how CEOs became Hollywood's new supervillains | Technology | The Guardian
+Inspect
+
+https://www.theguardian.com/technology/2018/jun/06/tech-bros-ceo-hollywood-supervillains
+After the Miracle — The California Sunday Magazine
+Inspect
+
+https://story.californiasunday.com/infosys-india-tech
+Must know Information Theory concepts in Deep Learning (AI)
+Inspect
+
+https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d
+Terra Incognita
+Inspect
+
+http://blog.christianperone.com/
+Explain it like I’m Five: The Socialist Millionaire Problem and Secure Multi-Party Computation | Twisted Oak Studios Blog
+Inspect
+
+http://twistedoakstudios.com/blog/Post3724_explain-it-like-im-five-the-socialist-millionaire-problem-and-secure-multi-party-computation
+EECS 349 Machine Learning Spring 2018
+Inspect
+
+http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/
+Living APIs, and the Case for GraphQL — Brandur Leach
+Inspect
+
+https://brandur.org/graphql
+Maybe the Gig Economy Isn’t Reshaping Work After All - The New York Times
+Inspect
+
+https://mobile.nytimes.com/2018/06/07/business/economy/work-gig-economy.html
+How I automated my job with Node.js – DailyJS – Medium
+Inspect
+
+https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017
+Documentation - Perkeep
+Inspect
+
+https://perkeep.org/doc/
+Inventor says Google is patenting work he put in the public domain | Ars Technica
+Inspect
+
+https://arstechnica.com/tech-policy/2018/06/inventor-says-google-is-patenting-work-he-put-in-the-public-domain/
+Polyaxon
+Inspect
+
+https://polyaxon.com/
+Trump Gives a Bitter Ending to the G7 Summit - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/06/trump-g7/562493/
+Trump Goes to War Against the Democracies - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/06/trump-g7/562487/
+Did Toolmaking Pave the Road for Human Language? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/06/toolmaking-language-brain/562385/
+Russell Brand’s ‘Under the Skin’ Is Surprisingly Brainy - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/07/russell-brand-under-the-skin/561731/
+Net Neutrality Repeal Is Official. Here’s How That Could Affect You. - The New York Times
+Inspect
+
+https://mobile.nytimes.com/2018/06/11/technology/net-neutrality-repeal.html
+The Scooter Economy – Stratechery by Ben Thompson
+Inspect
+
+https://stratechery.com/2018/the-scooter-economy/
+Do VCs really add value? — Founders say sometimes. – Carl Fritjofsson – Medium
+Inspect
+
+https://medium.com/@fritjofsson/do-vcs-really-add-value-founders-say-sometimes-f27bb956eb8c
+GitHub - s-matyukevich/raspberry-pi-os: Learning operating system development using Linux kernel and Raspberry Pi
+Inspect
+
+https://github.com/s-matyukevich/raspberry-pi-os
+Alternatives to Google Products (Complete List) | Restore Privacy
+Inspect
+
+https://restoreprivacy.com/google-alternatives/
+Eugenics today: where eugenic sterilisation continues now | Aeon Essays
+Inspect
+
+https://aeon.co/essays/eugenics-today-where-eugenic-sterilisation-continues-now
+An introduction to Wayland | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2017/06/10/Introduction-to-Wayland.html
+The Peterson Synthesis, criticism and completion – Rebel Wisdom – Medium
+Inspect
+
+https://medium.com/rebel-wisdom/the-peterson-synthesis-criticism-and-completion-cf3595518ced
+The Peterson paradox, or ‘it doesn’t matter if you’re right, if people stop listening’
+Inspect
+
+https://medium.com/rebel-wisdom/the-peterson-paradox-it-doesnt-matter-if-you-re-right-if-people-stop-listening-16b9371967cc
+"Mind-boggling" Stanford research turns human blood cells into functional neurons
+Inspect
+
+https://newatlas.com/blood-cells-transformed-neurons-stanford/54948/
+[1806.02404] Dissolving the Fermi Paradox
+Inspect
+
+https://arxiv.org/abs/1806.02404
+The End of Video Coding? – Netflix TechBlog – Medium
+Inspect
+
+https://medium.com/netflix-techblog/the-end-of-video-coding-40cf10e711a2
+What to Know About the DOJ Inspector General Report - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/the-reckoning-facing-the-fbi/562685/
+Is America Ready for a Global Pandemic? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/07/when-the-next-plague-hits/561734/
+Fewer people 'using Facebook for news' - BBC News
+Inspect
+
+https://www.bbc.com/news/technology-44457167
+Apple finally has the right attitude about notifications in iOS 12 - The Verge
+Inspect
+
+https://www.theverge.com/2018/6/13/17453924/apple-notifications-ios-12-attitude
+Don’t Let Facebook, or Any Tracker, Follow You on The Web | Tor Blog
+Inspect
+
+https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web
+The New Norm : Invisibilia : NPR
+Inspect
+
+https://www.npr.org/programs/invisibilia/481887848/the-new-norm
+Extinguishing the Beacon of America - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/extinguishing-the-beacon-of-america/562880/
+Black Women Are Feeling Neglected By the DCCC - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/why-arent-top-democrats-acknowledging-the-black-women-running-for-office/562802/
+The Neuroscientific Case for Facing Your Fears - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/06/the-neuroscientific-case-for-facing-your-fears/562820/
+Institutional Metacognition as an Improvement Tool for Educational Management | Ignacio Figueroa Céspedes and Felipe Rodriguez - Academia.edu
+Inspect
+
+https://www.academia.edu/36822262/Institutional_Metacognition_as_an_Improvement_Tool_for_Educational_Management
+Midterms 2018: Democrats Focus on Trump Scandals - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/its-not-collusion-its-corruption/562634/
+The SHSAT Controversy in New York's Public High Schools - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/06/new-york-high-schools-stuyvesant-brooklyn-bronx/562772/
+Danielle Allen's Commencement Address - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/a-radically-woke-and-deeply-conservative-commencement-address/562490/
+The Long, Contentious History of the 'Word Gap' Study - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/06/the-long-contentious-history-of-the-word-gap-study/562850/
+The College Board's Problematic Changes to AP World - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/06/ap-world-history-controversy/562778/
+We Need to Save Ignorance From AI - Issue 61: Coordinates - Nautilus
+Inspect
+
+http://m.nautil.us/issue/61/coordinates/we-need-to-save-ignorance-from-ai
+Why We Should Teach Music History Backwards | Arts & Culture | Smithsonian
+Inspect
+
+https://www.smithsonianmag.com/arts-culture/why-we-should-teach-music-history-backwards-180955053/?no-ist
+Making buildings, cars and planes from materials based on plant fibres - A green way to make things
+Inspect
+
+https://www.economist.com/science-and-technology/2018/06/16/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres
+The Beginning: Memory Management
+Inspect
+
+https://uridiumauthor.blogspot.com/2018/06/memory-management.html?m=1
+Marc Andreessen On The Future Of Enterprise | TechCrunch
+Inspect
+
+https://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/
+Poor Americans' Mental Health Is Getting Worse - The Atlantic
+Inspect
+
+https://www.theatlantic.com/health/archive/2018/06/poor-americans-really-are-in-despair/563105/
+A New Accent Is Developing in Southwest Kansas - Atlas Obscura
+Inspect
+
+https://www.atlasobscura.com/articles/new-accent-liberal-kansas
+The Nationalist's Delusion - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2017/11/the-nationalists-delusion/546356/
+How Does Language Shape the Way We Think? Cognitive Scientist Lera Boroditsky Explains | Open Culture
+Inspect
+
+http://www.openculture.com/2018/06/language-shapes-way-think-cognitive-scientist-lera-boroditsky-breaks.html
+On Juneteenth in 2018, Black Voting Rights Are Under Attack - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/celebrating-juneteenth-in-a-moment-of-peril/563213/
+Hardliners Learn That Democracy Can Pay Off - Bloomberg
+Inspect
+
+https://www.bloomberg.com/view/articles/2018-06-18/hardliners-learn-that-democracy-can-pay-off
+Conspiracies, Climate, and the New Dark Age: an extract from my book about Technology and the End…
+Inspect
+
+https://medium.com/@jamesbridle/conspiracies-climate-and-the-new-dark-age-an-extract-from-my-book-about-technology-and-the-end-2ffeef08ff29
+Trust Issues – Medium
+Inspect
+
+https://medium.com/s/trustissues
+(2) MOOCs and Crowdsourcing: Massive Courses & Massive Resources | Araz Taeihagh and John Prpic - Academia.edu
+Inspect
+
+https://www.academia.edu/19696292/MOOCs_and_Crowdsourcing_Massive_Courses_and_Massive_Resources?auto=download&campaign=weekly_digest
+(2) Knowledge and Perception of Lecturers regarding Problem- Based Learning as an Educational Approach in College of Health Sciences, Moi University | IOSR Journals (www.iosrjournals.org) and Ronald O Obwoge - Academia.edu
+Inspect
+
+https://www.academia.edu/36827613/Knowledge_and_Perception_of_Lecturers_reg…ng_as_an_Educational_Approach_in_College_of_Health_Sciences_Moi_University
+William Langewiesche: Fighting ISIS With the B-2 Bomber - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/07/william-langewiesche-b-2-stealth-bomber/561719/
+The Weird, Ever-Evolving Story of Your DNA - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/07/carl-zimmer-she-has-her-mother-s-laugh/561710/
+A Century of U.S. Intervention Created the Immigration Crisis
+Inspect
+
+https://medium.com/s/story/timeline-us-intervention-central-america-a9bea9ebc148
+Blockchain Isn’t a Revolution – Member Feature Stories – Medium
+Inspect
+
+https://medium.com/s/story/blockchain-isnt-a-revolution-it-s-two-big-innovations-and-one-promising-idea-988fca6b0fca
+Use 'Metaphorical Scaffolding' to Learn Hard Stuff – The Polymath Project – Medium
+Inspect
+
+https://medium.com/the-polymath-project/use-metaphorical-scaffolding-to-learn-hard-stuff-850b5225a0f0
+160 Years of the American Idea - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/06/160-years-of-the-american-idea/563801/
+Why Design Thinking is failing and what we should be doing differently
+Inspect
+
+https://uxdesign.cc/why-design-thinking-is-failing-and-what-we-should-be-doing-differently-c8842f843b44
+Let’s talk about whiteboarding interviews and the possible alternatives
+Inspect
+
+https://medium.freecodecamp.org/lets-talk-about-whiteboarding-interviews-fed040e20cc9
+How White People Handle Diversity Training in the Workplace
+Inspect
+
+https://medium.com/s/story/how-white-people-handle-diversity-training-in-the-workplace-e8408d2519f
+How the American Mind Broke – Eudaimonia and Co
+Inspect
+
+https://eand.co/how-the-american-mind-broke-55c1672fbfdf
+Is Trust Possible in a Polarized Age? – Trust Issues – Medium
+Inspect
+
+https://medium.com/s/trustissues/is-trust-possible-in-a-polarized-age-8c9a6756cbb2
+Supercharging the Git Commit Graph – Microsoft DevOps Blog
+Inspect
+
+https://blogs.msdn.microsoft.com/devops/2018/06/25/supercharging-the-git-commit-graph/
+We Should Be Building Cities for People, Not Cars | Devon's Site
+Inspect
+
+http://devonzuegel.com/post/we-should-be-building-cities-for-people-not-cars
+How to Make Everything Ourselves: Open Modular Hardware - LOW-TECH MAGAZINE
+Inspect
+
+http://www.lowtechmagazine.com/2012/12/how-to-make-everything-ourselves-open-modular-hardware.html
+GitHub - LibrePDF/OpenPDF: OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository.
+Inspect
+
+https://github.com/LibrePDF/OpenPDF/
+How not to structure your database-backed web applications: a study of performance bugs in the wild | the morning paper
+Inspect
+
+https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/
+Impact of Social Sciences – Software updates: the “unknown unknown” of the replication crisis
+Inspect
+
+http://blogs.lse.ac.uk/impactofsocialsciences/2018/06/07/software-updates-the-unknown-unknown-of-the-replication-crisis/
+Reasoning, and What It Is To Be Rational
+Inspect
+
+chrome-distiller://a6156d4f-05b9-4cd0-bbfa-b970bc9af201/?time=43462038&url=http%3A%2F%2Fwww.akat.com%2Freasoning.htm%23logicallysee
+Internet is losing its memory: Cerf - Strategy - Networking - iTnews
+Inspect
+
+https://www.itnews.com.au/news/internet-is-losing-its-memory-cerf-495854
+The matrix calculus you need for deep learning
+Inspect
+
+http://explained.ai/matrix-calculus/index.html
+Does Liberalism Have a Future? – Eudaimonia and Co
+Inspect
+
+https://eand.co/does-liberalism-have-a-future-552839242738
+If Liberalism Is Dead, What Comes Next? – The Washington Post – Medium
+Inspect
+
+https://medium.com/thewashingtonpost/if-liberalism-is-dead-what-comes-next-3856ea219a89
+Talk: Queer Narratives with Zach Stafford and Jack Halberstam
+Inspect
+
+https://m.facebook.com/events/1765026150223903/
+RE for Beginners | The Workshop
+Inspect
+
+https://www.begin.re/the-workshop
+From Boy Geniuses to Mad Scientists: How Americans Got So Weird About Science | Collectors Weekly
+Inspect
+
+https://www.collectorsweekly.com/articles/how-americans-got-so-weird-about-science/
+When the business model *is* the privacy violation
+Inspect
+
+https://freedom-to-tinker.com/2018/04/12/when-the-business-model-is-the-privacy-violation/
+Why ‘Find your passion!’ may be bad advice | Stanford News
+Inspect
+
+https://news.stanford.edu/2018/06/18/find-passion-may-bad-advice/
+Exploring Linear Algebra - Part 1: Estimating Route Costs
+Inspect
+
+https://medium.com/@asmello/exploring-linear-algebra-part-1-estimating-route-costs-cc156d00e2bc
+What is this thing, called swing? | The Home of Happy Feet
+Inspect
+
+http://thehomeofhappyfeet.com/what-is-this-thing-called-swing/
+Ask HN: Old CS lecturer looking for advice from current and recent students | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17431577
+*Bull Shit Jobs: A Theory* - Marginal REVOLUTION
+Inspect
+
+https://marginalrevolution.com/marginalrevolution/2018/05/bull-shit-jobs-theory.html
+The Rise of Bullshit Jobs
+Inspect
+
+https://jacobinmag.com/2018/06/bullshit-jobs-david-graeber-work-service
+No, you don't need ML/AI. You need SQL
+Inspect
+
+https://cyberomin.github.io/startup/2018/07/01/sql-ml-ai.html
+DjVu - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/DjVu
+Question - Quora
+Inspect
+
+https://www.quora.com/How-does-Linux-compare-to-Windows
+Historicizing with a Bulldozer – Member Feature Stories – Medium
+Inspect
+
+https://medium.com/s/story/peterson-historian-aide-m%C3%A9moire-9aa3b6b3de04
+Kirk Whalum on the Essence of Soul at the Aspen Ideas Festival - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/07/the-definition-of-soul-music-empathy/564245/
+The rich world needs higher real wage growth | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17435869
+GitHub - harababurel/gcsf: a FUSE file system based on Google Drive
+Inspect
+
+https://github.com/harababurel/gcsf
+Are we stuck with cement? | The Outline
+Inspect
+
+https://theoutline.com/post/5124/are-we-stuck-with-cement-environmental-impact?zd=1&zi=lcrx3fay
+How to read | Robert Heaton
+Inspect
+
+https://robertheaton.com/2018/06/25/how-to-read/
+The Math of Causation Puzzle Solution | Quanta Magazine
+Inspect
+
+https://www.quantamagazine.org/the-math-of-causation-puzzle-solution-20180629/
+Andrew Sullivan: Why We Should Say Yes to Drugs
+Inspect
+
+https://nymag.com/daily/intelligencer/2018/05/andrew-sullivan-why-we-should-say-yes-to-drugs.html
+How the Disposable Straw Explains Modern Capitalism - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/06/disposable-america/563204/
+The "Boring Software" manifesto
+Inspect
+
+https://tqdev.com/2018-the-boring-software-manifesto
+How much does a tech bro cost? | Cities | The Guardian
+Inspect
+
+https://www.theguardian.com/cities/ng-interactive/2018/jul/02/how-much-does-a-tech-bro-cost
+Ask HN: Who is hiring? (July 2018) | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17442187
+The real responsive design challenge? RSS.
+Inspect
+
+https://begriffs.com/posts/2016-05-28-rss-responsive-design.html
+An Advanced Intro to GnuPG
+Inspect
+
+https://begriffs.com/posts/2016-11-05-advanced-intro-gnupg.html
+Why Linux kernel development still uses email - programming
+Inspect
+
+https://www.reddit.com/r/programming/comments/73gpys/why_linux_kernel_development_still_uses_email/
+Why Github can't host the Linux Kernel Community
+Inspect
+
+https://blog.ffwll.ch/2017/08/github-why-cant-host-the-kernel.html
+Why the Predatory Theory of Human Nature is False (And Foolish)
+Inspect
+
+https://umairhaque.com/why-the-predatory-theory-of-human-nature-is-wrong-e501942d8e0d
+The Four Steps of American Collapse – Eudaimonia and Co
+Inspect
+
+https://eand.co/collapsonomics-d22dd40c97d9
+Skyscanner — a UX case study – Muzli - Design Inspiration
+Inspect
+
+https://medium.muz.li/skyscanner-a-ux-case-study-8a904eabec8c
+Microsoft Bob Gets the Last Laugh – Member Feature Stories – Medium
+Inspect
+
+https://medium.com/s/story/the-adventures-of-microsoft-bob-metaphor-design-84e411784894
+The Ways In Which We Warp Attraction – Kris Gage – Medium
+Inspect
+
+https://medium.com/@krisgage/the-ways-in-which-we-warp-attraction-aad88e8b8b87
+We’re In an Epidemic of Mistrust in Science – Trust Issues – Medium
+Inspect
+
+https://medium.com/s/trustissues/were-in-an-epidemic-of-mistrust-in-science-4cac447fa4ed
+Is Bezos holding Seattle hostage? The cost of being Amazon's home | Cities | The Guardian
+Inspect
+
+https://www.theguardian.com/cities/2018/jul/04/is-bezos-holding-seattle-hostage-the-cost-of-being-amazons-home
+Latent Environmental and Genetic InTeraction model – Alexia Jolicoeur-Martineau
+Inspect
+
+https://ajolicoeur.wordpress.com/legit/
+UX designers, stop the jargon and keep it simple
+Inspect
+
+https://thenextweb.com/syndication/2018/06/24/the-user-experience-of-choosing-the-simplest-possible-words/
+think blues brothers - Google Search
+Inspect
+
+https://www.google.com/search?q=think+blues+brothers&oq=thinkblues+br&aqs=c…7j0l3.6001j0j4&client=ms-android-motorola&sourceid=chrome-mobile&ie=UTF-8#
+FWD:Everyone | tutorial
+Inspect
+
+https://fwdeveryone.com/info?tab=tutorial
+XEP-0060: Publish-Subscribe
+Inspect
+
+https://xmpp.org/extensions/xep-0060.html
+Codius - Open-source Hosting Platform for Smart Programs
+Inspect
+
+https://codius.org/
+Einstein Right Again: Even the Heaviest Objects Fall the Same Way - D-brief
+Inspect
+
+http://blogs.discovermagazine.com/d-brief/2018/07/04/einstein-relativity-heavy-objects-fall/#.Wz5CWilOkbs
+Our human ancestors walked on two feet but their children still had a backup plan
+Inspect
+
+https://m.phys.org/news/2018-07-human-ancestors-feet-children-backup.html
+Study shows where brain transforms seeing into acting | Picower Institute
+Inspect
+
+http://picower.mit.edu/news/study-shows-where-brain-transforms-seeing-acting
+GitHub - timqian/hacker-job-trends
+Inspect
+
+https://github.com/timqian/hacker-job-trends/
+Thanks to California, a news site (or other business) now has to let you cancel your subscription online » Nieman Journalism Lab
+Inspect
+
+http://www.niemanlab.org/2018/07/thanks-to-california-a-news-site-or-other-business-now-has-to-let-you-cancel-your-subscription-online/
+The unreasonable effectiveness of Deep Learning Representations
+Inspect
+
+https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf
+Implanting diamonds with flaws to provide key technology for quantum communications
+Inspect
+
+https://www.princeton.edu/news/2018/07/05/implanting-diamonds-flaws-provide-key-technology-quantum-communications
+Why your brain never runs out of problems to find
+Inspect
+
+https://theconversation.com/why-your-brain-never-runs-out-of-problems-to-find-98990
+The BeOS file system, an OS geek retrospective | Ars Technica
+Inspect
+
+https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/
+Yes, Amazon Is Tracking People | Cato Institute
+Inspect
+
+https://www.cato.org/publications/commentary/yes-amazon-tracking-people
+GitHub - globaleaks/GlobaLeaks: GlobaLeaks - The Open-Source Whistleblowing Software
+Inspect
+
+https://github.com/globaleaks/GlobaLeaks
+An AI system for editing music in videos | MIT News
+Inspect
+
+http://news.mit.edu/2018/ai-editing-music-videos-pixelplayer-csail-0705
+E-waste mining could be big business - and good for the planet. - BBC News
+Inspect
+
+https://www.bbc.com/news/business-44642176
+A tutorial on the free-energy framework for modelling perception and learning -
+Inspect
+
+https://tmorville.github.io//finprojects/free-energy/
+Don’t Tell Me What to Do! | Psychology Today Australia
+Inspect
+
+https://www.psychologytoday.com/au/blog/love-cycles-fear-cycles/201807/don-t-tell-me-what-do
+Fermat’s Library – Annotating Academic Papers Every Week
+Inspect
+
+https://blog.ycombinator.com/fermats-library-annotating-academic-papers-every-week/
+The failed quest to bring "Smell-O-Vision" to the internet
+Inspect
+
+https://thehustle.co/digiscents-ismell-fail
+Inside the BloomReach Algorithm - Using Machine Learning to Understand Page Templates - BloomReach
+Inspect
+
+https://www.bloomreach.com/en/blog/2018/07/using-machine-learning-to-learn-page-templates.html
+Argoledo
+Inspect
+
+https://www.argoledo.com/
+The Debate Link: The Twilight of Liberalism
+Inspect
+
+http://dsadevil.blogspot.com/2018/07/the-twilight-of-liberalism.html?m=1
+The Debate Link: Is Judaism Headed for a Schism?
+Inspect
+
+http://dsadevil.blogspot.com/2018/07/is-judaism-headed-for-schism.html?m=1
+The Debate Link: Racism is a Productive Ideology
+Inspect
+
+http://dsadevil.blogspot.com/2018/06/racism-is-productive-ideology.html?m=1
+The Debate Link: The Media is Not Part of the Liberal Family
+Inspect
+
+http://dsadevil.blogspot.com/2018/06/the-media-is-not-part-of-liberal-family.html?m=1
+Leftist Guide to Fighting Antisemitism You've Been Waiting | Lilith Magazine
+Inspect
+
+https://www.lilith.org/blog/2017/11/the-leftist-guide-to-fighting-antisemitism-youve-been-waiting-for/
+jfrej.org
+Inspect
+
+http://jfrej.org/wp-content/uploads/2017/11/JFREJ-Understanding-Antisemitism-November-2017-1.pdf
+Leftist Guide to Fighting Antisemitism You've Been Waiting | Lilith Magazine
+Inspect
+
+https://www.lilith.org/blog/2017/11/the-leftist-guide-to-fighting-antisemitism-youve-been-waiting-for/
+I Talked to 39 Women Who Write Nonfiction, and Here's What I've Learned
+Inspect
+
+https://electricliterature.com/i-talked-to-39-women-who-write-nonfiction-and-heres-what-i-ve-learned-bdb71b6a926d
+Brutalist Web Design
+Inspect
+
+https://brutalist-web.design/
+Brutalist Websites
+Inspect
+
+http://brutalistwebsites.com/
+Literate Programming: Empower Your Writing with Emacs Org-Mode - OfferZen
+Inspect
+
+https://www.offerzen.com/blog/literate-programming-empower-your-writing-with-emacs-org-mode
+anansi: a NoWeb-inspired literate programming preprocessor
+Inspect
+
+https://john-millikin.com/software/anansi
+The Bulk of Software Engineering in 2018 is Just Plumbing - Karl L. Hughes
+Inspect
+
+https://www.karllhughes.com/posts/plumbing
+Carrying class and gender: Cargo bikes as symbolic markers of egalitarian gender roles of urban middle classes in Dutch inner cities: Social & Cultural Geography: Vol 0, No 0
+Inspect
+
+https://www.tandfonline.com/doi/full/10.1080/14649365.2018.1489975
+Famed British Geologist Was Spectacularly Wrong About Stonehenge
+Inspect
+
+https://www.livescience.com/63003-sloppy-stonehenge-study.html
+hellowebbooks.com
+Inspect
+
+https://hellowebbooks.com/learn-command-line/
+medium.com
+Inspect
+
+https://medium.com/@natemurthy/all-the-things-i-hate-about-python-5c5ff5fda95e
+gist.github.com
+Inspect
+
+https://gist.github.com/jmoy/59c0ef25196716f1a0f4fd0efae6e099
+Time traveling with graph databases, such as NoSQL multi-model DB: ArangoDB
+Inspect
+
+https://www.arangodb.com/2018/07/time-traveling-with-graph-databases/
+blog.jonlu.ca
+Inspect
+
+https://blog.jonlu.ca/posts/the-federalist-papers-author-identification-through-k-means-clustering
+GitHub - mukund109/word-mesh: A context-preserving word cloud generator
+Inspect
+
+https://github.com/mukund109/word-mesh/
+Logic Theorist - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Logic_Theorist
+What I would do differently if I was learning to program again - learnprogramming
+Inspect
+
+https://www.reddit.com/r/learnprogramming/comments/8wr9xv/what_i_would_do_differently_if_i_was_learning_to/
+How Do I Stop Forgetting What I Learned So Quickly?
+Inspect
+
+https://mystudentvoices.com/how-do-i-stop-forgetting-what-i-learned-so-quickly-125b1562bf95
+How Predatory Capitalism Ate America From the Inside Out
+Inspect
+
+https://eand.co/how-predatory-capitalism-ate-america-from-the-inside-out-5ed955aec2b8
+Why Smart People Are Stupid | The New Yorker
+Inspect
+
+https://www.newyorker.com/tech/frontal-cortex/why-smart-people-are-stupid
+Why Smart People Are Stupid | The New Yorker
+Inspect
+
+https://www.newyorker.com/tech/frontal-cortex/why-smart-people-are-stupid
+On the relative independence of thinking biases and cognitive ability. - PubMed - NCBI
+Inspect
+
+https://www.ncbi.nlm.nih.gov/pubmed/18361678
+Troubling Trends in Machine Learning Scholarship – Approximately Correct
+Inspect
+
+http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/
+The Moral Case for Universal Basic Income – Member Feature Stories – Medium
+Inspect
+
+https://medium.com/s/story/work-ethics-eea0907cd0ae
+Costa Rica Becomes the First Nation to Ban Fossil Fuels
+Inspect
+
+https://medium.com/@inkind/costa-rica-becomes-the-first-nation-to-ban-fossil-fuels-a180691daae4
+Healthy Love Is Honoring Each Other As Humans – Scribe – Medium
+Inspect
+
+https://medium.com/scribe/healthy-love-is-honoring-each-other-as-humans-e4a58615c26b
+Why Didn’t America Become Part of the Modern World?
+Inspect
+
+https://eand.co/why-didnt-america-become-part-of-the-modern-world-dac6d65e9015
+How to Become an American Citizen – Member Feature Stories – Medium
+Inspect
+
+https://medium.com/s/story/luck-and-citizenship-9c83fb084356
+Ribbons and Tabs Give OnlyOffice Suite a Fresh Look | Reviews | LinuxInsider
+Inspect
+
+https://www.linuxinsider.com/edpick/85435.html
+Download ONLYOFFICE Desktop Editors. It's free | ONLYOFFICE
+Inspect
+
+https://www.onlyoffice.com/download-desktop.aspx
+A Queer History of Computing: Part Two | Rhizome
+Inspect
+
+http://rhizome.org/editorial/2013/mar/19/queer-computing-2/
+From Filesystems to CRUD and Beyond · Cloud Atomic Laboratory
+Inspect
+
+https://www.cloudatomiclab.com/post-crud/
+People Aren’t Dumb. The World Is Hard. - Freakonomics Freakonomics
+Inspect
+
+http://freakonomics.com/podcast/richard-thaler/
+The open-plan office is a terrible, horrible, no good, very bad idea
+Inspect
+
+https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
+New report: Falling Short: An analysis of the reporting of UK drone strikes by the MoD – Drone Wars UK
+Inspect
+
+https://dronewars.net/2018/07/09/falling-short/
+Sapping Attention: Google Books and the open web.
+Inspect
+
+http://sappingattention.blogspot.com/2018/07/google-books-and-open-web.html?m=1
+A biologist believes that trees speak a language we can learn — Quartz
+Inspect
+
+https://qz.com/1116991/a-biologist-believes-that-trees-speak-a-language-we-can-learn/
+Have the Tech Giants Grown Too Powerful? That’s an Easy One - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/07/11/magazine/facebook-google-uber-tech-giants-power.html
+GitHub - adjoint-io/bulletproofs: Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup
+Inspect
+
+https://github.com/adjoint-io/bulletproofs
+Neil Mitchell's Haskell Blog: Inside the paper: Build Systems a la Carte
+Inspect
+
+https://neilmitchell.blogspot.com/2018/07/inside-paper-build-systems-la-carte.html?m=1
+SummerDance Taste of Chicago
+Inspect
+
+https://m.facebook.com/events/2126873077582178/?notif_t=plan_reminder&notif_id=1531346369355496
+City of Chicago :: Chicago SummerDance Schedule - July
+Inspect
+
+https://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_summerdance1.html
+Welcome to i3ipc-python’s documentation! — i3ipc-python 1.2.0 documentation
+Inspect
+
+https://i3ipc-python.readthedocs.io/en/latest/
+7.2. re — Regular expression operations — Python 2.7.15 documentation
+Inspect
+
+https://docs.python.org/2/library/re.html#examples
+Index
+Inspect
+
+https://pars.ee/
+Spiffy: Enabling File-System Aware Storage Applications | USENIX
+Inspect
+
+https://www.usenix.org/conference/fast18/presentation/sun
+On Semicolons and the Rules of Writing - The Millions
+Inspect
+
+https://themillions.com/2018/07/on-semicolons-and-the-rules.html
+The inconvenient truth about cancer and mobile phones | Technology | The Guardian
+Inspect
+
+https://www.theguardian.com/technology/2018/jul/14/mobile-phones-cancer-inconvenient-truths
+About /e/ – /e/
+Inspect
+
+https://e.foundation/about-e/
+Leaving Apple and Google : my “eelo odyssey” — Introduction
+Inspect
+
+https://hackernoon.com/leaving-apple-and-google-my-eelo-odyssey-introduction-d22741f990d7
+Cancer and mobile phones | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17530688
+CopperheadOS - Secure mobile devices
+Inspect
+
+https://copperhead.co/android/
+LineageOS for microG
+Inspect
+
+https://lineage.microg.org/
+How Eelo is Building a Google-Free Android for the Masses
+Inspect
+
+http://techpp.com/2018/06/28/eelo-profile-google-free-android/amp/
+How to Read Source Code | All Confirmation Bias, All The Time
+Inspect
+
+http://aredridel.dinhe.net/2015/03/29/how-to-read-source-code/
+On Preferring A to B, while also preferring B to A - Marginal REVOLUTION
+Inspect
+
+https://marginalrevolution.com/marginalrevolution/2018/07/preferring-b-also-preferring-b.html
+Two Generals and Time Machines
+Inspect
+
+https://mwhittaker.github.io/blog/two_generals_and_time_machines/
+Welcome to i3ipc-python’s documentation! — i3ipc-python 1.2.0 documentation
+Inspect
+
+https://i3ipc-python.readthedocs.io/en/latest/#listening-to-events
+i3: IPC interface (interprocess communication)
+Inspect
+
+https://i3wm.org/docs/ipc.html#_available_events
+Health Insurers Are Vacuuming Up Details About You —… — ProPublica
+Inspect
+
+https://www.propublica.org/article/health-insurers-are-vacuuming-up-details-about-you-and-it-could-raise-your-rates
+What Knitting Can Teach You About Math | Innovation | Smithsonian
+Inspect
+
+https://www.smithsonianmag.com/innovation/what-knitting-can-teach-you-about-math-180969637/?no-ist
+Supercharging the Git Commit Graph IV: Bloom Filters – Microsoft DevOps Blog
+Inspect
+
+https://blogs.msdn.microsoft.com/devops/2018/07/16/super-charging-the-git-commit-graph-iv-bloom-filters/
+Linux touchpad like a Macbook: goal worth pursuing? – Relentless Simplicity
+Inspect
+
+https://williambharding.com/blog/technology/linux-touchpad-like-a-macbook-goal-worth-pursuing/
+‘Star Citizen’ Court Documents Reveal the Messy Reality of Crowdfunding a $200 Million Game - Motherboard
+Inspect
+
+https://motherboard.vice.com/en_us/article/ne5n7b/star-citizen-court-documents-reveal-the-messy-reality-of-crowdfunding-a-dollar200-million-game
+X-ray data may be first evidence of a star devouring a planet | MIT News
+Inspect
+
+http://news.mit.edu/2018/x-ray-data-first-evidence-star-devouring-planet-0718
+Pipeline as YAML: Alpha release
+Inspect
+
+https://jenkins.io/blog/2018/07/17/simple-pull-request-plugin/
+How Finland Rebranded Itself as a Literary Country
+Inspect
+
+https://www.theparisreview.org/blog/2018/07/16/how-finland-rebranded-itself-as-a-literary-country/
+The Dark Knight's Legacy, 10 Years Later - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/07/the-dark-knight-legitimized-the-superhero-movie-for-better-and-worse/565448/
+Python post-Guido [LWN.net]
+Inspect
+
+https://lwn.net/SubscriberLink/759756/931b0f4617723184/
+Gene editing causes multiple mutations
+Inspect
+
+https://m.dw.com/en/getting-real-crispr-cas9-gene-editing-causes-lots-of-mutations/a-44742022?xtref=https%253A%252F%252Fnews.ycombinator.com%252F
+WeasyPrint converts HTML/CSS documents to PDF - WeasyPrint
+Inspect
+
+https://weasyprint.org/
+In 5 states, richest Americans live in a "new Gilded Age" - CBS News
+Inspect
+
+https://www.cbsnews.com/news/in-5-states-richest-americans-live-in-a-new-gilded-age/
+The Mythos of Model Interpretability - ACM Queue
+Inspect
+
+https://queue.acm.org/detail.cfm?id=3241340
+Deep, free, elemental: a dance to celebrate women, in the deepest diving pool in the world | Aeon Videos
+Inspect
+
+https://aeon.co/videos/deep-free-elemental-a-dance-to-celebrate-women-in-the-deepest-diving-pool-in-the-world
+Why politics needs hope (but no longer inspires it) | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/why-politics-needs-hope-but-no-longer-inspires-it
+A fanatic against fanaticism, and other pleasures of Bertrand Russell in his own words | Aeon Videos
+Inspect
+
+https://aeon.co/videos/a-fanatic-against-fanaticism-and-other-pleasures-of-bertrand-russell-in-his-own-words
+If you want to eat clean and green, is the future halal? | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/if-you-want-to-eat-clean-and-green-is-the-future-halal
+Are humans really blind to the gorilla on the basketball court? | Aeon Essays
+Inspect
+
+https://aeon.co/essays/are-humans-really-blind-to-the-gorilla-on-the-basketball-court
+Does anyone have the right to 'speak on the behalf of'? | Aeon Essays
+Inspect
+
+https://aeon.co/essays/does-anyone-have-the-right-to-speak-on-the-behalf-of
+Writing about Philosophy
+Inspect
+
+http://tylerneylon.com/a/writing-about-philosophy/
+Life, liberty, and the pursuit of privacy | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2016/06/29/Privacy-as-a-hobby.html
+What motivates the authors of the software you use? | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2016/09/09/What-motivates-the-authors-of-the-software-you-use.html
+Learn about your package manager | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2018/01/10/Learn-your-package-manager.html
+Are Things Getting Better or Worse? | The New Yorker
+Inspect
+
+https://www.newyorker.com/magazine/2018/07/23/are-things-getting-better-or-worse
+Windows Command-Line: Inside the Windows Console – Windows Command Line Tools For Developers
+Inspect
+
+https://blogs.msdn.microsoft.com/commandline/2018/07/10/windows-command-line-inside-the-windows-console/
+Duplication is far cheaper than the wrong abstraction | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17578714
+New Wearable Sensor Detects Stress Hormone in Sweat - IEEE Spectrum
+Inspect
+
+https://spectrum.ieee.org/view-from-the-valley/biomedical/diagnostics/new-wearable-sensor-detects-stress-hormone-in-sweat
+µPad
+Inspect
+
+https://web.getmicropad.com/#!
+9 Books to Expand Your Idea of What Feminism Looks Like
+Inspect
+
+https://electricliterature.com/9-books-to-expand-your-idea-of-what-feminism-looks-like-7fe711fc0d78
+The liar’s dividend, and other challenges of deep-fake news | Paul Chadwick | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/jul/22/deep-fake-news-donald-trump-vladimir-putin
+Solar and wind power are growing. Grid managers need to get ready. - Vox
+Inspect
+
+https://www.vox.com/energy-and-environment/2018/5/18/17359730/wind-solar-power-grid-electricity-managers
+Algorithmic Injustice - The New Atlantis
+Inspect
+
+https://www.thenewatlantis.com/publications/algorithmic-injustice
+Why Do Sports Teams Visit the White House? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/06/which-america-is-trump-celebrating/562127/
+Whose Motivation? Which Good? - The New Atlantis
+Inspect
+
+https://www.thenewatlantis.com/publications/whose-motivation-which-good
+TechnoSophos: Be Nice And Write Stable Code
+Inspect
+
+http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html
+What if people were paid for their data? - Data workers of the world, unite
+Inspect
+
+https://www.economist.com/the-world-if/2018/07/07/what-if-people-were-paid-for-their-data
+A Study of Thousands of Dropbox Projects Reveals How Successful Teams Collaborate
+Inspect
+
+https://hbr.org/2018/07/a-study-of-thousands-of-dropbox-projects-reveals-how-successful-teams-collaborate
+Confessions of an Ex-Prosecutor - Reason.com
+Inspect
+
+http://reason.com/archives/2016/06/23/confessions-of-an-ex-prosecutor
+Introducing Data Transfer Project: an open source platform promoting universal data portability | Google Open Source Blog
+Inspect
+
+https://opensource.googleblog.com/2018/07/introducing-data-transfer-project.html?m=1
+An open source platform promoting universal data portability | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17596146
+The Data Transfer Project | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17574707
+Ariadne's thread (logic) - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Ariadne%27s_thread_(logic)
+Characteristica universalis - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Characteristica_universalis
+Stewart Brand - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Stewart_Brand
+Whole Earth Discipline - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Whole_Earth_Discipline
+Small Is Beautiful - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Small_Is_Beautiful
+Home > The WELL
+Inspect
+
+https://www.well.com/
+Opinion | The Man Who Changed the World, Twice - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/05/07/opinion/stewart-brand-hippie-silicon.html
+Stephen Gaskin, Hippie Who Founded an Enduring Commune, Dies at 79 - The New York Times
+Inspect
+
+https://www.nytimes.com/2014/07/03/us/stephen-gaskin-hippie-who-founded-an-enduring-commune-dies-at-79.html
+The WELL - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/The_WELL
+The Farm (Tennessee) - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/The_Farm_(Tennessee)
+Libraries - Northwestern University
+Inspect
+
+https://www.library.northwestern.edu/
+Inspect
+
+https://search.library.northwestern.edu/primo-explore/account?vid=NULVNEW&lang=en_US&section=overview
+Digitocracy: A Story by Andy Weir – Future Human – Medium
+Inspect
+
+https://medium.com/s/futurehuman/digitocracy-a-story-by-andy-weir-a13c0412e50d
+Conceptual compression means beginners don’t need to know SQL — hallelujah!
+Inspect
+
+https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah-661c1eaed983
+Whiteness is the Longest Con – Tim Wise – Medium
+Inspect
+
+https://medium.com/@timjwise/whiteness-is-the-longest-con-6c424b4c91d5
+Nothing Can Replace Libraries (Yet) – Lance Ulanoff – Medium
+Inspect
+
+https://medium.com/@LanceUlanoff/nothing-can-replace-todays-libraries-yet-537802124834
+QuadJobs | College Jobs
+Inspect
+
+https://www.quadjobs.com/student/jobs
+Steve Blank Secret History
+Inspect
+
+https://steveblank.com/secret-history/
+Opinion | How Lies Spread Online - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/03/08/opinion/sunday/truth-lies-spread-online.html
+send-email - man.sr.ht
+Inspect
+
+https://man.sr.ht/git.sr.ht/send-email.md
+gitpub/README.md at master · git-federation/gitpub
+Inspect
+
+https://github.com/git-federation/gitpub/blob/master/README.md
+A Fear of Lawsuits Really Does Seem to Result in Extra Medical Tests - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/07/23/upshot/malpractice-lawsuits-medical-costs.html
+Michael Dyck's Contradance Index: By Title
+Inspect
+
+http://www.ibiblio.org/contradance/index/by_title.html
+Michael Dyck's Contradance Index
+Inspect
+
+http://www.ibiblio.org/contradance/index/#indexes
+Contra Dances, Matrices, and Groups | Science News
+Inspect
+
+https://www.sciencenews.org/article/contra-dances-matrices-and-groups
+Different partners, different places: mathematics applied to the construction of four-couple folk dances: Journal of Mathematics and the Arts: Vol 7, No 1
+Inspect
+
+https://www.tandfonline.com/doi/full/10.1080/17513472.2013.772042?src=recsys
+Connections between contra dancing and mathematics: Journal of Mathematics and the Arts: Vol 4, No 1
+Inspect
+
+https://www.tandfonline.com/doi/full/10.1080/17513470903188182?src=recsys
+hypotext/notation: Collection of quotes on interesting notations & how they affect thought.
+Inspect
+
+https://github.com/hypotext/notation
+The Encyclopedia of Human-Computer Interaction, 2nd Ed. | Interaction Design Foundation
+Inspect
+
+https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed
+Rereading Childhood Books Can Be Therapeutic - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/07/what-rereading-childhood-books-teaches-adults-about-themselves/566261/
+This Man Says the Mind Has No Depths - Issue 62: Systems - Nautilus
+Inspect
+
+http://m.nautil.us/issue/62/systems/this-man-says-the-mind-has-no-depths
+My Name is Brian and I Build Supercomputers in My Spare Time | Parallella
+Inspect
+
+https://www.parallella.org/2014/06/03/my-name-is-brian-and-i-build-supercomputers-in-my-spare-time/
+Replacing Linux with a Database System
+Inspect
+
+https://www.nextplatform.com/2018/07/23/replacing-linux-with-a-database-system/
+Resistant protocols: How decentralization evolves – John Backus – Medium
+Inspect
+
+https://medium.com/@jbackus/resistant-protocols-how-decentralization-evolves-2f9538832ada
+The Troubled Quest for the Superconducting Wind Turbine - IEEE Spectrum
+Inspect
+
+https://spectrum.ieee.org/green-tech/wind/the-troubled-quest-for-the-superconducting-wind-turbine
+How to Pick a Career (That Actually Fits You) - Wait But Why
+Inspect
+
+https://waitbutwhy.com/2018/04/picking-career.html
+The Mutt E-Mail Client
+Inspect
+
+http://www.mutt.org/doc/manual/
+A modern Unix mail setup
+Inspect
+
+http://catern.com/2014/05/15/mail-setup.html
+Amazon could never replace libraries. Here’s everything we offer that Amazon doesn’t. - Vox
+Inspect
+
+https://www.vox.com/first-person/2018/7/26/17616516/amazon-silicon-valley-libraries-forbes
+Thread by @sehurlburt: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you: 1. Have you described what it is and what […]"
+Inspect
+
+https://threadreaderapp.com/thread/921921604140937216.html
+xdg-shell.xml\xdg-shell\stable - wayland/wayland-protocols - Wayland protocol development
+Inspect
+
+https://cgit.freedesktop.org/wayland/wayland-protocols/tree/stable/xdg-shell/xdg-shell.xml
+Comments
+Inspect
+
+https://m.facebook.com/story.php?story_fbid=666107433728739&id=100009884650935&anchor_composer=false
+Urban Mushrooms: the social enterprise tackling youth unemployment by growing mushrooms from coffee waste | The Independent
+Inspect
+
+https://www.independent.co.uk/news/business/indyventure/urban-mushrooms-social-enterprise-newcastle-coffee-grounds-youth-unemployment-a8457021.html
+The Bullshit Web — Pixel Envy
+Inspect
+
+https://pxlnv.com/blog/bullshit-web/
+Do Not Read | Lapham’s Quarterly
+Inspect
+
+https://www.laphamsquarterly.org/roundtable/do-not-read
+Center for Humane Technology
+Inspect
+
+http://humanetech.com/
+Ask HN: Who is hiring? (August 2018) | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17663077
+How to tell the difference between persuasion and manipulation | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/how-to-tell-the-difference-between-persuasion-and-manipulation
+[WSS18] Punctuation Restoration With Recurrent Neural Networks - Online Technical Discussion Groups—Wolfram Community
+Inspect
+
+http://community.wolfram.com/groups/-/m/t/1379001
+The Command Line - The Best Newbie Interface?
+Inspect
+
+https://www.osnews.com/story/6282
+Firefox removes RSS support
+Inspect
+
+https://evertpot.com/firefox-rss/
+Labs/Ubiquity - MozillaWiki
+Inspect
+
+https://wiki.mozilla.org/Labs/Ubiquity
+Terminal latency
+Inspect
+
+https://danluu.com/term-latency/
+Animation for Attention and Comprehension
+Inspect
+
+https://www.nngroup.com/articles/animation-usability/
+Firefox removes RSS support | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17683357
+The ethics of computer science: this researcher has a controversial proposal
+Inspect
+
+https://www.nature.com/articles/d41586-018-05791-w
+OPDS - A standard for digital content distribution
+Inspect
+
+http://opds.io/
+Scientists present concept for the elimination of traffic jams
+Inspect
+
+https://m.techxplore.com/news/2018-08-scientists-concept-traffic.html
+Learning from Terminals to Design the Future of User Interfaces | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17682494
+Why Kakoune — The quest for a better code editor
+Inspect
+
+http://kakoune.org/why-kakoune/why-kakoune.html#_improving_on_the_editing_model
+On TermKit — Acko.net
+Inspect
+
+http://acko.net/blog/on-termkit/
+Inspect
+
+https://m.imgur.com/a/RghGkQE
+Why the Most Important Idea in Behavioral Decision-Making Is a Fallacy - Scientific American Blog Network
+Inspect
+
+https://blogs.scientificamerican.com/observations/why-the-most-important-idea-in-behavioral-decision-making-is-a-fallacy/?sf194849524=1
+A more realistic route to autonomous driving - Gently does it
+Inspect
+
+https://www.economist.com/business/2018/08/04/a-more-realistic-route-to-autonomous-driving
+Authenticity, Ontology, and Natural History: Some Reflections on Musical and Legal Interpretation by Kevin Toh :: SSRN
+Inspect
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3214890
+G Suite
+Inspect
+
+https://lawgimenez.me/2018/08/05/g-suite-horror-story/
+fx​Solver - Equation Library.Graphing Calculator.Math Solver
+Inspect
+
+https://www.fxsolver.com/
+The Dark Core of Personality - Scientific American Blog Network
+Inspect
+
+https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/
+Ask HN: What is the most unethical thing you've done as a programmer? | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17692005
+I’m a very slow thinker | Derek Sivers
+Inspect
+
+https://sivers.org/slow
+Nile: decentralized, commission-free, local-economy focused Amazon alternative · Issue #78 · open-source-ideas/open-source-ideas
+Inspect
+
+https://github.com/open-source-ideas/open-source-ideas/issues/78
+Freeing the Web from the Browser | reinterpretcast.com
+Inspect
+
+https://www.reinterpretcast.com/open-hypermedia
+Ask HN: What are the most interesting emerging fields in computer science? | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17696271
+Inspect
+
+https://litepaper.com/resources/hyperledger
+How Does Mastodon Work? - Kev Quirk
+Inspect
+
+https://kevq.uk/how-does-mastodon-work/
+It’s time to reimagine consent in our romantic lives | Mandy Len Catron | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/aug/05/reimagine-consent-romantic-lives-mandy-len-catron
+Home | Matrix.org
+Inspect
+
+https://matrix.org/blog/home/
+America's first big offshore wind farm sets record low price of 6.5c/kWh | RenewEconomy
+Inspect
+
+https://reneweconomy.com.au/americas-first-big-offshore-wind-farm-sets-record-low-price-of-6-5c-kwh-45126/
+Globalization Downfall - How Globalization Has Broken the Chain of Responsibility
+Inspect
+
+https://www.sapiens.org/culture/globalization-downfall-gladstone-australia/
+Librem 5 general development report – Updated August 6, 2018 – Purism
+Inspect
+
+https://puri.sm/posts/librem5-progress-report-17/
+Unknown Unknowns: The Problem of Hypocognition - Scientific American Blog Network
+Inspect
+
+https://blogs.scientificamerican.com/observations/unknown-unknowns-the-problem-of-hypocognition/
+Can A Simple Design Hack Save The Comments Section?
+Inspect
+
+https://arcdigital.media/can-a-simple-design-hack-save-the-comments-section-7e2f674a0f22
+WMATA SmarTrip®
+Inspect
+
+https://smartrip.wmata.com/Card/CardSummary.aspx?card_id=45855429
+You Cannot Serve Two Masters: The Harms of Dual Affiliation – arg min blog
+Inspect
+
+http://www.argmin.net/2018/08/09/co-employment/
+Solar Geo-Engineering Can't Save the World’s Crops - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/08/solar-geo-engineering-cant-save-the-worlds-crops/567017/?single_page=true
+Blog: Beautiful maths simplification: quaternion from two vectors – Lol Engine
+Inspect
+
+http://lolengine.net/blog/2013/09/18/beautiful-maths-quaternion-from-vectors
+The Hacks of Life: When Not To Serialize
+Inspect
+
+https://hacksoflife.blogspot.com/2018/08/when-not-to-serialize.html?m=1
+Machine learning links brain connectivity patterns with psychiatric symptoms
+Inspect
+
+https://www.healio.com/psychiatry/practice-management/news/online/%7B319020…chine-learning-links-brain-connectivity-patterns-with-psychiatric-symptoms
+Study finds flaw in emergent gravity
+Inspect
+
+https://m.phys.org/news/2018-08-flaw-emergent-gravity.html
+Essential Math for Data Science - 'Why' and 'How' – Towards Data Science
+Inspect
+
+https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd
+SparkNotes: Dubliners: “A Mother”
+Inspect
+
+http://m.sparknotes.com/lit/dubliners/section13/
+Theorists with a Swamp, not a Theory | Not Even Wrong
+Inspect
+
+http://www.math.columbia.edu/~woit/wordpress/?p=10460
+Classification datasets results
+Inspect
+
+http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+The origins of money are murky and mysterious | Science News
+Inspect
+
+https://www.sciencenews.org/article/money-ancient-origins-debate-mystery
+How intermittent breaks in interaction improve collective intelligence | PNAS
+Inspect
+
+http://www.pnas.org/content/early/2018/08/09/1802407115
+15 of the Most Important Algorithms That Helped Define Mathematics, Computing, and Physics
+Inspect
+
+https://interestingengineering.com/15-of-the-most-important-algorithms-that-helped-define-mathematics-computing-and-physics
+EXIF / File Metadata Viewer
+Inspect
+
+https://exif.tools/
+From laboratory in far west, China's surveillance state spreads quietly | Reuters
+Inspect
+
+https://www.reuters.com/article/us-china-monitoring-insight/from-laboratory-in-far-west-chinas-surveillance-state-spreads-quietly-idUSKBN1KZ0R3
+Are diesel’s days numbered? A view from a trip to BYD’s electric bus factory | Ars Technica
+Inspect
+
+https://arstechnica.com/cars/2018/08/are-diesels-days-numbered-a-view-from-a-trip-to-byds-electric-bus-factory/
+The Rise of Roommate Households - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/08/the-strange-unique-intimacy-of-the-roommate-relationship/567296/
+How Alfred Brendel Makes Perfect Sense of Classical Music - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/08/the-writer-who-makes-perfect-sense-of-classical-music/566039/
+"Dark Energy" Poses a New Challenge to String Theory - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/08/dark-energy-string-theory/567221/
+The Most Powerful Publishers in the World Don’t Give a Damn
+Inspect
+
+https://medium.com/the-atlantic/the-most-powerful-publishers-in-the-world-dont-give-a-damn-2fe44f4538ae
+Wikipedia, the Last Bastion of Shared Reality – The Atlantic – Medium
+Inspect
+
+https://medium.com/the-atlantic/wikipedia-the-last-bastion-of-shared-reality-b1e48595a65d
+How Fake Influence Campaigns on Facebook Lured Real People
+Inspect
+
+https://medium.com/the-new-york-times/how-fake-influence-campaigns-on-facebook-lured-real-people-6a0d8deaaf57
+90-Year-Old Woman Delights the World with Her Self-Portrait Photography
+Inspect
+
+https://mymodernmet.com/kimiko-nishimoto-self-portrait-photography/
+Aaron Longwell | Why Software Development Requires Servant Leaders | Culture Foundry
+Inspect
+
+https://adl.io/essays/why-software-development-requires-servant-leaders/
+Code Review Review is the Manager's Job
+Inspect
+
+https://hecate.co/blog/code-review-review-is-the-managers-job
+Dropbear SSH a lightweight alternative to OpenSSH | LibreByte
+Inspect
+
+https://www.librebyte.net/en/network/dropbear-ssh-a-lightweight-alternative-to-openssh/
+The Design is the Implementation
+Inspect
+
+https://danshumway.com/blog/design-is-implementation/
+Collaborate, but only intermittently, says new study: The march toward always-on technology may hinder groups' ability to solve complex problems -- ScienceDaily
+Inspect
+
+https://www.sciencedaily.com/releases/2018/08/180813160528.htm
+| Philosophical Transactions of the Royal Society B: Biological Sciences
+Inspect
+
+http://rstb.royalsocietypublishing.org/content/371/1688/20150106.long#ref-8
+Sex Differences in the Adult Human Brain: Evidence from 5216 UK Biobank Participants | Cerebral Cortex | Oxford Academic
+Inspect
+
+https://academic.oup.com/cercor/article/28/8/2959/4996558#
+Inspect
+
+https://grahamc.com/feed/
+The Secret to Ant Efficiency Is Idleness - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/08/16/science/ants-worker-idleness.html
+Tech's most egregious violations of user privacy - Axios
+Inspect
+
+https://www.axios.com/tech-user-practices-subscription-privacy-moviepass-12223fd0-b5f8-4e47-9fdb-03ead988516f.html
+Yes, Another Science Blog: Dear Academia, I loved you, but I’m leaving you. This relationship is hurting me.
+Inspect
+
+http://anothersb.blogspot.com/2014/04/dear-academia-i-loved-you-but-im.html?m=1
+PHD Comics: The Actual Method
+Inspect
+
+http://phdcomics.com/comics/archive.php?comicid=761
+Invisible Institute Relaunches the Citizens Police Data Project
+Inspect
+
+https://theintercept.com/2018/08/16/invisible-institute-chicago-police-data/
+How Amsterdam’s Airport Is Fighting Noise Pollution With Land Art | Amusing Planet
+Inspect
+
+https://www.amusingplanet.com/2017/06/how-amsterdams-airport-is-fighting.html?m=1
+Bitcoin’s energy usage is huge – we can't afford to ignore it | Technology | The Guardian
+Inspect
+
+https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency
+SXSW 2018: A Look Back at the 1960s PLATO Computing System - IEEE Spectrum
+Inspect
+
+https://spectrum.ieee.org/tech-talk/tech-history/silicon-revolution/sxsw-2018-a-look-back-at-the-1960s-plato-computing-system
+Monocle
+Inspect
+
+http://monocle.io/
+Hacker with a Cause
+Inspect
+
+https://www-newyorker-com.cdn.ampproject.org/v/s/www.newyorker.com/tech/ele…usqp=mq331AQCCAE%3D#referrer=https://www.google.com&amp_tf=From%20%251%24s
+#YesWeCode
+Inspect
+
+https://www.yeswecode.org/
+Dream Corps
+Inspect
+
+https://www.thedreamcorps.org/
+Our Mission & Work - #cut50 - New Site by Tectonica
+Inspect
+
+https://www.cut50.org/our_mission
+Green For All
+Inspect
+
+https://www.greenforall.org/
+#LoveArmy - Fight Different
+Inspect
+
+https://www.lovearmy.org/
+Van Jones - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Van_Jones
+Standing Together to Organize a Revolutionary Movement - KeyWiki
+Inspect
+
+https://www.keywiki.org/Standing_Together_to_Organize_a_Revolutionary_Movement
+The debt before the storm | SocialistWorker.org
+Inspect
+
+https://socialistworker.org/2017/09/26/the-debt-before-the-storm
+Inspect
+
+https://litepaper.com/resources/intro-to-augur
+Telling the Truth About Defects in Technology Should Never, Ever, Ever Be Illegal. EVER. | Electronic Frontier Foundation
+Inspect
+
+https://www.eff.org/deeplinks/2018/08/telling-truth-about-defects-technology-should-never-ever-ever-be-illegal-ever
+They Don't Build Them Like They Used to: The New Construction Shortage - Zillow Research
+Inspect
+
+https://www.zillow.com/research/new-construction-shortgage-20991/
+“What We Have Right Now Is A Really Brutal Economy”: Here’s How To Fix
+Inspect
+
+https://www.fastcompany.com/40532249/what-we-have-right-now-is-a-really-brutal-economy-heres-how-to-fix-it
+Arch Build System - ArchWiki
+Inspect
+
+https://wiki.archlinux.org/index.php/Arch_Build_System
+sway 1.0-beta.1 Milestone
+Inspect
+
+https://github.com/swaywm/sway/milestone/1
+freeCodeCamp/freeCodeCamp: The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
+Inspect
+
+https://github.com/freeCodeCamp/freeCodeCamp
+Commons Clause License
+Inspect
+
+https://commonsclause.com/
+The Commons Clause will destroy open source | Drew DeVault’s Blog
+Inspect
+
+https://drewdevault.com/2018/08/22/Commons-clause-will-destroy-open-source.html
+Licenses | Redis Labs
+Inspect
+
+https://redislabs.com/community/licenses/
+The Philosophy of Open Source in Community and Enterprise Software
+Inspect
+
+https://penguindreams.org/blog/the-philosophy-of-open-source-in-community-and-enterprise-software/
+The Commons Clause is an existential threat to open source | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17818407
+The Future of Notebooks: Lessons from JupyterCon | Will Crichton
+Inspect
+
+http://willcrichton.net/notes/lessons-from-jupytercon/
+Skim reading is the new normal. The effect on society is profound | Maryanne Wolf | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/aug/25/skim-reading-new-normal-maryanne-wolf
+Great Barrier Reef headed for ‘massive death’ - CNN.com
+Inspect
+
+https://edition.cnn.com/interactive/2018/08/world/great-barrier-reef/
+The Paradox of Karl Popper - Scientific American Blog Network
+Inspect
+
+https://blogs.scientificamerican.com/cross-check/the-paradox-of-karl-popper/
+Opinion | The Student Debt Problem Is Worse Than We Imagined - The New York Times
+Inspect
+
+https://www.nytimes.com/interactive/2018/08/25/opinion/sunday/student-debt-loan-default-college.html
+The Case for Applied History | History Today
+Inspect
+
+https://www.historytoday.com/robert-crowcroft/case-applied-history
+How to Print an Electric Motor - IEEE Spectrum
+Inspect
+
+https://spectrum.ieee.org/geek-life/hands-on/how-to-print-an-electric-motor
+Why U.S. Corporate Boards Don’t Include Workers - Bloomberg
+Inspect
+
+https://www.bloomberg.com/view/articles/2018-08-27/why-u-s-corporate-boards-don-t-include-workers
+The Hacks of Life: Solve Less General Problems
+Inspect
+
+https://hacksoflife.blogspot.com/2018/08/solve-less-general-problems.html?m=1
+The Nuclear Power Plant of the Future May Be Floating Near Russia - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/08/26/business/energy-environment/russia-floating-nuclear-power.html
+Toyota Investing $500 Million in Uber in Driverless-Car Pact - WSJ
+Inspect
+
+https://www.wsj.com/articles/toyota-investing-500-million-in-uber-in-driverless-car-pact-1535393774
+What You Need to Know Before Considering a PhD · fast.ai
+Inspect
+
+http://www.fast.ai/2018/08/27/grad-school/
+It Would Take Only a Single Senator to Check Trump - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/08/senate-inaction/568606/
+Congressional Republicans Are Failing the Test of Trump - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/08/looking-backward/568546/
+Stylus Labs
+Inspect
+
+http://www.styluslabs.com/
+Write – A word processor for handwriting | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17858641
+kovek's comments | Hacker News
+Inspect
+
+https://news.ycombinator.com/threads?id=kovek
+JupyterCon: I don't like Notebooks [slides] | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17856700
+RSSHub
+Inspect
+
+https://docs.rsshub.app/en/
+Daily Life in Maine, as Photographed by Robert F. Bukaty - The Atlantic
+Inspect
+
+https://www.theatlantic.com/photo/2018/08/daily-life-in-maine-as-photographed-by-robert-f-bukaty/568651/
+Louis C.K., Aziz Ansari, & the Power of Dudedesire - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/08/louis-ck-aziz-ansari-and-the-ongoing-power-of-dudedesire/568729/
+Will Bernie Sanders or Elizabeth Warren Run in 2020? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/08/warren-sanders-trump-2020/568462/
+Elizabeth Warren's Definition of Capitalism - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/08/elizabeth-warrens-theory-of-capitalism/568573/
+Study: Women's Suffrage Improved Education - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/08/womens-suffrage-educational-improvement/568726/
+UN Accuses Burma's Military of Rohingya Genocide - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/08/rohingya/568618/
+Guided Meditations - UCLA Mindful Awareness Research Center - Los Angeles, CA
+Inspect
+
+http://marc.ucla.edu/mindful-meditations
+California Gov. Jerry Brown signs overhaul of bail system, saying now 'rich and poor alike are treated fairly'
+Inspect
+
+http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-may-2018-jerry-brown-bail-reform-law-1535485040-htmlstory.html
+Yahoo, Bucking Industry, Scans Emails for Data to Sell Advertisers - WSJ
+Inspect
+
+https://www.wsj.com/articles/yahoo-bucking-industry-scans-emails-for-data-to-sell-advertisers-1535466959
+A majority of U.S. teens are taking steps to limit smartphone and social media use | TechCrunch
+Inspect
+
+https://techcrunch.com/2018/08/24/a-majority-of-u-s-teens-are-taking-steps-to-limit-smartphone-and-social-media-use/
+Trump Nudges Global Climate-Change Politics to the Right - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/08/a-global-rightward-shift-on-climate-change/568684/
+Jeremy Corbyn Is Wrong About Jews - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/08/jeremy-corbyn-jews/568792/
+The best free cultural & educational media on the web | Open Culture
+Inspect
+
+http://www.openculture.com/
+Logged off: meet the teens who refuse to use social media | Society | The Guardian
+Inspect
+
+https://www.theguardian.com/society/2018/aug/29/teens-desert-social-media
+Trust Us, We’re Secretly Working for a Foreign Government: How Australia’s Proposed Surveillance Laws Will Break The Trust Tech Depends On | Electronic Frontier Foundation
+Inspect
+
+https://www.eff.org/deeplinks/2018/08/trust-us-were-secretly-working-foreign-government-how-australias-proposed-crypto
+Geometric animations form a hypnotic tapestry of minimalist design | Aeon Videos
+Inspect
+
+https://aeon.co/videos/geometric-animations-form-a-hypnotic-tapestry-of-minimalist-design
+A fanatic against fanaticism, and other pleasures of Bertrand Russell in his own words
+Inspect
+
+https://aeon.co/videos/a-fanatic-against-fanaticism-and-other-pleasures-of-bertrand-russell-in-his-own-words
+What can 73 homes arranged by household income say about their residents? | Aeon Videos
+Inspect
+
+https://aeon.co/videos/what-can-73-homes-arranged-by-household-income-say-about-their-residents
+Soar around the Moon, carried by the music of Debussy, in this breathtaking space flight | Aeon Videos
+Inspect
+
+https://aeon.co/videos/soar-around-the-moon-carried-by-the-music-of-debussy-in-this-breathtaking-space-flight
+To my best belief: just what is the pragmatic theory of truth? | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/to-my-best-belief-just-what-is-the-pragmatic-theory-of-truth
+Trump unblocks more Twitter users after U.S. court ruling | Reuters
+Inspect
+
+https://www.reuters.com/article/us-usa-trump-twitter/trump-unblocks-more-twitter-users-after-u-s-court-ruling-idUSKCN1LE08Q
+NYC Mesh
+Inspect
+
+https://nycmesh.net/
+Welcome to Madoko
+Inspect
+
+https://www.madoko.net/
+Maps of subjective feelings | PNAS
+Inspect
+
+http://www.pnas.org/content/early/2018/08/27/1807390115
+Yuval Noah Harari on Why Technology Favors Tyranny - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/10/yuval-noah-harari-technology-tyranny/568330/
+Why Kids Want Things - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/08/kids-materialism/568987/
+Trump Has Changed How Teens View the News - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/08/trump-has-changed-how-teens-view-the-news/568783/
+Bulls**t Jobs (Part 1 of ∞) | Slate Star Codex
+Inspect
+
+http://slatestarcodex.com/2018/08/29/bullst-jobs-part-1-of-%E2%88%9E/
+The rise of giant consumer startups that said no to investor money - Recode
+Inspect
+
+https://www.recode.net/2018/8/29/17774878/consumer-startups-business-model-native-mvmt-tuft-needle
+The New Reading Environment | Issue 32 | n+1
+Inspect
+
+https://nplusonemag.com/issue-32/the-intellectual-situation/the-new-reading-environment/
+Get Started Contributing to Open Source Projects | CodeTriage
+Inspect
+
+https://www.codetriage.com/
+China’s Re-education Camps - WSJ
+Inspect
+
+https://www.wsj.com/articles/chinas-re-education-camps-1535497220
+Datalog Educational System
+Inspect
+
+http://www.fdi.ucm.es/profesor/fernan/des/index.html
+LyX | LyX – The Document Processor
+Inspect
+
+https://www.lyx.org/
+flock.largepriorit.top | 520: Web server is returning an unknown error
+Inspect
+
+http://flock.largepriorit.top/warning/E0ud4SGIm7f6D1lz/g1oS3VHQY8tvGPW.html?XfLH=JpyinKNZd0vSHbFcMMZ8B15ttnnhUTkilmUrlD83txnix0TEVW
+Southerners Tore Down Silent Sam. Now Northerners Need to Tear Down Confederate Flags. — Bunk
+Inspect
+
+https://www.bunkhistory.org/resources/3060?related=350&relationship_name=RELATED
+Southerners Tore Down Silent Sam. Now Northerners Need to Tear Down Confederate Flags. | HuffPost
+Inspect
+
+https://m.huffpost.com/us/entry/us_5b856016e4b0162f471cb9ea
+Why Read "Why Learn History" — Bunk
+Inspect
+
+https://www.bunkhistory.org/resources/3057?related=2001&relationship_name=CORE%20IDEA
+1968 @50 — Bunk
+Inspect
+
+https://www.bunkhistory.org/22
+American Corruption — Bunk
+Inspect
+
+https://www.bunkhistory.org/26
+John McWhorter: How Texting ‘LOL’ Changed Communication - The Atlantic
+Inspect
+
+https://www.theatlantic.com/video/index/569008/john-mcwhorter/
+A Guide to Trump’s New Campus Sexual-Assault Policy - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/08/a-guide-to-how-the-new-rules-on-campus-sexual-assault-could-work/569035/
+Mutiny at the big five is part of the future of work
+Inspect
+
+https://abe-winter.github.io/2018/08/30/mutiny.html
+Procrastination: It's pretty much all in the mind - BBC News
+Inspect
+
+https://www.bbc.com/news/health-45295392
+How the Brain Experiences Time - Neuroscience News
+Inspect
+
+https://neurosciencenews.com/time-perception-9771/
+What Do Happy Teens Do? | Psychology Today
+Inspect
+
+https://www.psychologytoday.com/us/blog/our-changing-culture/201808/what-do-happy-teens-do?amp
+Lego Wants to Completely Remake Its Toy Bricks (Without Anyone Noticing) - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/08/31/business/energy-environment/lego-plastic-denmark-environment-toys.html
+The Communist Cookbook That Defined Prague’s Cuisine - Gastro Obscura
+Inspect
+
+https://www.atlasobscura.com/articles/what-is-pragues-food-like
+Labor Board Backs Engineers Who Were Fired for Unionizing | WIRED
+Inspect
+
+https://www.wired.com/story/labor-board-backs-startup-engineers-fired-unionizing/
+Crunch Time in the NAFTA Negotiations: What's at Play for Canada on Digital Policy - Michael Geist
+Inspect
+
+http://www.michaelgeist.ca/2018/08/crunch-time-in-the-nafta-negotiations/
+Why Is American Mass Transit So Bad? It's a Long Story. - CityLab
+Inspect
+
+https://www.citylab.com/transportation/2018/08/how-america-killed-transit/568825/
+Robots ready to start killing crown-of-thorns starfish on Great Barrier Reef - ABC News (Australian Broadcasting Corporation)
+Inspect
+
+http://mobile.abc.net.au/news/2018-08-31/crown-of-thorns-starfish-killing-robot-great-barrier-reef-qld/10183072?pfmredir=sm
+Cognitive Biases and the Human Brain - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/09/cognitive-bias/565775/?single_page=true
+Oct/Nov/special event planning - When2meet
+Inspect
+
+https://www.when2meet.com/?7038603-4FDPA
+Ask HN: How to organize personal knowledge? | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=17892731
+Web Design Museum
+Inspect
+
+https://www.webdesignmuseum.org/
+Mastodon and the challenges of abuse in a federated system | Read the Tea Leaves
+Inspect
+
+https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/
+How to teach yourself hard things - Julia Evans
+Inspect
+
+https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/
+How Fiverr and Online Gig Platforms Create Competition - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/08/fiverr-online-gig-economy/569083/?single_page=true
+Focal point (game theory) - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Focal_point_(game_theory)
+Login - Spotify
+Inspect
+
+https://accounts.spotify.com/en-US/login?continue=https:%2F%2Fwww.spotify.c…Astartpage%26utm_medium%3Dquicksilver%26utm_source%3DSpotify_premiumupsell
+An intensive introduction to Cryptography
+Inspect
+
+https://www.intensecrypto.org/public/
+PaperTTY/README.md at master · joukos/PaperTTY
+Inspect
+
+https://github.com/joukos/PaperTTY/blob/master/README.md
+My eBay Active
+Inspect
+
+https://www.ebay.com/mys/active?MyEbayBeta&CurrentPage=MyeBayNextSelling&ssPageName=STRK%3AME%3ALNLK%3AMESEX
+The aesthetics of science fiction spaceship design
+Inspect
+
+https://uwspace.uwaterloo.ca/handle/10012/4935
+Japan starts space elevator experiments
+Inspect
+
+https://www.electronicsweekly.com/news/business/japan-starts-space-elevator-experiments-2018-08/
+Statement of Principles on Access to Evidence and Encryption
+Inspect
+
+https://www.homeaffairs.gov.au/about/national-security/five-country-ministerial-2018/access-evidence-encryption
+The Ocean Cleanup Is Starting, Aims To Cut Garbage Patch By 90% By 2040
+Inspect
+
+https://www.forbes.com/sites/jeffkart/2018/08/28/the-ocean-cleanup-is-starting-aims-to-cut-garbage-patch-by-90-by-2040/#12fbadaf253e
+How to Design for the Modern Web – Commit Log – Medium
+Inspect
+
+https://medium.com/commitlog/how-to-design-for-the-modern-web-52eaa926bae2
+Military robots are getting smaller and more capable - Miniature robotics
+Inspect
+
+https://www.economist.com/science-and-technology/2017/12/14/military-robots-are-getting-smaller-and-more-capable
+STAN 4 | Letters to Creationists
+Inspect
+
+https://letterstocreationists.wordpress.com/stan-4/
+Kansas Evolution Hearings: John Sanford and Robert DiSilvestro
+Inspect
+
+http://www.talkorigins.org/faqs/kansas/kangaroo4.html#p1803
+IoT: The Irrelevance of Thingies — Strong Towns
+Inspect
+
+https://www.strongtowns.org/journal/2018/8/28/iot-the-irrelevance-of-thingies
+The Next Evolution of Public Hearings — Strong Towns
+Inspect
+
+https://www.strongtowns.org/journal/2018/4/18/the-next-evolution-of-public-hearings
+From Co-Working to Co-Living — Strong Towns
+Inspect
+
+https://www.strongtowns.org/journal/2018/2/27/from-co-working-to-co-living
+Governments 'not on track' to cap temperatures at below 2 degrees: U.N. | Reuters
+Inspect
+
+https://www.reuters.com/article/us-thailand-climatechange/governments-not-on-track-to-cap-temperatures-at-below-2-degrees-u-n-idUSKCN1LI03S
+A World Without Work - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
+Coherence Penalty for Humans - Wide Awake Developers
+Inspect
+
+http://www.michaelnygard.com/blog/2018/01/coherence-penalty-for-humans/
+Comparison of text editing methods | Devon's Site
+Inspect
+
+http://devonzuegel.com/post/comparison-of-text-editing-methods
+Stellarium Web Online Planetarium
+Inspect
+
+https://stellarium-web.org/
+Wokeness and Myth on Campus - The New Atlantis
+Inspect
+
+https://www.thenewatlantis.com/publications/wokeness-and-myth-on-campus
+Reading with a pencil
+Inspect
+
+https://austinkleon.com/2018/08/30/reading-with-a-pencil/
+Backreaction: Science has a problem, and we must talk about it
+Inspect
+
+http://backreaction.blogspot.com/2018/09/science-has-problem-and-we-must-talk.html?m=1
+Taming the Lizard Brain - Quillette
+Inspect
+
+https://quillette.com/2018/08/27/taming-the-lizard-brain/
+Memex: My personal knowledge base | Devon's Site
+Inspect
+
+http://devonzuegel.com/post/memex-my-personal-knowledge-base
+Radical open-access plan could spell end to journal subscriptions
+Inspect
+
+https://www.nature.com/articles/d41586-018-06178-7
+A Fighter Pilot’s Guide to surviving on the roads | Portsmouth CTC
+Inspect
+
+https://www.portsmouthctc.org.uk/a-fighter-pilots-guide-to-surviving-on-the-roads/
+Notes on "A Philosophy of Software Design."
+Inspect
+
+https://lethain.com//notes-philosophy-software-design/
+index - man.sr.ht
+Inspect
+
+https://man.sr.ht/
+Charlottesville and Beyond
+Inspect
+
+https://www.adl.org/education/resources/tools-and-strategies/table-talk/charlottesville-and-beyond
+Confederate Monuments | Table Talk | ADL
+Inspect
+
+https://www.adl.org/education/resources/tools-and-strategies/table-talk/confederate-monuments
+Race, Perception and Implicit Bias
+Inspect
+
+https://www.adl.org/education/resources/tools-and-strategies/table-talk/race-perception-and-implicit-bias
+Hate Symbols | Table Talk | ADL
+Inspect
+
+https://www.adl.org/education/resources/tools-and-strategies/table-talk/hate-symbols
+Caitlyn Jenner and Being Transgender | Table Talk | ADL
+Inspect
+
+https://www.adl.org/education/resources/tools-and-strategies/table-talk/caitlyn-jenner-and-being-transgender
+Being There for Nonbinary Youth | Teaching Tolerance
+Inspect
+
+https://www.tolerance.org/magazine/summer-2016/being-there-for-nonbinary-youth
+Let's Talk! Discussing Gender in the Classroom | Teaching Tolerance
+Inspect
+
+https://www.tolerance.org/professional-development/webinars/lets-talk-gender
+Teaching About Race, Racism and Police Violence | Teaching Tolerance
+Inspect
+
+https://www.tolerance.org/moment/racism-and-police-violence
+Why Teaching Black Lives Matter Matters | Part I | Teaching Tolerance
+Inspect
+
+https://www.tolerance.org/magazine/summer-2017/why-teaching-black-lives-matter-matters-part-i
+Let's Talk! Discussing Whiteness | Teaching Tolerance
+Inspect
+
+https://www.tolerance.org/professional-development/webinars/whiteness
+In The Wake Of Charlottesville, How To Have Difficult Family Conversations : Code Switch : NPR
+Inspect
+
+https://www.npr.org/sections/codeswitch/2017/08/20/544483288/how-to-talk-race-with-your-family-ask-code-switch
+sway 1.0-beta.1 Milestone
+Inspect
+
+https://github.com/swaywm/sway/milestone/1
+Why We Need Web 3.0
+Inspect
+
+https://breakermag.com/why-we-need-web-3-0/
+Female, minority students took AP computer science in record numbers
+Inspect
+
+https://www.usatoday.com/story/tech/news/2018/08/27/female-minority-students-took-ap-computer-science-record-numbers/1079699002/
+Social purpose – Purism
+Inspect
+
+https://puri.sm/about/social-purpose/
+Social purpose corporation - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Social_purpose_corporation
+Benefit corporation - Wikipedia
+Inspect
+
+https://en.m.wikipedia.org/wiki/Benefit_corporation
+Ayanna Pressley's Victory and the End of Local Politics - The Atlantic
+Inspect
+
+https://www.theatlantic.com/ideas/archive/2018/09/politics-isnt-local-anymore/569347/
+With Honor's Donors Now Include Jeff Bezos - The Atlantic
+Inspect
+
+https://www.theatlantic.com/ideas/archive/2018/09/with-honor/569338/
+How to Teach White Kids About Race - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/09/white-kids-race/569185/
+Sheryl Sandberg Misled Congress About Facebook’s Conscience
+Inspect
+
+https://theintercept.com/2018/09/05/facebook-senate-hearing-sheryl-sandberg/
+ROS.org | Powering the world's robots
+Inspect
+
+http://www.ros.org/
+ROS/Tutorials - ROS Wiki
+Inspect
+
+http://wiki.ros.org/ROS/Tutorials
+Printing with sound | Harvard John A. Paulson School of Engineering and Applied Sciences
+Inspect
+
+https://www.seas.harvard.edu/news/2018/08/printing-with-sound
+Curriculum | Carnegie Mellon School of Computer Science
+Inspect
+
+https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum
+A Behavioral Economist Tries to Fix Email - The Atlantic
+Inspect
+
+https://www.theatlantic.com/business/archive/2017/03/economist-email-less-painful/518934/?single_page=true
+#youbroketheinternet So We Got Tracked Anyway
+Inspect
+
+chrome-distiller://fdd86778-9398-4df7-bbf0-311cc2ebeb51/?time=7033026&url=https%3A%2F%2Fyoubroketheinternet.org%2Ftrackedanyway
+The Servers Are Burning
+Inspect
+
+https://logicmag.io/05-the-servers-are-burning/
+REPL + Debugger = REPLugger, a pleasant and scalable live code editor
+Inspect
+
+https://tinyletter.com/Flowsheets/letters/repl-debugger-replugger-a-pleasant-and-scalable-live-code-editor
+Basic philosophy - Ximera
+Inspect
+
+https://ximera.osu.edu/mooculus/authorGuide/basicPhilosophy/basicPhilosophy
+It’s hard to know why music gives pleasure: is that the point? | Aeon Essays
+Inspect
+
+https://aeon.co/essays/its-hard-to-know-why-music-gives-pleasure-is-that-the-point
+#youbroketheinternet (YBTI)
+Inspect
+
+https://youbroketheinternet.org/
+Empeopled
+Inspect
+
+https://empeopled.com/
+Ancient farmers spared us from glaciers but profoundly changed Earth's climate
+Inspect
+
+https://m.phys.org/news/2018-09-ancient-farmers-glaciers-profoundly-earth.html
+Company using foreign workers botches U.S. Senate campaign finance records | Center for Public Integrity
+Inspect
+
+https://www.publicintegrity.org/2018/09/04/22214/company-using-foreign-workers-botches-us-senate-campaign-finance-records
+#occupy
+Inspect
+
+https://besetzen.noblogs.org/
+ISP Column - May 2018
+Inspect
+
+chrome-distiller://c6d4c9c2-c57e-4994-98f4-109a3f112f3e/?time=37089088&url=http%3A%2F%2Fwww.potaroo.net%2Fispcol%2F2018-05%2Fipv6-2018.html
+Contract upgrade anti-patterns | Trail of Bits Blog
+Inspect
+
+https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/
+The disturbing truth about teaching in America – video | US news | The Guardian
+Inspect
+
+https://www.theguardian.com/us-news/video/2018/sep/07/the-disturbing-truth-about-teaching-in-america-video
+Guardian US teacher takeover | Us-news | The Guardian
+Inspect
+
+https://www.theguardian.com/us-news/series/guardian-us-teacher-takeover
+The teacher revolt reshaping US politics | US news | The Guardian
+Inspect
+
+https://www.theguardian.com/us-news/2018/sep/07/teachers-oklahoma-activism-us-politics-strike-walkout
+Bi the Bi: How Do You Come Out to Your Parents as Bisexual? | HuffPost
+Inspect
+
+https://m.huffpost.com/us/entry/3187417
+On the road to pure Go X11 GUIs
+Inspect
+
+https://p.janouch.name/article-xgb.html#Demo-and-future
+No, the Subway Doesn't Have to Be Insanely Hot and Gross - VICE
+Inspect
+
+https://www.vice.com/en_us/article/ev8jye/no-the-subway-doesnt-have-to-be-insanely-hot-and-gross
+My Story as a Homeless Developer – Jesse Horne – Medium
+Inspect
+
+https://medium.com/@jessehorne/my-story-as-a-homeless-developer-5874731c42ed
+The End of Time - Issue 64: The Unseen - Nautilus
+Inspect
+
+http://m.nautil.us/issue/64/the-unseen/the-end-of-time
+The X-Windows Disaster – Don Hopkins – Medium
+Inspect
+
+https://medium.com/@donhopkins/the-x-windows-disaster-128d398ebd47
+The US chip industry starts to wake up to new competitive reality | Financial Times
+Inspect
+
+http://archive.is/y7W4k
+Scientists Are Retooling Bacteria to Cure Disease - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/04/health/synthetic-biology-pku.html
+The Strange Numbers That Birthed Modern Algebra | Quanta Magazine
+Inspect
+
+https://www.quantamagazine.org/the-strange-numbers-that-birthed-modern-algebra-20180906/
+cjbarber/ToolsOfTheTrade: Tools of The Trade, from Hacker News.
+Inspect
+
+https://github.com/cjbarber/ToolsOfTheTrade
+Richard Sackler — OxyContin billionaire — has patented a drug to wean addicts from opioids - The Washington Post
+Inspect
+
+https://www.washingtonpost.com/news/business/wp/2018/09/08/the-man-who-made…g-a-drug-to-wean-addicts-off-opioids/?noredirect=on&utm_term=.7a9481a3cf65
+reminiscence/README.md at master · kanishka-linux/reminiscence
+Inspect
+
+https://github.com/kanishka-linux/reminiscence/blob/master/README.md#reader-mode
+The algebra (and calculus!) of algebraic data types
+Inspect
+
+https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types
+Can Good Teaching Be Taught? - The New York Times
+Inspect
+
+https://www.nytimes.com/interactive/2018/09/06/magazine/student-performance-atlanta-teaching.html
+Above Avalon: Poaching Tesla
+Inspect
+
+https://www.aboveavalon.com/notes/2018/9/6/poaching-tesla
+DNS over TLS - Thoughts and Implementation
+Inspect
+
+https://sagi.io/2018/09/dns-over-tls---thoughts-and-implementation/index.html
+Anatomy of an AI System
+Inspect
+
+https://anatomyof.ai/
+Loneliness is a serious public-health problem - All the lonely people
+Inspect
+
+https://www.economist.com/international/2018/09/01/loneliness-is-a-serious-public-health-problem
+» Newspapers and Thinking the Unthinkable Clay Shirky
+Inspect
+
+http://www.shirky.com/weblog/2009/03/newspapers-and-thinking-the-unthinkable/
+Reverse Engineering Firmware Primer - Paul's Security Weekly
+Inspect
+
+https://wiki.securityweekly.com/Reverse_Engineering_Firmware_Primer
+Amazon’s Antitrust Antagonist Has a Breakthrough Idea - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/07/technology/monopoly-antitrust-lina-khan-amazon.html
+Civica Rx Formed By Hospitals To Make Drugs At Predictable Prices : Shots - Health News : NPR
+Inspect
+
+https://www.npr.org/sections/health-shots/2018/09/06/644935958/hospitals-prepare-to-launch-their-own-drug-company-to-fight-high-prices-and-shor
+Knowhere News
+Inspect
+
+https://knowherenews.com/
+How social-media platforms dispense justice - The deciders
+Inspect
+
+https://www.economist.com/business/2018/09/08/how-social-media-platforms-dispense-justice
+The New American Dream Job Is Pretty Dull - Bloomberg
+Inspect
+
+https://www.bloomberg.com/news/articles/2018-09-10/the-new-american-dream-job-is-pretty-dull
+Dulles Airport Surprises Passengers with Facial-Recognition Boarding - Nextgov
+Inspect
+
+https://www.nextgov.com/emerging-tech/2018/09/dulles-airport-surprises-passengers-facial-recognition-boarding/151095/
+Poor mental health at work 'widespread' - BBC News
+Inspect
+
+https://www.bbc.co.uk/news/health-45470517
+mjg59 | The Commons Clause doesn't help the commons
+Inspect
+
+https://mjg59.dreamwidth.org/51177.html
+Hacklily — sheet music editor
+Inspect
+
+https://www.hacklily.org/
+The Last of the Universe’s Ordinary Matter Has Been Found | Quanta Magazine
+Inspect
+
+https://www.quantamagazine.org/the-last-of-the-universes-ordinary-matter-has-been-found-20180910/
+Les Moonves, Janet Jackson, & #MeToo: The Power Problem - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/09/leslie-moonves-janet-jackson-metoo-power/569911/
+Editor’s Note: The American Crisis - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/10/editors-note-the-crisis-in-democracy/568276/
+Stephen Breyer: American Courts Can’t Ignore the World - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/10/stephen-breyer-supreme-court-world/568360/
+Girl Names for Baby Boys Aren't a Thing - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/09/girls-names-for-baby-boys/569962/
+Gillum, Pressley, and the Problem With Midterm Polls - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/09/cynthia-nixon-ayanna-pressley-andrew-gillum-polls-midterms/570001/
+Why America's Most Prestigious Colleges Are All Private - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/09/america-private-college-tuition/569812/
+Tim Harford — Article — How can we resist the seduction of the mobile phone?
+Inspect
+
+http://timharford.com/2018/09/how-can-we-resist-the-seduction-of-the-mobile-phone/
+The Omnigenic Model As Metaphor For Life | Slate Star Codex
+Inspect
+
+https://slatestarcodex.com/2018/09/13/the-omnigenic-model-as-metaphor-for-life/
+Guitar Dashboard
+Inspect
+
+http://guitardashboard.com/
+Brain's Dumped DNA May Lead to Stress, Depression - Scientific American
+Inspect
+
+https://www.scientificamerican.com/article/brain-rsquo-s-dumped-dna-may-lead-to-stress-depression/
+Serious design flaw in ESS ExpressVote touchscreen: “permission to cheat”
+Inspect
+
+https://freedom-to-tinker.com/2018/09/14/serious-design-flaw-in-ess-expressvote-touchscreen-permission-to-cheat/
+Let's bring back the Sabbath as a radical act against ‘total work’ | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/lets-bring-back-the-sabbath-as-a-radical-act-against-total-work
+Amazon launches Part Finder, built by technology it acquired from Partpic in 2016 | TechCrunch
+Inspect
+
+https://techcrunch.com/2018/07/19/amazons-new-ar-part-finder-helps-you-shop-for-those-odd-nuts-and-bolts/
+rwtxt/README.md at master · schollz/rwtxt
+Inspect
+
+https://github.com/schollz/rwtxt/blob/master/README.md
+SageMath - Open-Source Mathematical Software System
+Inspect
+
+https://www.sagemath.org/
+Tesla Model 3 Vs. Amtrak's Acela Express, New York City to Boston: Which Is Faster? - The Drive
+Inspect
+
+http://www.thedrive.com/new-cars/22940/tesla-model-3-vs-amtrak-acela-express-nyc-to-boston-which-is-faster-electric-car-or-high-speed-rail
+Neutron stars may contain the universe’s strongest material | Science News
+Inspect
+
+https://www.sciencenews.org/article/nuclear-pasta-neutron-stars-may-be-strongest-material-universe
+E Ink Waveforms are a closely guarded secret
+Inspect
+
+https://goodereader.com/blog/e-paper/e-ink-waveforms-are-a-closely-guarded-secret
+Stories
+Inspect
+
+https://dante-stories.herokuapp.com/
+201809 - apenwarr
+Inspect
+
+https://apenwarr.ca/log/?m=201809
+Programmers and Sadomasochism - apenwarr
+Inspect
+
+https://apenwarr.ca/log/20090222
+201807 - apenwarr
+Inspect
+
+https://apenwarr.ca/log/?m=201807
+Things You Should Never Do, Part I – Joel on Software
+Inspect
+
+https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+Why It's Okay to Throw Your Children's Art Away - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/09/throw-your-childrens-art-away/570379/
+The Constitution Is Threatened by Tribalism - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/10/the-threat-of-tribalism/568342/
+How Should Biology Textbooks Teach Race in High School? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/09/teaching-race-high-school-biology-textbooks/570319/
+Yoni Appelbaum: Americans Aren’t Practicing Democracy - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/10/losing-the-democratic-habit/568336/
+Photos: America’s Civic Reawakening - The Atlantic
+Inspect
+
+https://www.theatlantic.com/magazine/archive/2018/10/a-civic-reawakening/568357/
+Post-crash economics: have we learnt nothing?
+Inspect
+
+https://www.nature.com/articles/d41586-018-06608-6
+The Major Urban Revolution of Minor Transportation Means — Strong Towns
+Inspect
+
+https://www.strongtowns.org/journal/2018/9/13/the-major-urban-revolution-of-minor-transportation-means
+feedseer.com - Feedseer
+Inspect
+
+https://feedseer.com/about/more
+The Causal Revolutionary -
+Inspect
+
+https://www.3ammagazine.com/3am/the-causal-revolutionary/#.W5zZAEtAHvs.twitter
+packnback
+Inspect
+
+https://packnback.github.io/
+I worked in an Amazon warehouse. Bernie Sanders is right to target them | James Bloodworth | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/sep/17/amazon-warehouse-bernie-sanders
+Demo: MoCA+: Incorporating user modeling into mobile contextual advertising — Korea University
+Inspect
+
+https://koreauniv.pure.elsevier.com/en/publications/demo-moca-incorporating-user-modeling-into-mobile-contextual-adve
+US Congress passes bill to help advanced nuclear power | Ars Technica
+Inspect
+
+https://arstechnica.com/tech-policy/2018/09/us-congress-passes-bill-to-help-advanced-nuclear-power/
+Arc Studio Pro
+Inspect
+
+https://arcstudiopro.com/
+Étoilé
+Inspect
+
+http://etoileos.com/
+Cloudflare goes InterPlanetary - Introducing Cloudflare’s IPFS Gateway
+Inspect
+
+https://blog.cloudflare.com/distributed-web-gateway/
+sway 1.0-beta.1 Milestone
+Inspect
+
+https://github.com/swaywm/sway/milestone/1
+New research shows that, post net neutrality, internet providers are slowing down your streaming - News @ Northeastern
+Inspect
+
+https://news.northeastern.edu/2018/09/10/new-research-shows-your-internet-provider-is-in-control/
+What is ActivityPub, and how will it change the internet? – Jeremy Dormitzer
+Inspect
+
+https://jeremydormitzer.com/blog/what-is-activitypub-and-how-will-it-change-the-internet/
+The Scent of Bad Psychology – Put A Number On It!
+Inspect
+
+https://putanumonit.com/2018/09/07/the-scent-of-bad-psychology/
+The techlash against Amazon, Facebook and Google—and what they can do - A memo to big tech
+Inspect
+
+https://www.economist.com/briefing/2018/01/20/the-techlash-against-amazon-facebook-and-google-and-what-they-can-do
+'For me, this is paradise': life in the Spanish city that banned cars | Cities | The Guardian
+Inspect
+
+https://www.theguardian.com/cities/2018/sep/18/paradise-life-spanish-city-banned-cars-pontevedra
+Overview ‹ Masque — MIT Media Lab
+Inspect
+
+https://www.media.mit.edu/projects/masque/overview/
+Germany launches world's first hydrogen-powered train | Environment | The Guardian
+Inspect
+
+https://www.theguardian.com/environment/2018/sep/17/germany-launches-worlds-first-hydrogen-powered-train
+Being a whistleblower in tech isn’t easy — here’s why
+Inspect
+
+https://thenextweb.com/syndication/2018/09/18/being-a-whistleblower-in-tech-isnt-easy-heres-why/
+Living Abroad as an American Is Different Under Trump - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/09/expat-america-europe/570580/
+Survey Finds Majorities Support Refugees Across Europe - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/09/eu-refugees/570628/
+Is America Facing a Labor Shortage? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/ideas/archive/2018/09/is-america-facing-a-labor-shortage/570649/
+School Days Start and End Too Early - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/09/school-day-sleep-workday/570658/
+Kernel 201 - Let’s write a Kernel with keyboard and screen support - Arjun Sreedharan
+Inspect
+
+https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard
+Reimagining of Schrödinger’s cat breaks quantum mechanics — and stumps physicists
+Inspect
+
+https://www.nature.com/articles/d41586-018-06749-8
+Want more policies based on evidence? | Chicago Booth Review
+Inspect
+
+http://review.chicagobooth.edu/accounting/2018/article/want-more-policies-based-evidence
+How to Become a Better Software Developer: A Handbook on Personal Performance – 7pace Blog
+Inspect
+
+https://www.7pace.com/blog/become-a-better-programmer-skills-development
+Sublime Merge - Git, done Sublime
+Inspect
+
+https://www.sublimemerge.com/
+Revealed: The Justice Dept's secret rules for targeting journalists with FISA court orders
+Inspect
+
+https://freedom.press/news/revealed-justice-depts-secret-rules-targeting-journalists-fisa-court-orders/
+Reference: Floor Plan Models | booktwo.org
+Inspect
+
+http://booktwo.org/notebook/reference-floor-plan-models/
+Crippling DDoS vulnerability put the entire Bitcoin market at risk
+Inspect
+
+https://thenextweb.com/hardfork/2018/09/20/bitcoin-core-vulnerability-blockchain-ddos/
+Dickinsonia Is the Oldest Known Animal, Steroids Show - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/09/the-oldest-known-animal-is-wait-seriously-what-is-that/570865/
+McDonald's Strike: The Simplicity of #MeToo Demands - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/09/the-simple-request-of-the-mcdonalds-antisexual-harassment-protests/570775/
+Christine Blasey Ford & America's Failure to Listen to Women - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/09/brett-kavanaugh-christine-blasey-ford/570715/
+2018's Cattiest Academic Fight Is Over the ‘Meghalayan’ - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/09/the-geologist-mega-drama-about-an-ancient-mega-drought/570508/
+Trump's China Trade War Isn't a 'New Cold War' - The Atlantic
+Inspect
+
+https://www.theatlantic.com/international/archive/2018/09/china-trade-war-trump/570880/
+Why the Confidence Gap Is a Myth - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/09/women-workplace-confidence-gap/570772/
+BBC - Travel - The South African mountains older than continents
+Inspect
+
+http://www.bbc.com/travel/story/20180920-the-south-african-mountains-older-than-continents
+Qualcomm’s Chain of Trust – LineageOS – LineageOS Android Distribution
+Inspect
+
+https://lineageos.org/engineering/Qualcomm-Firmware/
+All the plastic you can and cannot recycle - BBC News
+Inspect
+
+https://www.bbc.com/news/science-environment-45496884?app=news.science_and_environment.story.45496884.page
+‘Robotic Skins’ turn everyday objects into robots | YaleNews
+Inspect
+
+https://news.yale.edu/2018/09/19/robotic-skins-turn-everyday-objects-robots
+Apple says it’s tracking your calls and emails to ‘prevent fraud’
+Inspect
+
+https://nypost.com/2018/09/20/apple-says-its-tracking-your-calls-and-emails-to-prevent-fraud/
+‘Journalologists’ use scientific methods to study academic publishing. Is their work improving science? | Science | AAAS
+Inspect
+
+http://www.sciencemag.org/news/2018/09/journalologists-use-scientific-methods-study-academic-publishing-their-work-improving
+Clean Coder Blog
+Inspect
+
+https://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html
+Can randomised controlled trials test whether poverty relief works? | Aeon Essays
+Inspect
+
+https://aeon.co/essays/can-randomised-controlled-trials-test-whether-poverty-relief-works
+Setting a maximum wage for CEOs would be good for everyone | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/setting-a-maximum-wage-for-ceos-would-be-good-for-everyone
+How a Huguenot philosopher realised that atheists could be virtuous | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/how-a-huguenot-philosopher-realised-that-atheists-could-be-virtuous
+Functional Core, Imperative Shell
+Inspect
+
+https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell
+Destroy All Software
+Inspect
+
+https://www.destroyallsoftware.com/screencasts
+A Day in the Life of Americans | FlowingData
+Inspect
+
+https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/
+The ultimate guide to proper use of animation in UX
+Inspect
+
+https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
+Oracles, or why smart contracts still haven’t changed the world?
+Inspect
+
+https://blog.smartdec.net/oracles-or-why-smart-contracts-still-havent-changed-the-world-69464999e1d3
+Is It Time to Get Rid of Time? - Issue 64: The Unseen - Nautilus
+Inspect
+
+http://m.nautil.us/issue/64/the-unseen/is-it-time-to-get-rid-of-time
+Basic Security Guide (Tech Solidarity)
+Inspect
+
+https://techsolidarity.org/resources/basic_security.htm
+Inside look at modern web browser (part 1)  |  Web  |  Google Developers
+Inspect
+
+https://developers.google.com/web/updates/2018/09/inside-browser-part1
+How communist Bulgaria became a leader in tech and sci-fi | Aeon Essays
+Inspect
+
+https://aeon.co/essays/how-communist-bulgaria-became-a-leader-in-tech-and-sci-fi
+Inspect
+
+https://dozenal-music.netlify.com/
+The hierarchy of countries winning Nobels in the sciences is shifting - Daily chart
+Inspect
+
+https://www.economist.com/graphic-detail/2018/05/10/the-hierarchy-of-countries-winning-nobels-in-the-sciences-is-shifting
+The Couple Who Helped Decode Dyslexia - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/21/health/dyslexia-shaywitz-yale.html
+Michigan Activists Pushing Anti-Gerrymandering Amendment - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/09/a-grassroots-movement-in-michigan-has-gerrymandering-in-the-crosshairs/570949/
+Wikipedia: Rotten to the Core? - Progressive Radio Network
+Inspect
+
+http://prn.fm/wikipedia-rotten-core/
+Machine Learning Confronts the Elephant in the Room | Quanta Magazine
+Inspect
+
+https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/
+Fine Tuning Is Just Fine - Issue 64: The Unseen - Nautilus
+Inspect
+
+http://m.nautil.us/issue/64/the-unseen/fine-tuning-is-just-fine
+Release Mid-Autumn Festival - VNote is 2 years old now · tamlok/vnote
+Inspect
+
+https://github.com/tamlok/vnote/releases/tag/v2.0
+Back2Skool: Axis & Allies 1942
+Inspect
+
+https://m.facebook.com/events/267344200569889?__referral_info_referrer_type=dashboard&__referral_info_mechanism=upcoming_events_card
+Opinion | The Coders of Kentucky - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/21/opinion/sunday/silicon-valley-tech.html
+Octopuses given mood drug 'ecstasy' reveal genetic link to evolution of social behaviors in humans
+Inspect
+
+https://m.phys.org/news/2018-09-octopuses-mood-drug-ecstasy-reveal.html
+Washington Hurtles Toward Hearing on Sexual Assault - The Atlantic
+Inspect
+
+https://www.theatlantic.com/politics/archive/2018/09/christine-blasey-ford-and-the-search-for-a-standard-of-proof/571063/
+Interactive explanation of marching cubes and dual contouring
+Inspect
+
+http://wordsandbuttons.online/interactive_explanation_of_marching_cubes_and_dual_contouring.html
+Did Thomas Kuhn Kill Truth? - The New Atlantis
+Inspect
+
+https://www.thenewatlantis.com/publications/did-thomas-kuhn-kill-truth
+A brief history of the numeric keypad – UX Collective
+Inspect
+
+https://uxdesign.cc/a-brief-history-of-the-numeric-keypad-59112cbf4c49
+How to read a mathematics textbook | David R. MacIver
+Inspect
+
+https://www.drmaciver.com/2016/05/how-to-read-a-mathematics-textbook/
+Queer: A Graphic History” by Meg-John Barker and Julia Schee - Google Search
+Inspect
+
+https://www.google.com/search?q=Queer%3A+A+Graphic+History%E2%80%9D+by++Meg…aphic%20History%E2%80%9D%20by%20%20Meg-John%20Barker%20and%20Julia%20Schee
+The Ethics of Unpaid Labor and the OSS Community | ashe dryden
+Inspect
+
+https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community
+DRMacIver's Notebook: Thoughts from David R. MacIver
+Inspect
+
+https://notebook.drmaciver.com/
+One Man's Plan to Make Sure Gene Editing Doesn't Go Haywire - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2017/07/a-scientists-plan-to-protect-the-world-by-changing-how-science-is-done/532962/
+Programming is Like Writing
+Inspect
+
+http://thoughtspile.github.io/2018/09/19/Programming-is-like-writing/
+Another Week with Bad Software
+Inspect
+
+http://thoughtspile.github.io/2018/09/23/bad-software-week/
+Problems in Mathematics
+Inspect
+
+https://yutsumura.com/
+Mr. Rogers vs. the Superheroes
+Inspect
+
+https://longreads.com/2018/09/19/mr-rogers-vs-the-superheroes/
+I’m supporting The Correspondent because I believe in democracy and journalism (and beautiful…
+Inspect
+
+https://medium.com/de-correspondent/baratunde-thurston-im-supporting-the-correspondent-because-i-believe-in-democracy-and-journalism-abdc4cf7db94
+With Instagram’s Founders Out, Welcome to Facebook, Inc - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/09/with-instagrams-founders-out-welcome-to-facebook-inc/571234/
+What Makes a ‘Dad Joke’? - The Atlantic
+Inspect
+
+https://www.theatlantic.com/family/archive/2018/09/deconstructing-the-dad-joke/571174/
+Google’s Tool to Help Cities Fight Climate Change - The Atlantic
+Inspect
+
+https://www.theatlantic.com/technology/archive/2018/09/google-climate-change-greenhouse-gas-emissions/571144/
+Braess's paradox - Wikipedia
+Inspect
+
+https://en.wikipedia.org/wiki/Braess%27s_paradox
+Evidence that addictive behaviors have strong links with ancient retroviral infection -- ScienceDaily
+Inspect
+
+https://www.sciencedaily.com/releases/2018/09/180924174503.htm
+When Do We Have Empathy for the Mentally Ill? | JSTOR Daily
+Inspect
+
+https://daily.jstor.org/when-do-we-have-empathy-for-the-mentally-ill/
+Bill Cosby's Sentence, Andrea Constand's Statement, & What Comes Next - The Atlantic
+Inspect
+
+https://www.theatlantic.com/entertainment/archive/2018/09/bill-cosby-sentencing/571213/
+Elite Private Schools' Culture of Misogyny - The Atlantic
+Inspect
+
+https://www.theatlantic.com/education/archive/2018/09/girls-who-live-all-boys-world/571273/
+Maine Asks Restaurant To Stop Giving Lobsters Cannabis Before Boiling Them : The Salt : NPR
+Inspect
+
+https://www.npr.org/sections/thesalt/2018/09/25/651466068/maine-asks-restaurant-to-stop-giving-lobsters-cannabis-before-boiling-them
+Walmart Requires Lettuce, Spinach Suppliers to Join Blockchain - CIO Journal. - WSJ
+Inspect
+
+https://blogs.wsj.com/cio/2018/09/24/walmart-requires-lettuce-spinach-suppliers-to-join-blockchain/
+[1809.08632v1] BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains
+Inspect
+
+https://arxiv.org/abs/1809.08632v1
+What Surveys Dating Back Decades Reveal About Date Rape - The Atlantic
+Inspect
+
+https://www.theatlantic.com/ideas/archive/2018/09/what-surveys-dating-back-decades-reveal-about-date-rape/571330/
+Are we really on the brink of a cure for Alzheimer’s? | Dean Burnett | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/sep/25/cure-for-alzheimers-new-drug
+Is America an oligarchy dominated by billionaires? | US news | The Guardian
+Inspect
+
+https://www.theguardian.com/us-news/ng-interactive/2018/sep/26/america-oligarchy-dominated-billionaires-big-money-series
+The man who beat Monsanto: 'They have to pay for not being honest' | Business | The Guardian
+Inspect
+
+https://www.theguardian.com/business/2018/sep/25/monsanto-dewayne-johnson-cancer-verdict
+Announcing Hyperswarm
+Inspect
+
+https://pfrazee.hashbase.io/blog/hyperswarm
+Ex-Google Employee Urges Lawmakers to Take On Company - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/26/technology/google-privacy-china-congress.html
+How to visualize decision trees
+Inspect
+
+http://explained.ai/decision-tree-viz/index.html
+How leaves talk to roots
+Inspect
+
+https://m.phys.org/news/2018-09-roots.html
+Kademlia - Wikipedia
+Inspect
+
+https://en.wikipedia.org/wiki/Kademlia
+Mummy of paraplegic child shows how Peru’s Nasca culture treated disability | Ars Technica
+Inspect
+
+https://arstechnica.com/science/2018/09/mummy-of-paraplegic-child-shows-how-perus-nasca-culture-treated-disability/
+Show HN: You Need Feeds – Introduce friends/family/workmates to RSS and webfeeds | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=18076566
+Religion is about emotion regulation, and it’s very good at it | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/religion-is-about-emotion-regulation-and-its-very-good-at-it
+Against civility, or why Habermas recommends a wild public sphere | Aeon Ideas
+Inspect
+
+https://aeon.co/ideas/against-civility-or-why-habermas-recommends-a-wild-public-sphere
+Spheres can make concrete leaner, greener
+Inspect
+
+https://m.phys.org/news/2018-09-spheres-concrete-leaner-greener.html
+The design and implementation of modern column-oriented database systems | the morning paper
+Inspect
+
+https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/
+About time: why western philosophy can only teach us so much | News | The Guardian
+Inspect
+
+https://www.theguardian.com/news/2018/sep/25/about-time-why-western-philosophy-can-only-teach-us-so-much
+globalinequality: Hayekian communism
+Inspect
+
+http://glineq.blogspot.com/2018/09/hayekian-communism.html?m=1
+Hire people who aren't proven
+Inspect
+
+https://leonardofed.io/blog/startups-hiring.html
+After century of removing appendixes, docs find antibiotics can be enough | Ars Technica
+Inspect
+
+https://arstechnica.com/science/2018/09/after-century-of-removing-appendixes-docs-find-antibiotics-can-be-enough/
+Sociophysics and Econophysics, the Future of Social Science? | JSTOR Daily
+Inspect
+
+https://daily.jstor.org/sociophysics-and-econophysics-the-future-of-social-science/
+Linus Torvalds: 'I'll never be cuddly but I can be more polite' - BBC News
+Inspect
+
+https://www.bbc.com/news/technology-45664640
+Bizarre Particles Keep Flying Out of Antarctica's Ice, and They Might Shatter Modern Physics
+Inspect
+
+https://www.livescience.com/63692-standard-model-broken-supersymmetry-new-physics.html
+The Militant Miners Who Exposed the Horrors of Black Lung | JSTOR Daily
+Inspect
+
+https://daily.jstor.org/the-militant-miners-who-exposed-the-horrors-of-black-lung/
+Reddit Profile
+Inspect
+
+https://redditprofile.com/
+Congratulations. Your Study Went Nowhere. - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/24/upshot/publication-bias-threat-to-science.html
+Leave Seller Feedback
+Inspect
+
+https://www.amazon.com/gp/feedback/leave-consolidated-feedback.html?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0
+Pass the tortoise shell | Review: What is the History of the Book?
+Inspect
+
+https://www.the-tls.co.uk/articles/public/pass-the-tortoise-shell/
+Biased News Media or Biased Readers? An Experiment on Trust - The New York Times
+Inspect
+
+https://www.nytimes.com/2018/09/26/upshot/biased-news-media-or-biased-readers-an-experiment-on-trust.html
+Introducing Workers KV
+Inspect
+
+https://blog.cloudflare.com/introducing-workers-kv/
+Architecture of Nautilus, the new Dropbox search engine | Dropbox Tech Blog
+Inspect
+
+https://blogs.dropbox.com/tech/2018/09/architecture-of-nautilus-the-new-dropbox-search-engine/
+The Fourth Copernican Revolution - Issue 64: The Unseen - Nautilus
+Inspect
+
+http://m.nautil.us/issue/64/the-unseen/the-fourth-copernican-revolution
+Watch Scientists Accidentally Blow Up Their Lab With The Strongest Indoor Magnetic Field Ever - Motherboard
+Inspect
+
+https://motherboard.vice.com/en_us/article/7xj4vg/watch-scientists-accidentally-blow-up-their-lab-with-the-strongest-indoor-magnetic-field-ever
+CAESAR - Northwestern University
+Inspect
+
+https://caesar.northwestern.edu/
+Brett Kavanaugh and the Fate of Elite Conservatism - The Atlantic
+Inspect
+
+https://www.theatlantic.com/ideas/archive/2018/09/brett-kavanaugh-and-fate-elite-conservatism/571669/
+Take a Deep Breath and Say Hi to Your Exposome - Scientific American
+Inspect
+
+https://www.scientificamerican.com/article/take-a-deep-breath-and-say-hi-to-your-exposome/
+Columnstore and B+ tree – are hybrid physical designs important? | the morning paper
+Inspect
+
+https://blog.acolyer.org/2018/09/28/columnstore-and-b-tree-are-hybrid-physical-designs-important/
+16 Foods That You Can Magically Regrow From Scraps
+Inspect
+
+https://www.buzzfeed.com/jesseszewczyk/16-food-scraps-that-you-can-regrow?origin=tub
+the library haunter 🦉 on Twitter: "if teen-aged Mary Shelley can win a storytelling contest with Lord Byron by inventing science-fiction, I can surely make it to Friday."
+Inspect
+
+https://mobile.twitter.com/SketchesbyBoze/status/1041708371932577792?ref_sr…com%2Ffarrahpenn%2Ftweets-about-books-that-youll-lol-at-even-if-you-havent
+cunidev / gestures · GitLab
+Inspect
+
+https://gitlab.com/cunidev/gestures
+About | Solid
+Inspect
+
+https://solid.inrupt.com/about
+Don't Get Distracted
+Inspect
+
+https://www.calebthompson.io/talks/dont-get-distracted/
+SoLiD - Read Write Web Community Group
+Inspect
+
+https://www.w3.org/community/rww/wiki/SoLiD
+What 61,000 hidden structures reveal about Maya civilization | Ars Technica
+Inspect
+
+https://arstechnica.com/science/2018/09/what-61000-hidden-structures-reveal-about-maya-civilization/
+Solving My Email Problem
+Inspect
+
+http://blog.nawaz.org/posts/2018/Sep/solving-my-email-problem/#id2
+Linked Data - Design Issues
+Inspect
+
+https://www.w3.org/DesignIssues/LinkedData.html
+AWS explained: the basics – inQdo
+Inspect
+
+https://www.inqdo.com/aws-explained-the-basics/?lang=en
+NixOS manual
+Inspect
+
+https://nixos.org/nixos/manual/index.html#sec-installation
+NixOS 18.03 Released | Hacker News
+Inspect
+
+https://news.ycombinator.com/item?id=16773824
+About NixOS
+Inspect
+
+https://nixos.org/nixos/about.html
+The Scientific Paper Is Obsolete. Here's What's Next. - The Atlantic
+Inspect
+
+https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+How did we let modern slavery become part of our everyday lives? | Felicity Lawrence | Opinion | The Guardian
+Inspect
+
+https://www.theguardian.com/commentisfree/2018/apr/02/modern-slavery-daily-life-exploitation-goods-services
+Can The Maya Parenting Method Turn My 2-Year-Old Into A Household Helper? : Goats and Soda : NPR
+Inspect
+
+https://www.npr.org/sections/goatsandsoda/2018/09/01/641266260/how-to-get-kids-to-do-chores-does-the-maya-method-work
+View less tabs…
+WebView in com.accuweather.android (69.0.3497.100)
+2.3.5 (cx)
+Inspect
+
+http://m.accuweather.com/?aid=jwc5cw&v=2.3.5
